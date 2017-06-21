@@ -1,0 +1,24 @@
+{
+  "extends": [
+    "egg",
+    "plugin:react/recommended"
+  ],
+  "plugins": [
+    "react"
+  ],
+  "rules": {
+    "no-unused-vars": [2, { "varsIgnorePattern": "^h$" }],
+    "react/react-in-jsx-scope": 0,
+    "react/prop-types": 0,
+    "react/no-unknown-property": [1, { "ignore": ["class"] }]
+  },
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "ecmaFeatures": {
+      "spread": true,
+      "rest": true,
+      "experimentalObjectRestSpread": true,
+      "restParams": true
+    }
+  }
+}
