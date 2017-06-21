@@ -1,6 +1,6 @@
 {
   "name": "preact-highlight",
-  "version": "0.1.0-0",
+  "version": "1.0.0",
   "description": "a syntax highlight component for preact",
   "main": "./build/index.js",
   "scripts": {
