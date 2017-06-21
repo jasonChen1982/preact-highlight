@@ -1,9 +1,14 @@
 {
-  "presets": ["es2015", "stage-0"],
+  "presets": [
+    "es2015"
+  ],
   "plugins": [
-    "transform-class-properties",
-    ["transform-es2015-classes", { "loose":true }],
     "transform-object-assign",
-    ["transform-react-jsx", { "pragma":"h" }]
+    [
+      "transform-react-jsx",
+      {
+        "pragma": "h"
+      }
+    ]
   ]
 }
