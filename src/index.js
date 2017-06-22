@@ -15,10 +15,10 @@ class HighLight extends Component {
     return JSON.stringify(raw, null, '  ');
   }
   render({ language, className }) {
-    const __html = this.parserSyntax();
+    const codeStr = this.parserSyntax();
     return (
       <div className={className}>
-        <pre><code className={`hljs ${language}`} dangerouslySetInnerHTML={{ __html }}></code></pre>
+        <pre><code className={`hljs ${language}`}>{codeStr}</code></pre>
       </div>
     );
   }
@@ -27,4 +27,6 @@ HighLight.defaultProps = {
   language: 'json',
 };
 
-module.exports = HighLight;
+module.exports = {
+  HighLight,
+};
