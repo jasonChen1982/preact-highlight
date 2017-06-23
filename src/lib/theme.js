@@ -6,10 +6,17 @@ const utils = require('./utils');
 const CACHE_STYLES = {};
 
 function themeManger(theme) {
-  if (!THEME[theme]) return;
-  if (!CACHE_STYLES[theme] && isBrowser) {
-    CACHE_STYLES[theme] = '';
-    console.log(utils.cdn(version, THEME[theme]));
+  if (!THEME[theme] || !isBrowser) return;
+  const doc = document;
+  const headDoc = doc.head;
+  if (!CACHE_STYLES[theme]) {
+    const link = doc.createElement('link');
+    const url = utils.cdn(version, THEME[theme]);
+    link.setAttribute('href', url);
+    link.setAttribute('rel', 'stylesheet');
+    CACHE_STYLES[theme] = true;
+    headDoc.appendChild(link);
+    console.log(url);
   }
 }
 
