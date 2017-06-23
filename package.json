@@ -5,7 +5,7 @@
   "main": "./build/index.js",
   "scripts": {
     "build": "babel src -d build",
-    "release": "node ./builder/theme.js",
+    "theme": "node ./builder/theme.js",
     "prever": "npm run build",
     "ver": "standard-version -m 'chore(release): v%s'",
     "postver": "git push --follow-tags origin master && npm publish",
@@ -32,7 +32,7 @@
   "homepage": "https://github.com/jasonChen1982/preact-highlight#readme",
   "standard-version": {
     "scripts": {
-      "postbump": "npm run release"
+      "postbump": "npm run theme"
     }
   },
   "peerDependencies": {
