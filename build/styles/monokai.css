@@ -1,0 +1,60 @@
+.monokai .hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #272822;
+  color: #ddd;
+}
+.monokai .hljs-tag,
+.monokai .hljs-keyword,
+.monokai .hljs-selector-tag,
+.monokai .hljs-literal,
+.monokai .hljs-strong,
+.monokai .hljs-name {
+  color: #f92672;
+}
+.monokai .hljs-code {
+  color: #66d9ef;
+}
+.monokai .hljs-class .hljs-title {
+  color: #fff;
+}
+.monokai .hljs-attribute,
+.monokai .hljs-symbol,
+.monokai .hljs-regexp,
+.monokai .hljs-link {
+  color: #bf79db;
+}
+.monokai .hljs-string,
+.monokai .hljs-bullet,
+.monokai .hljs-subst,
+.monokai .hljs-title,
+.monokai .hljs-section,
+.monokai .hljs-emphasis,
+.monokai .hljs-type,
+.monokai .hljs-built_in,
+.monokai .hljs-builtin-name,
+.monokai .hljs-selector-attr,
+.monokai .hljs-selector-pseudo,
+.monokai .hljs-addition,
+.monokai .hljs-variable,
+.monokai .hljs-template-tag,
+.monokai .hljs-template-variable {
+  color: #a6e22e;
+}
+.monokai .hljs-comment,
+.monokai .hljs-quote,
+.monokai .hljs-deletion,
+.monokai .hljs-meta {
+  color: #75715e;
+}
+.monokai .hljs-keyword,
+.monokai .hljs-selector-tag,
+.monokai .hljs-literal,
+.monokai .hljs-doctag,
+.monokai .hljs-title,
+.monokai .hljs-section,
+.monokai .hljs-type,
+.monokai .hljs-selector-id {
+  font-weight: bold;
+}

@@ -1,0 +1,62 @@
+.solarizedDark .hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #002b36;
+  color: #839496;
+}
+.solarizedDark .hljs-comment,
+.solarizedDark .hljs-quote {
+  color: #586e75;
+}
+.solarizedDark .hljs-keyword,
+.solarizedDark .hljs-selector-tag,
+.solarizedDark .hljs-addition {
+  color: #859900;
+}
+.solarizedDark .hljs-number,
+.solarizedDark .hljs-string,
+.solarizedDark .hljs-meta .hljs-meta-string,
+.solarizedDark .hljs-literal,
+.solarizedDark .hljs-doctag,
+.solarizedDark .hljs-regexp {
+  color: #2aa198;
+}
+.solarizedDark .hljs-title,
+.solarizedDark .hljs-section,
+.solarizedDark .hljs-name,
+.solarizedDark .hljs-selector-id,
+.solarizedDark .hljs-selector-class {
+  color: #268bd2;
+}
+.solarizedDark .hljs-attribute,
+.solarizedDark .hljs-attr,
+.solarizedDark .hljs-variable,
+.solarizedDark .hljs-template-variable,
+.solarizedDark .hljs-class .hljs-title,
+.solarizedDark .hljs-type {
+  color: #b58900;
+}
+.solarizedDark .hljs-symbol,
+.solarizedDark .hljs-bullet,
+.solarizedDark .hljs-subst,
+.solarizedDark .hljs-meta,
+.solarizedDark .hljs-meta .hljs-keyword,
+.solarizedDark .hljs-selector-attr,
+.solarizedDark .hljs-selector-pseudo,
+.solarizedDark .hljs-link {
+  color: #cb4b16;
+}
+.solarizedDark .hljs-built_in,
+.solarizedDark .hljs-deletion {
+  color: #dc322f;
+}
+.solarizedDark .hljs-formula {
+  background: #073642;
+}
+.solarizedDark .hljs-emphasis {
+  font-style: italic;
+}
+.solarizedDark .hljs-strong {
+  font-weight: bold;
+}

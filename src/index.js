@@ -1,23 +1,31 @@
 'use strict';
+
 const { h, Component } = require('preact');
-const hljs = require('highlight.js');
+const hljs = require('./lib/hljs');
+const { THEME, themeManger } = require('./lib/theme');
 
 class HighLight extends Component {
   parserSyntax() {
     const { code, language } = this.props;
     const codeStr = this.stringify(code);
-    const { value } = hljs.highlight(language, codeStr);
-    return value;
+    return hljs(codeStr, language);
   }
   stringify(raw) {
     if (typeof raw === 'string') return raw;
     if (typeof raw === 'function') return raw.toString();
     return JSON.stringify(raw, null, '  ');
   }
-  render({ language, className }) {
+  updateTheme(theme) {
+    if (theme !== this.theme) {
+      this.theme = theme;
+      themeManger(theme);
+    }
+  }
+  render({ language, className, theme }) {
     const codeStr = this.parserSyntax();
+    this.updateTheme(theme);
     return (
-      <div className={className}>
+      <div className={`${className} ${theme}`}>
         <pre><code className={`hljs ${language}`}>{codeStr}</code></pre>
       </div>
     );
@@ -25,8 +33,10 @@ class HighLight extends Component {
 }
 HighLight.defaultProps = {
   language: 'json',
+  theme: THEME.monokaiSublime,
 };
 
 module.exports = {
+  THEME,
   HighLight,
 };

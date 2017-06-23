@@ -1,0 +1,72 @@
+.xcode .hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #fff;
+  color: #000;
+}
+.xcode .hljs-comment,
+.xcode .hljs-quote {
+  color: #006a00;
+}
+.xcode .hljs-keyword,
+.xcode .hljs-selector-tag,
+.xcode .hljs-literal {
+  color: #aa0d91;
+}
+.xcode .hljs-name {
+  color: #008;
+}
+.xcode .hljs-variable,
+.xcode .hljs-template-variable {
+  color: #660;
+}
+.xcode .hljs-string {
+  color: #c41a16;
+}
+.xcode .hljs-regexp,
+.xcode .hljs-link {
+  color: #080;
+}
+.xcode .hljs-title,
+.xcode .hljs-tag,
+.xcode .hljs-symbol,
+.xcode .hljs-bullet,
+.xcode .hljs-number,
+.xcode .hljs-meta {
+  color: #1c00cf;
+}
+.xcode .hljs-section,
+.xcode .hljs-class .hljs-title,
+.xcode .hljs-type,
+.xcode .hljs-attr,
+.xcode .hljs-built_in,
+.xcode .hljs-builtin-name,
+.xcode .hljs-params {
+  color: #5c2699;
+}
+.xcode .hljs-attribute,
+.xcode .hljs-subst {
+  color: #000;
+}
+.xcode .hljs-formula {
+  background-color: #eee;
+  font-style: italic;
+}
+.xcode .hljs-addition {
+  background-color: #baeeba;
+}
+.xcode .hljs-deletion {
+  background-color: #ffc8bd;
+}
+.xcode .hljs-selector-id,
+.xcode .hljs-selector-class {
+  color: #9b703f;
+}
+.xcode .hljs-doctag,
+.xcode .hljs-strong {
+  font-weight: bold;
+}
+.xcode .hljs-emphasis {
+  font-style: italic;
+}

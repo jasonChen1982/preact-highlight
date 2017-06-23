@@ -1,0 +1,50 @@
+.atelierSulphurpoolLight .hljs-comment,
+.atelierSulphurpoolLight .hljs-quote {
+  color: #6b7394;
+}
+.atelierSulphurpoolLight .hljs-variable,
+.atelierSulphurpoolLight .hljs-template-variable,
+.atelierSulphurpoolLight .hljs-attribute,
+.atelierSulphurpoolLight .hljs-tag,
+.atelierSulphurpoolLight .hljs-name,
+.atelierSulphurpoolLight .hljs-regexp,
+.atelierSulphurpoolLight .hljs-link,
+.atelierSulphurpoolLight .hljs-selector-id,
+.atelierSulphurpoolLight .hljs-selector-class {
+  color: #c94922;
+}
+.atelierSulphurpoolLight .hljs-number,
+.atelierSulphurpoolLight .hljs-meta,
+.atelierSulphurpoolLight .hljs-built_in,
+.atelierSulphurpoolLight .hljs-builtin-name,
+.atelierSulphurpoolLight .hljs-literal,
+.atelierSulphurpoolLight .hljs-type,
+.atelierSulphurpoolLight .hljs-params {
+  color: #c76b29;
+}
+.atelierSulphurpoolLight .hljs-string,
+.atelierSulphurpoolLight .hljs-symbol,
+.atelierSulphurpoolLight .hljs-bullet {
+  color: #ac9739;
+}
+.atelierSulphurpoolLight .hljs-title,
+.atelierSulphurpoolLight .hljs-section {
+  color: #3d8fd1;
+}
+.atelierSulphurpoolLight .hljs-keyword,
+.atelierSulphurpoolLight .hljs-selector-tag {
+  color: #6679cc;
+}
+.atelierSulphurpoolLight .hljs {
+  display: block;
+  overflow-x: auto;
+  background: #f5f7ff;
+  color: #5e6687;
+  padding: 0.5em;
+}
+.atelierSulphurpoolLight .hljs-emphasis {
+  font-style: italic;
+}
+.atelierSulphurpoolLight .hljs-strong {
+  font-weight: bold;
+}

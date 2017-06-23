@@ -1,0 +1,60 @@
+.zenburn .hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #3f3f3f;
+  color: #dcdcdc;
+}
+.zenburn .hljs-keyword,
+.zenburn .hljs-selector-tag,
+.zenburn .hljs-tag {
+  color: #e3ceab;
+}
+.zenburn .hljs-template-tag {
+  color: #dcdcdc;
+}
+.zenburn .hljs-number {
+  color: #8cd0d3;
+}
+.zenburn .hljs-variable,
+.zenburn .hljs-template-variable,
+.zenburn .hljs-attribute {
+  color: #efdcbc;
+}
+.zenburn .hljs-literal {
+  color: #efefaf;
+}
+.zenburn .hljs-subst {
+  color: #8f8f8f;
+}
+.zenburn .hljs-title,
+.zenburn .hljs-name,
+.zenburn .hljs-selector-id,
+.zenburn .hljs-selector-class,
+.zenburn .hljs-section,
+.zenburn .hljs-type {
+  color: #efef8f;
+}
+.zenburn .hljs-symbol,
+.zenburn .hljs-bullet,
+.zenburn .hljs-link {
+  color: #dca3a3;
+}
+.zenburn .hljs-deletion,
+.zenburn .hljs-string,
+.zenburn .hljs-built_in,
+.zenburn .hljs-builtin-name {
+  color: #cc9393;
+}
+.zenburn .hljs-addition,
+.zenburn .hljs-comment,
+.zenburn .hljs-quote,
+.zenburn .hljs-meta {
+  color: #7f9f7f;
+}
+.zenburn .hljs-emphasis {
+  font-style: italic;
+}
+.zenburn .hljs-strong {
+  font-weight: bold;
+}

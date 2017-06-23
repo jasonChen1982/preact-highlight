@@ -1,0 +1,66 @@
+.qtcreatorDark .hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #000;
+}
+.qtcreatorDark .hljs,
+.qtcreatorDark .hljs-subst,
+.qtcreatorDark .hljs-tag,
+.qtcreatorDark .hljs-title {
+  color: #aaa;
+}
+.qtcreatorDark .hljs-strong,
+.qtcreatorDark .hljs-emphasis {
+  color: #a8a8a2;
+}
+.qtcreatorDark .hljs-bullet,
+.qtcreatorDark .hljs-quote,
+.qtcreatorDark .hljs-number,
+.qtcreatorDark .hljs-regexp,
+.qtcreatorDark .hljs-literal {
+  color: #f5f;
+}
+.qtcreatorDark .hljs-code,
+.qtcreatorDark .hljs-selector-class {
+  color: #aaf;
+}
+.qtcreatorDark .hljs-emphasis,
+.qtcreatorDark .hljs-stronge,
+.qtcreatorDark .hljs-type {
+  font-style: italic;
+}
+.qtcreatorDark .hljs-keyword,
+.qtcreatorDark .hljs-selector-tag,
+.qtcreatorDark .hljs-function,
+.qtcreatorDark .hljs-section,
+.qtcreatorDark .hljs-symbol,
+.qtcreatorDark .hljs-name {
+  color: #ff5;
+}
+.qtcreatorDark .hljs-attribute {
+  color: #f55;
+}
+.qtcreatorDark .hljs-variable,
+.qtcreatorDark .hljs-params,
+.qtcreatorDark .hljs-class .hljs-title {
+  color: #88f;
+}
+.qtcreatorDark .hljs-string,
+.qtcreatorDark .hljs-selector-id,
+.qtcreatorDark .hljs-selector-attr,
+.qtcreatorDark .hljs-selector-pseudo,
+.qtcreatorDark .hljs-type,
+.qtcreatorDark .hljs-built_in,
+.qtcreatorDark .hljs-builtin-name,
+.qtcreatorDark .hljs-template-tag,
+.qtcreatorDark .hljs-template-variable,
+.qtcreatorDark .hljs-addition,
+.qtcreatorDark .hljs-link {
+  color: #f5f;
+}
+.qtcreatorDark .hljs-comment,
+.qtcreatorDark .hljs-meta,
+.qtcreatorDark .hljs-deletion {
+  color: #5ff;
+}

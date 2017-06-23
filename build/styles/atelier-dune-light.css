@@ -1,0 +1,50 @@
+.atelierDuneLight .hljs-comment,
+.atelierDuneLight .hljs-quote {
+  color: #7d7a68;
+}
+.atelierDuneLight .hljs-variable,
+.atelierDuneLight .hljs-template-variable,
+.atelierDuneLight .hljs-attribute,
+.atelierDuneLight .hljs-tag,
+.atelierDuneLight .hljs-name,
+.atelierDuneLight .hljs-regexp,
+.atelierDuneLight .hljs-link,
+.atelierDuneLight .hljs-selector-id,
+.atelierDuneLight .hljs-selector-class {
+  color: #d73737;
+}
+.atelierDuneLight .hljs-number,
+.atelierDuneLight .hljs-meta,
+.atelierDuneLight .hljs-built_in,
+.atelierDuneLight .hljs-builtin-name,
+.atelierDuneLight .hljs-literal,
+.atelierDuneLight .hljs-type,
+.atelierDuneLight .hljs-params {
+  color: #b65611;
+}
+.atelierDuneLight .hljs-string,
+.atelierDuneLight .hljs-symbol,
+.atelierDuneLight .hljs-bullet {
+  color: #60ac39;
+}
+.atelierDuneLight .hljs-title,
+.atelierDuneLight .hljs-section {
+  color: #6684e1;
+}
+.atelierDuneLight .hljs-keyword,
+.atelierDuneLight .hljs-selector-tag {
+  color: #b854d4;
+}
+.atelierDuneLight .hljs {
+  display: block;
+  overflow-x: auto;
+  background: #fefbec;
+  color: #6e6b5e;
+  padding: 0.5em;
+}
+.atelierDuneLight .hljs-emphasis {
+  font-style: italic;
+}
+.atelierDuneLight .hljs-strong {
+  font-weight: bold;
+}

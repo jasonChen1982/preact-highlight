@@ -1,0 +1,54 @@
+.tomorrowNightBlue .hljs-comment,
+.tomorrowNightBlue .hljs-quote {
+  color: #7285b7;
+}
+.tomorrowNightBlue .hljs-variable,
+.tomorrowNightBlue .hljs-template-variable,
+.tomorrowNightBlue .hljs-tag,
+.tomorrowNightBlue .hljs-name,
+.tomorrowNightBlue .hljs-selector-id,
+.tomorrowNightBlue .hljs-selector-class,
+.tomorrowNightBlue .hljs-regexp,
+.tomorrowNightBlue .hljs-deletion {
+  color: #ff9da4;
+}
+.tomorrowNightBlue .hljs-number,
+.tomorrowNightBlue .hljs-built_in,
+.tomorrowNightBlue .hljs-builtin-name,
+.tomorrowNightBlue .hljs-literal,
+.tomorrowNightBlue .hljs-type,
+.tomorrowNightBlue .hljs-params,
+.tomorrowNightBlue .hljs-meta,
+.tomorrowNightBlue .hljs-link {
+  color: #ffc58f;
+}
+.tomorrowNightBlue .hljs-attribute {
+  color: #ffeead;
+}
+.tomorrowNightBlue .hljs-string,
+.tomorrowNightBlue .hljs-symbol,
+.tomorrowNightBlue .hljs-bullet,
+.tomorrowNightBlue .hljs-addition {
+  color: #d1f1a9;
+}
+.tomorrowNightBlue .hljs-title,
+.tomorrowNightBlue .hljs-section {
+  color: #bbdaff;
+}
+.tomorrowNightBlue .hljs-keyword,
+.tomorrowNightBlue .hljs-selector-tag {
+  color: #ebbbff;
+}
+.tomorrowNightBlue .hljs {
+  display: block;
+  overflow-x: auto;
+  background: #002451;
+  color: #fff;
+  padding: 0.5em;
+}
+.tomorrowNightBlue .hljs-emphasis {
+  font-style: italic;
+}
+.tomorrowNightBlue .hljs-strong {
+  font-weight: bold;
+}

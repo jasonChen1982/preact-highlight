@@ -1,0 +1,50 @@
+.atelierForestDark .hljs-comment,
+.atelierForestDark .hljs-quote {
+  color: #9c9491;
+}
+.atelierForestDark .hljs-variable,
+.atelierForestDark .hljs-template-variable,
+.atelierForestDark .hljs-attribute,
+.atelierForestDark .hljs-tag,
+.atelierForestDark .hljs-name,
+.atelierForestDark .hljs-regexp,
+.atelierForestDark .hljs-link,
+.atelierForestDark .hljs-selector-id,
+.atelierForestDark .hljs-selector-class {
+  color: #f22c40;
+}
+.atelierForestDark .hljs-number,
+.atelierForestDark .hljs-meta,
+.atelierForestDark .hljs-built_in,
+.atelierForestDark .hljs-builtin-name,
+.atelierForestDark .hljs-literal,
+.atelierForestDark .hljs-type,
+.atelierForestDark .hljs-params {
+  color: #df5320;
+}
+.atelierForestDark .hljs-string,
+.atelierForestDark .hljs-symbol,
+.atelierForestDark .hljs-bullet {
+  color: #7b9726;
+}
+.atelierForestDark .hljs-title,
+.atelierForestDark .hljs-section {
+  color: #407ee7;
+}
+.atelierForestDark .hljs-keyword,
+.atelierForestDark .hljs-selector-tag {
+  color: #6666ea;
+}
+.atelierForestDark .hljs {
+  display: block;
+  overflow-x: auto;
+  background: #1b1918;
+  color: #a8a19f;
+  padding: 0.5em;
+}
+.atelierForestDark .hljs-emphasis {
+  font-style: italic;
+}
+.atelierForestDark .hljs-strong {
+  font-weight: bold;
+}

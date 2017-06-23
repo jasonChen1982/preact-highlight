@@ -1,0 +1,62 @@
+.atelierPlateauDark .hljs-comment,
+.atelierPlateauDark .hljs-quote {
+  color: #7e7777;
+}
+.atelierPlateauDark .hljs-variable,
+.atelierPlateauDark .hljs-template-variable,
+.atelierPlateauDark .hljs-attribute,
+.atelierPlateauDark .hljs-tag,
+.atelierPlateauDark .hljs-name,
+.atelierPlateauDark .hljs-regexp,
+.atelierPlateauDark .hljs-link,
+.atelierPlateauDark .hljs-selector-id,
+.atelierPlateauDark .hljs-selector-class {
+  color: #ca4949;
+}
+.atelierPlateauDark .hljs-number,
+.atelierPlateauDark .hljs-meta,
+.atelierPlateauDark .hljs-built_in,
+.atelierPlateauDark .hljs-builtin-name,
+.atelierPlateauDark .hljs-literal,
+.atelierPlateauDark .hljs-type,
+.atelierPlateauDark .hljs-params {
+  color: #b45a3c;
+}
+.atelierPlateauDark .hljs-string,
+.atelierPlateauDark .hljs-symbol,
+.atelierPlateauDark .hljs-bullet {
+  color: #4b8b8b;
+}
+.atelierPlateauDark .hljs-title,
+.atelierPlateauDark .hljs-section {
+  color: #7272ca;
+}
+.atelierPlateauDark .hljs-keyword,
+.atelierPlateauDark .hljs-selector-tag {
+  color: #8464c4;
+}
+.atelierPlateauDark .hljs-deletion,
+.atelierPlateauDark .hljs-addition {
+  color: #1b1818;
+  display: inline-block;
+  width: 100%;
+}
+.atelierPlateauDark .hljs-deletion {
+  background-color: #ca4949;
+}
+.atelierPlateauDark .hljs-addition {
+  background-color: #4b8b8b;
+}
+.atelierPlateauDark .hljs {
+  display: block;
+  overflow-x: auto;
+  background: #1b1818;
+  color: #8a8585;
+  padding: 0.5em;
+}
+.atelierPlateauDark .hljs-emphasis {
+  font-style: italic;
+}
+.atelierPlateauDark .hljs-strong {
+  font-weight: bold;
+}

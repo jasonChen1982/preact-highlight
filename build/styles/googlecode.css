@@ -1,0 +1,70 @@
+.googlecode .hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #fff;
+  color: #000;
+}
+.googlecode .hljs-comment,
+.googlecode .hljs-quote {
+  color: #800;
+}
+.googlecode .hljs-keyword,
+.googlecode .hljs-selector-tag,
+.googlecode .hljs-section,
+.googlecode .hljs-title,
+.googlecode .hljs-name {
+  color: #008;
+}
+.googlecode .hljs-variable,
+.googlecode .hljs-template-variable {
+  color: #660;
+}
+.googlecode .hljs-string,
+.googlecode .hljs-selector-attr,
+.googlecode .hljs-selector-pseudo,
+.googlecode .hljs-regexp {
+  color: #080;
+}
+.googlecode .hljs-literal,
+.googlecode .hljs-symbol,
+.googlecode .hljs-bullet,
+.googlecode .hljs-meta,
+.googlecode .hljs-number,
+.googlecode .hljs-link {
+  color: #066;
+}
+.googlecode .hljs-title,
+.googlecode .hljs-doctag,
+.googlecode .hljs-type,
+.googlecode .hljs-attr,
+.googlecode .hljs-built_in,
+.googlecode .hljs-builtin-name,
+.googlecode .hljs-params {
+  color: #606;
+}
+.googlecode .hljs-attribute,
+.googlecode .hljs-subst {
+  color: #000;
+}
+.googlecode .hljs-formula {
+  background-color: #eee;
+  font-style: italic;
+}
+.googlecode .hljs-selector-id,
+.googlecode .hljs-selector-class {
+  color: #9b703f;
+}
+.googlecode .hljs-addition {
+  background-color: #baeeba;
+}
+.googlecode .hljs-deletion {
+  background-color: #ffc8bd;
+}
+.googlecode .hljs-doctag,
+.googlecode .hljs-strong {
+  font-weight: bold;
+}
+.googlecode .hljs-emphasis {
+  font-style: italic;
+}

@@ -1,0 +1,76 @@
+.docco .hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  color: #000;
+  background: #f8f8ff;
+}
+.docco .hljs-comment,
+.docco .hljs-quote {
+  color: #408080;
+  font-style: italic;
+}
+.docco .hljs-keyword,
+.docco .hljs-selector-tag,
+.docco .hljs-literal,
+.docco .hljs-subst {
+  color: #954121;
+}
+.docco .hljs-number {
+  color: #40a070;
+}
+.docco .hljs-string,
+.docco .hljs-doctag {
+  color: #219161;
+}
+.docco .hljs-selector-id,
+.docco .hljs-selector-class,
+.docco .hljs-section,
+.docco .hljs-type {
+  color: #19469d;
+}
+.docco .hljs-params {
+  color: #00f;
+}
+.docco .hljs-title {
+  color: #458;
+  font-weight: bold;
+}
+.docco .hljs-tag,
+.docco .hljs-name,
+.docco .hljs-attribute {
+  color: #000080;
+  font-weight: normal;
+}
+.docco .hljs-variable,
+.docco .hljs-template-variable {
+  color: #008080;
+}
+.docco .hljs-regexp,
+.docco .hljs-link {
+  color: #b68;
+}
+.docco .hljs-symbol,
+.docco .hljs-bullet {
+  color: #990073;
+}
+.docco .hljs-built_in,
+.docco .hljs-builtin-name {
+  color: #0086b3;
+}
+.docco .hljs-meta {
+  color: #999;
+  font-weight: bold;
+}
+.docco .hljs-deletion {
+  background: #fdd;
+}
+.docco .hljs-addition {
+  background: #dfd;
+}
+.docco .hljs-emphasis {
+  font-style: italic;
+}
+.docco .hljs-strong {
+  font-weight: bold;
+}

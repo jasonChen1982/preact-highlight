@@ -1,0 +1,65 @@
+.atomOneDark .hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  color: #abb2bf;
+  background: #282c34;
+}
+.atomOneDark .hljs-comment,
+.atomOneDark .hljs-quote {
+  color: #5c6370;
+  font-style: italic;
+}
+.atomOneDark .hljs-doctag,
+.atomOneDark .hljs-keyword,
+.atomOneDark .hljs-formula {
+  color: #c678dd;
+}
+.atomOneDark .hljs-section,
+.atomOneDark .hljs-name,
+.atomOneDark .hljs-selector-tag,
+.atomOneDark .hljs-deletion,
+.atomOneDark .hljs-subst {
+  color: #e06c75;
+}
+.atomOneDark .hljs-literal {
+  color: #56b6c2;
+}
+.atomOneDark .hljs-string,
+.atomOneDark .hljs-regexp,
+.atomOneDark .hljs-addition,
+.atomOneDark .hljs-attribute,
+.atomOneDark .hljs-meta-string {
+  color: #98c379;
+}
+.atomOneDark .hljs-built_in,
+.atomOneDark .hljs-class .hljs-title {
+  color: #e6c07b;
+}
+.atomOneDark .hljs-attr,
+.atomOneDark .hljs-variable,
+.atomOneDark .hljs-template-variable,
+.atomOneDark .hljs-type,
+.atomOneDark .hljs-selector-class,
+.atomOneDark .hljs-selector-attr,
+.atomOneDark .hljs-selector-pseudo,
+.atomOneDark .hljs-number {
+  color: #d19a66;
+}
+.atomOneDark .hljs-symbol,
+.atomOneDark .hljs-bullet,
+.atomOneDark .hljs-link,
+.atomOneDark .hljs-meta,
+.atomOneDark .hljs-selector-id,
+.atomOneDark .hljs-title {
+  color: #61aeee;
+}
+.atomOneDark .hljs-emphasis {
+  font-style: italic;
+}
+.atomOneDark .hljs-strong {
+  font-weight: bold;
+}
+.atomOneDark .hljs-link {
+  text-decoration: underline;
+}

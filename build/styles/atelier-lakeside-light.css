@@ -1,0 +1,50 @@
+.atelierLakesideLight .hljs-comment,
+.atelierLakesideLight .hljs-quote {
+  color: #5a7b8c;
+}
+.atelierLakesideLight .hljs-variable,
+.atelierLakesideLight .hljs-template-variable,
+.atelierLakesideLight .hljs-attribute,
+.atelierLakesideLight .hljs-tag,
+.atelierLakesideLight .hljs-name,
+.atelierLakesideLight .hljs-regexp,
+.atelierLakesideLight .hljs-link,
+.atelierLakesideLight .hljs-selector-id,
+.atelierLakesideLight .hljs-selector-class {
+  color: #d22d72;
+}
+.atelierLakesideLight .hljs-number,
+.atelierLakesideLight .hljs-meta,
+.atelierLakesideLight .hljs-built_in,
+.atelierLakesideLight .hljs-builtin-name,
+.atelierLakesideLight .hljs-literal,
+.atelierLakesideLight .hljs-type,
+.atelierLakesideLight .hljs-params {
+  color: #935c25;
+}
+.atelierLakesideLight .hljs-string,
+.atelierLakesideLight .hljs-symbol,
+.atelierLakesideLight .hljs-bullet {
+  color: #568c3b;
+}
+.atelierLakesideLight .hljs-title,
+.atelierLakesideLight .hljs-section {
+  color: #257fad;
+}
+.atelierLakesideLight .hljs-keyword,
+.atelierLakesideLight .hljs-selector-tag {
+  color: #6b6bb8;
+}
+.atelierLakesideLight .hljs {
+  display: block;
+  overflow-x: auto;
+  background: #ebf8ff;
+  color: #516d7b;
+  padding: 0.5em;
+}
+.atelierLakesideLight .hljs-emphasis {
+  font-style: italic;
+}
+.atelierLakesideLight .hljs-strong {
+  font-weight: bold;
+}

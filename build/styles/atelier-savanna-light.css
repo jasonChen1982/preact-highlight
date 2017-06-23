@@ -1,0 +1,62 @@
+.atelierSavannaLight .hljs-comment,
+.atelierSavannaLight .hljs-quote {
+  color: #5f6d64;
+}
+.atelierSavannaLight .hljs-variable,
+.atelierSavannaLight .hljs-template-variable,
+.atelierSavannaLight .hljs-attribute,
+.atelierSavannaLight .hljs-tag,
+.atelierSavannaLight .hljs-name,
+.atelierSavannaLight .hljs-regexp,
+.atelierSavannaLight .hljs-link,
+.atelierSavannaLight .hljs-selector-id,
+.atelierSavannaLight .hljs-selector-class {
+  color: #b16139;
+}
+.atelierSavannaLight .hljs-number,
+.atelierSavannaLight .hljs-meta,
+.atelierSavannaLight .hljs-built_in,
+.atelierSavannaLight .hljs-builtin-name,
+.atelierSavannaLight .hljs-literal,
+.atelierSavannaLight .hljs-type,
+.atelierSavannaLight .hljs-params {
+  color: #9f713c;
+}
+.atelierSavannaLight .hljs-string,
+.atelierSavannaLight .hljs-symbol,
+.atelierSavannaLight .hljs-bullet {
+  color: #489963;
+}
+.atelierSavannaLight .hljs-title,
+.atelierSavannaLight .hljs-section {
+  color: #478c90;
+}
+.atelierSavannaLight .hljs-keyword,
+.atelierSavannaLight .hljs-selector-tag {
+  color: #55859b;
+}
+.atelierSavannaLight .hljs-deletion,
+.atelierSavannaLight .hljs-addition {
+  color: #171c19;
+  display: inline-block;
+  width: 100%;
+}
+.atelierSavannaLight .hljs-deletion {
+  background-color: #b16139;
+}
+.atelierSavannaLight .hljs-addition {
+  background-color: #489963;
+}
+.atelierSavannaLight .hljs {
+  display: block;
+  overflow-x: auto;
+  background: #ecf4ee;
+  color: #526057;
+  padding: 0.5em;
+}
+.atelierSavannaLight .hljs-emphasis {
+  font-style: italic;
+}
+.atelierSavannaLight .hljs-strong {
+  font-weight: bold;
+}

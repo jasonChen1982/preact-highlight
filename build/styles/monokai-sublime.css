@@ -1,0 +1,66 @@
+.monokaiSublime .hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #23241f;
+}
+.monokaiSublime .hljs,
+.monokaiSublime .hljs-tag,
+.monokaiSublime .hljs-subst {
+  color: #f8f8f2;
+}
+.monokaiSublime .hljs-strong,
+.monokaiSublime .hljs-emphasis {
+  color: #a8a8a2;
+}
+.monokaiSublime .hljs-bullet,
+.monokaiSublime .hljs-quote,
+.monokaiSublime .hljs-number,
+.monokaiSublime .hljs-regexp,
+.monokaiSublime .hljs-literal,
+.monokaiSublime .hljs-link {
+  color: #ae81ff;
+}
+.monokaiSublime .hljs-code,
+.monokaiSublime .hljs-title,
+.monokaiSublime .hljs-section,
+.monokaiSublime .hljs-selector-class {
+  color: #a6e22e;
+}
+.monokaiSublime .hljs-strong {
+  font-weight: bold;
+}
+.monokaiSublime .hljs-emphasis {
+  font-style: italic;
+}
+.monokaiSublime .hljs-keyword,
+.monokaiSublime .hljs-selector-tag,
+.monokaiSublime .hljs-name,
+.monokaiSublime .hljs-attr {
+  color: #f92672;
+}
+.monokaiSublime .hljs-symbol,
+.monokaiSublime .hljs-attribute {
+  color: #66d9ef;
+}
+.monokaiSublime .hljs-params,
+.monokaiSublime .hljs-class .hljs-title {
+  color: #f8f8f2;
+}
+.monokaiSublime .hljs-string,
+.monokaiSublime .hljs-type,
+.monokaiSublime .hljs-built_in,
+.monokaiSublime .hljs-builtin-name,
+.monokaiSublime .hljs-selector-id,
+.monokaiSublime .hljs-selector-attr,
+.monokaiSublime .hljs-selector-pseudo,
+.monokaiSublime .hljs-addition,
+.monokaiSublime .hljs-variable,
+.monokaiSublime .hljs-template-variable {
+  color: #e6db74;
+}
+.monokaiSublime .hljs-comment,
+.monokaiSublime .hljs-deletion,
+.monokaiSublime .hljs-meta {
+  color: #75715e;
+}

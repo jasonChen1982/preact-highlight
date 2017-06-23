@@ -1,0 +1,52 @@
+.paraisoLight .hljs-comment,
+.paraisoLight .hljs-quote {
+  color: #776e71;
+}
+.paraisoLight .hljs-variable,
+.paraisoLight .hljs-template-variable,
+.paraisoLight .hljs-tag,
+.paraisoLight .hljs-name,
+.paraisoLight .hljs-selector-id,
+.paraisoLight .hljs-selector-class,
+.paraisoLight .hljs-regexp,
+.paraisoLight .hljs-link,
+.paraisoLight .hljs-meta {
+  color: #ef6155;
+}
+.paraisoLight .hljs-number,
+.paraisoLight .hljs-built_in,
+.paraisoLight .hljs-builtin-name,
+.paraisoLight .hljs-literal,
+.paraisoLight .hljs-type,
+.paraisoLight .hljs-params,
+.paraisoLight .hljs-deletion {
+  color: #f99b15;
+}
+.paraisoLight .hljs-title,
+.paraisoLight .hljs-section,
+.paraisoLight .hljs-attribute {
+  color: #fec418;
+}
+.paraisoLight .hljs-string,
+.paraisoLight .hljs-symbol,
+.paraisoLight .hljs-bullet,
+.paraisoLight .hljs-addition {
+  color: #48b685;
+}
+.paraisoLight .hljs-keyword,
+.paraisoLight .hljs-selector-tag {
+  color: #815ba4;
+}
+.paraisoLight .hljs {
+  display: block;
+  overflow-x: auto;
+  background: #e7e9db;
+  color: #4f424c;
+  padding: 0.5em;
+}
+.paraisoLight .hljs-emphasis {
+  font-style: italic;
+}
+.paraisoLight .hljs-strong {
+  font-weight: bold;
+}

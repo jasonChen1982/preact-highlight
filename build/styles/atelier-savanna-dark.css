@@ -1,0 +1,62 @@
+.atelierSavannaDark .hljs-comment,
+.atelierSavannaDark .hljs-quote {
+  color: #78877d;
+}
+.atelierSavannaDark .hljs-variable,
+.atelierSavannaDark .hljs-template-variable,
+.atelierSavannaDark .hljs-attribute,
+.atelierSavannaDark .hljs-tag,
+.atelierSavannaDark .hljs-name,
+.atelierSavannaDark .hljs-regexp,
+.atelierSavannaDark .hljs-link,
+.atelierSavannaDark .hljs-selector-id,
+.atelierSavannaDark .hljs-selector-class {
+  color: #b16139;
+}
+.atelierSavannaDark .hljs-number,
+.atelierSavannaDark .hljs-meta,
+.atelierSavannaDark .hljs-built_in,
+.atelierSavannaDark .hljs-builtin-name,
+.atelierSavannaDark .hljs-literal,
+.atelierSavannaDark .hljs-type,
+.atelierSavannaDark .hljs-params {
+  color: #9f713c;
+}
+.atelierSavannaDark .hljs-string,
+.atelierSavannaDark .hljs-symbol,
+.atelierSavannaDark .hljs-bullet {
+  color: #489963;
+}
+.atelierSavannaDark .hljs-title,
+.atelierSavannaDark .hljs-section {
+  color: #478c90;
+}
+.atelierSavannaDark .hljs-keyword,
+.atelierSavannaDark .hljs-selector-tag {
+  color: #55859b;
+}
+.atelierSavannaDark .hljs-deletion,
+.atelierSavannaDark .hljs-addition {
+  color: #171c19;
+  display: inline-block;
+  width: 100%;
+}
+.atelierSavannaDark .hljs-deletion {
+  background-color: #b16139;
+}
+.atelierSavannaDark .hljs-addition {
+  background-color: #489963;
+}
+.atelierSavannaDark .hljs {
+  display: block;
+  overflow-x: auto;
+  background: #171c19;
+  color: #87928a;
+  padding: 0.5em;
+}
+.atelierSavannaDark .hljs-emphasis {
+  font-style: italic;
+}
+.atelierSavannaDark .hljs-strong {
+  font-weight: bold;
+}

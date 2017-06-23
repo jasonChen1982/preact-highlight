@@ -1,0 +1,51 @@
+.androidstudio .hljs {
+  color: #a9b7c6;
+  background: #282b2e;
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+}
+.androidstudio .hljs-number,
+.androidstudio .hljs-literal,
+.androidstudio .hljs-symbol,
+.androidstudio .hljs-bullet {
+  color: #6897bb;
+}
+.androidstudio .hljs-keyword,
+.androidstudio .hljs-selector-tag,
+.androidstudio .hljs-deletion {
+  color: #cc7832;
+}
+.androidstudio .hljs-variable,
+.androidstudio .hljs-template-variable,
+.androidstudio .hljs-link {
+  color: #629755;
+}
+.androidstudio .hljs-comment,
+.androidstudio .hljs-quote {
+  color: #808080;
+}
+.androidstudio .hljs-meta {
+  color: #bbb529;
+}
+.androidstudio .hljs-string,
+.androidstudio .hljs-attribute,
+.androidstudio .hljs-addition {
+  color: #6a8759;
+}
+.androidstudio .hljs-section,
+.androidstudio .hljs-title,
+.androidstudio .hljs-type {
+  color: #ffc66d;
+}
+.androidstudio .hljs-name,
+.androidstudio .hljs-selector-id,
+.androidstudio .hljs-selector-class {
+  color: #e8bf6a;
+}
+.androidstudio .hljs-emphasis {
+  font-style: italic;
+}
+.androidstudio .hljs-strong {
+  font-weight: bold;
+}

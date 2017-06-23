@@ -1,0 +1,50 @@
+.atelierHeathLight .hljs-comment,
+.atelierHeathLight .hljs-quote {
+  color: #776977;
+}
+.atelierHeathLight .hljs-variable,
+.atelierHeathLight .hljs-template-variable,
+.atelierHeathLight .hljs-attribute,
+.atelierHeathLight .hljs-tag,
+.atelierHeathLight .hljs-name,
+.atelierHeathLight .hljs-regexp,
+.atelierHeathLight .hljs-link,
+.atelierHeathLight .hljs-selector-id,
+.atelierHeathLight .hljs-selector-class {
+  color: #ca402b;
+}
+.atelierHeathLight .hljs-number,
+.atelierHeathLight .hljs-meta,
+.atelierHeathLight .hljs-built_in,
+.atelierHeathLight .hljs-builtin-name,
+.atelierHeathLight .hljs-literal,
+.atelierHeathLight .hljs-type,
+.atelierHeathLight .hljs-params {
+  color: #a65926;
+}
+.atelierHeathLight .hljs-string,
+.atelierHeathLight .hljs-symbol,
+.atelierHeathLight .hljs-bullet {
+  color: #918b3b;
+}
+.atelierHeathLight .hljs-title,
+.atelierHeathLight .hljs-section {
+  color: #516aec;
+}
+.atelierHeathLight .hljs-keyword,
+.atelierHeathLight .hljs-selector-tag {
+  color: #7b59c0;
+}
+.atelierHeathLight .hljs {
+  display: block;
+  overflow-x: auto;
+  background: #f7f3f7;
+  color: #695d69;
+  padding: 0.5em;
+}
+.atelierHeathLight .hljs-emphasis {
+  font-style: italic;
+}
+.atelierHeathLight .hljs-strong {
+  font-weight: bold;
+}

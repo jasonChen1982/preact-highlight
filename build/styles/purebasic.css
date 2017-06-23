@@ -1,0 +1,65 @@
+.purebasic .hljs {
+/* Common set of rules required by highlight.js (don'r remove!) */
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #ffffdf; /* Half and Half (approx.) */
+/* --- Uncomment to add PureBASIC native IDE styled font!
+	font-family: Consolas;
+*/
+}
+.purebasic .hljs,
+.purebasic .hljs-type,
+.purebasic .hljs-function,
+.purebasic .hljs-name,
+.purebasic .hljs-number,
+.purebasic .hljs-attr,
+.purebasic .hljs-params,
+.purebasic .hljs-subst {
+  color: #000; /* Black */
+}
+.purebasic .hljs-comment,
+.purebasic .hljs-regexp,
+.purebasic .hljs-section,
+.purebasic .hljs-selector-pseudo,
+.purebasic .hljs-addition {
+  color: #0aa; /* Persian Green (approx.) */
+}
+.purebasic .hljs-title,
+.purebasic .hljs-tag,
+.purebasic .hljs-variable,
+.purebasic .hljs-code {
+  color: #066; /* Blue Stone (approx.) */
+}
+.purebasic .hljs-keyword,
+.purebasic .hljs-class,
+.purebasic .hljs-meta-keyword,
+.purebasic .hljs-selector-class,
+.purebasic .hljs-built_in,
+.purebasic .hljs-builtin-name {
+  color: #066; /* Blue Stone (approx.) */
+  font-weight: bold;
+}
+.purebasic .hljs-string,
+.purebasic .hljs-selector-attr {
+  color: #0080ff; /* Azure Radiance (approx.) */
+}
+.purebasic .hljs-symbol,
+.purebasic .hljs-link,
+.purebasic .hljs-deletion,
+.purebasic .hljs-attribute {
+  color: #924b72; /* Cannon Pink (approx.) */
+}
+.purebasic .hljs-meta,
+.purebasic .hljs-literal,
+.purebasic .hljs-selector-id {
+  color: #924b72; /* Cannon Pink (approx.) */
+  font-weight: bold;
+}
+.purebasic .hljs-strong,
+.purebasic .hljs-name {
+  font-weight: bold;
+}
+.purebasic .hljs-emphasis {
+  font-style: italic;
+}

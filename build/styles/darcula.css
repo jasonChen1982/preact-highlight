@@ -1,0 +1,60 @@
+.darcula .hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #2b2b2b;
+}
+.darcula .hljs {
+  color: #bababa;
+}
+.darcula .hljs-strong,
+.darcula .hljs-emphasis {
+  color: #a8a8a2;
+}
+.darcula .hljs-bullet,
+.darcula .hljs-quote,
+.darcula .hljs-link,
+.darcula .hljs-number,
+.darcula .hljs-regexp,
+.darcula .hljs-literal {
+  color: #6896ba;
+}
+.darcula .hljs-code,
+.darcula .hljs-selector-class {
+  color: #a6e22e;
+}
+.darcula .hljs-emphasis {
+  font-style: italic;
+}
+.darcula .hljs-keyword,
+.darcula .hljs-selector-tag,
+.darcula .hljs-section,
+.darcula .hljs-attribute,
+.darcula .hljs-name,
+.darcula .hljs-variable {
+  color: #cb7832;
+}
+.darcula .hljs-params {
+  color: #b9b9b9;
+}
+.darcula .hljs-string {
+  color: #6a8759;
+}
+.darcula .hljs-subst,
+.darcula .hljs-type,
+.darcula .hljs-built_in,
+.darcula .hljs-builtin-name,
+.darcula .hljs-symbol,
+.darcula .hljs-selector-id,
+.darcula .hljs-selector-attr,
+.darcula .hljs-selector-pseudo,
+.darcula .hljs-template-tag,
+.darcula .hljs-template-variable,
+.darcula .hljs-addition {
+  color: #e0c46c;
+}
+.darcula .hljs-comment,
+.darcula .hljs-deletion,
+.darcula .hljs-meta {
+  color: #7f7f7f;
+}

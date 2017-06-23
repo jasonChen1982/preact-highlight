@@ -1,0 +1,58 @@
+.irBlack .hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #000;
+  color: #f8f8f8;
+}
+.irBlack .hljs-comment,
+.irBlack .hljs-quote,
+.irBlack .hljs-meta {
+  color: #7c7c7c;
+}
+.irBlack .hljs-keyword,
+.irBlack .hljs-selector-tag,
+.irBlack .hljs-tag,
+.irBlack .hljs-name {
+  color: #96cbfe;
+}
+.irBlack .hljs-attribute,
+.irBlack .hljs-selector-id {
+  color: #ffffb6;
+}
+.irBlack .hljs-string,
+.irBlack .hljs-selector-attr,
+.irBlack .hljs-selector-pseudo,
+.irBlack .hljs-addition {
+  color: #a8ff60;
+}
+.irBlack .hljs-subst {
+  color: #daefa3;
+}
+.irBlack .hljs-regexp,
+.irBlack .hljs-link {
+  color: #e9c062;
+}
+.irBlack .hljs-title,
+.irBlack .hljs-section,
+.irBlack .hljs-type,
+.irBlack .hljs-doctag {
+  color: #ffffb6;
+}
+.irBlack .hljs-symbol,
+.irBlack .hljs-bullet,
+.irBlack .hljs-variable,
+.irBlack .hljs-template-variable,
+.irBlack .hljs-literal {
+  color: #c6c5fe;
+}
+.irBlack .hljs-number,
+.irBlack .hljs-deletion {
+  color: #ff73fd;
+}
+.irBlack .hljs-emphasis {
+  font-style: italic;
+}
+.irBlack .hljs-strong {
+  font-weight: bold;
+}

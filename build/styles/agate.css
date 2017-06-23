@@ -1,0 +1,92 @@
+/*
+ * Agate by Taufik Nurrohman <https://github.com/tovic>
+ * ----------------------------------------------------
+ *
+ * #ade5fc
+ * #a2fca2
+ * #c6b4f0
+ * #d36363
+ * #fcc28c
+ * #fc9b9b
+ * #ffa
+ * #fff
+ * #333
+ * #62c8f3
+ * #888
+ *
+ */
+.agate .hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #333;
+  color: #fff;
+}
+.agate .hljs-name,
+.agate .hljs-strong {
+  font-weight: bold;
+}
+.agate .hljs-code,
+.agate .hljs-emphasis {
+  font-style: italic;
+}
+.agate .hljs-tag {
+  color: #62c8f3;
+}
+.agate .hljs-variable,
+.agate .hljs-template-variable,
+.agate .hljs-selector-id,
+.agate .hljs-selector-class {
+  color: #ade5fc;
+}
+.agate .hljs-string,
+.agate .hljs-bullet {
+  color: #a2fca2;
+}
+.agate .hljs-type,
+.agate .hljs-title,
+.agate .hljs-section,
+.agate .hljs-attribute,
+.agate .hljs-quote,
+.agate .hljs-built_in,
+.agate .hljs-builtin-name {
+  color: #ffa;
+}
+.agate .hljs-number,
+.agate .hljs-symbol,
+.agate .hljs-bullet {
+  color: #d36363;
+}
+.agate .hljs-keyword,
+.agate .hljs-selector-tag,
+.agate .hljs-literal {
+  color: #fcc28c;
+}
+.agate .hljs-comment,
+.agate .hljs-deletion,
+.agate .hljs-code {
+  color: #888;
+}
+.agate .hljs-regexp,
+.agate .hljs-link {
+  color: #c6b4f0;
+}
+.agate .hljs-meta {
+  color: #fc9b9b;
+}
+.agate .hljs-deletion {
+  background-color: #fc9b9b;
+  color: #333;
+}
+.agate .hljs-addition {
+  background-color: #a2fca2;
+  color: #333;
+}
+.agate .hljs a {
+  color: inherit;
+}
+.agate .hljs a:focus,
+.agate .hljs a:hover {
+  color: inherit;
+  text-decoration: underline;
+}

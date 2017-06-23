@@ -1,0 +1,62 @@
+.solarizedLight .hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #fdf6e3;
+  color: #657b83;
+}
+.solarizedLight .hljs-comment,
+.solarizedLight .hljs-quote {
+  color: #93a1a1;
+}
+.solarizedLight .hljs-keyword,
+.solarizedLight .hljs-selector-tag,
+.solarizedLight .hljs-addition {
+  color: #859900;
+}
+.solarizedLight .hljs-number,
+.solarizedLight .hljs-string,
+.solarizedLight .hljs-meta .hljs-meta-string,
+.solarizedLight .hljs-literal,
+.solarizedLight .hljs-doctag,
+.solarizedLight .hljs-regexp {
+  color: #2aa198;
+}
+.solarizedLight .hljs-title,
+.solarizedLight .hljs-section,
+.solarizedLight .hljs-name,
+.solarizedLight .hljs-selector-id,
+.solarizedLight .hljs-selector-class {
+  color: #268bd2;
+}
+.solarizedLight .hljs-attribute,
+.solarizedLight .hljs-attr,
+.solarizedLight .hljs-variable,
+.solarizedLight .hljs-template-variable,
+.solarizedLight .hljs-class .hljs-title,
+.solarizedLight .hljs-type {
+  color: #b58900;
+}
+.solarizedLight .hljs-symbol,
+.solarizedLight .hljs-bullet,
+.solarizedLight .hljs-subst,
+.solarizedLight .hljs-meta,
+.solarizedLight .hljs-meta .hljs-keyword,
+.solarizedLight .hljs-selector-attr,
+.solarizedLight .hljs-selector-pseudo,
+.solarizedLight .hljs-link {
+  color: #cb4b16;
+}
+.solarizedLight .hljs-built_in,
+.solarizedLight .hljs-deletion {
+  color: #dc322f;
+}
+.solarizedLight .hljs-formula {
+  background: #eee8d5;
+}
+.solarizedLight .hljs-emphasis {
+  font-style: italic;
+}
+.solarizedLight .hljs-strong {
+  font-weight: bold;
+}

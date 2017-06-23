@@ -1,6 +1,12 @@
 # preact-highlight
 
-a syntax highlight component for preact
+a syntax highlight component for preact, base on awesome [highlight.js](https://github.com/isagalaev/highlight.js)
+
+## features
+
+ - self managed theme style
+ - cache highlight result
+ - support multi-theme in same component
 
 ## usage
 
@@ -18,7 +24,7 @@ use it with your preact application
 
 ```js
 const { h, Component } = require('preact');
-const HighLight = require('preact-highlight');
+const { HighLight, Theme } = require('preact-highlight');
 const demo = {
   a: 1,
   b: [ 1, 2, 3 ],
@@ -26,7 +32,7 @@ const demo = {
 
 class CodeArea extends Component {
   render() {
-    return <HighLight className="cmp-high-light" code={demo}/>;
+    return <HighLight className="cmp-high-light" code={demo} theme={Theme.}/>;
   }
 }
 module.exports = CodeArea;
@@ -34,7 +40,7 @@ module.exports = CodeArea;
 
 ## note
 
-`HighLight` component `code` property had supported `string` `json|object` `function`
+`HighLight` component `code` property had supported `string` or `json` or `object` and `function`
 
 | property          | type                                          | description                              |
 | ----------------- | --------------------------------------------- | ---------------------------------------- |

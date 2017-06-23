@@ -1,0 +1,66 @@
+.default .hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #f0f0f0;
+}
+.default .hljs,
+.default .hljs-subst {
+  color: #444;
+}
+.default .hljs-comment {
+  color: #888;
+}
+.default .hljs-keyword,
+.default .hljs-attribute,
+.default .hljs-selector-tag,
+.default .hljs-meta-keyword,
+.default .hljs-doctag,
+.default .hljs-name {
+  font-weight: bold;
+}
+.default .hljs-type,
+.default .hljs-string,
+.default .hljs-number,
+.default .hljs-selector-id,
+.default .hljs-selector-class,
+.default .hljs-quote,
+.default .hljs-template-tag,
+.default .hljs-deletion {
+  color: #800;
+}
+.default .hljs-title,
+.default .hljs-section {
+  color: #800;
+  font-weight: bold;
+}
+.default .hljs-regexp,
+.default .hljs-symbol,
+.default .hljs-variable,
+.default .hljs-template-variable,
+.default .hljs-link,
+.default .hljs-selector-attr,
+.default .hljs-selector-pseudo {
+  color: #bc6060;
+}
+.default .hljs-literal {
+  color: #78a960;
+}
+.default .hljs-built_in,
+.default .hljs-bullet,
+.default .hljs-code,
+.default .hljs-addition {
+  color: #397300;
+}
+.default .hljs-meta {
+  color: #1f7199;
+}
+.default .hljs-meta-string {
+  color: #4d99bf;
+}
+.default .hljs-emphasis {
+  font-style: italic;
+}
+.default .hljs-strong {
+  font-weight: bold;
+}

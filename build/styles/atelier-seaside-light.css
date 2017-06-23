@@ -1,0 +1,50 @@
+.atelierSeasideLight .hljs-comment,
+.atelierSeasideLight .hljs-quote {
+  color: #687d68;
+}
+.atelierSeasideLight .hljs-variable,
+.atelierSeasideLight .hljs-template-variable,
+.atelierSeasideLight .hljs-attribute,
+.atelierSeasideLight .hljs-tag,
+.atelierSeasideLight .hljs-name,
+.atelierSeasideLight .hljs-regexp,
+.atelierSeasideLight .hljs-link,
+.atelierSeasideLight .hljs-selector-id,
+.atelierSeasideLight .hljs-selector-class {
+  color: #e6193c;
+}
+.atelierSeasideLight .hljs-number,
+.atelierSeasideLight .hljs-meta,
+.atelierSeasideLight .hljs-built_in,
+.atelierSeasideLight .hljs-builtin-name,
+.atelierSeasideLight .hljs-literal,
+.atelierSeasideLight .hljs-type,
+.atelierSeasideLight .hljs-params {
+  color: #87711d;
+}
+.atelierSeasideLight .hljs-string,
+.atelierSeasideLight .hljs-symbol,
+.atelierSeasideLight .hljs-bullet {
+  color: #29a329;
+}
+.atelierSeasideLight .hljs-title,
+.atelierSeasideLight .hljs-section {
+  color: #3d62f5;
+}
+.atelierSeasideLight .hljs-keyword,
+.atelierSeasideLight .hljs-selector-tag {
+  color: #ad2bee;
+}
+.atelierSeasideLight .hljs {
+  display: block;
+  overflow-x: auto;
+  background: #f4fbf4;
+  color: #5e6e5e;
+  padding: 0.5em;
+}
+.atelierSeasideLight .hljs-emphasis {
+  font-style: italic;
+}
+.atelierSeasideLight .hljs-strong {
+  font-weight: bold;
+}

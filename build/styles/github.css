@@ -1,0 +1,77 @@
+.github .hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  color: #333;
+  background: #f8f8f8;
+}
+.github .hljs-comment,
+.github .hljs-quote {
+  color: #998;
+  font-style: italic;
+}
+.github .hljs-keyword,
+.github .hljs-selector-tag,
+.github .hljs-subst {
+  color: #333;
+  font-weight: bold;
+}
+.github .hljs-number,
+.github .hljs-literal,
+.github .hljs-variable,
+.github .hljs-template-variable,
+.github .hljs-tag .hljs-attr {
+  color: #008080;
+}
+.github .hljs-string,
+.github .hljs-doctag {
+  color: #d14;
+}
+.github .hljs-title,
+.github .hljs-section,
+.github .hljs-selector-id {
+  color: #900;
+  font-weight: bold;
+}
+.github .hljs-subst {
+  font-weight: normal;
+}
+.github .hljs-type,
+.github .hljs-class .hljs-title {
+  color: #458;
+  font-weight: bold;
+}
+.github .hljs-tag,
+.github .hljs-name,
+.github .hljs-attribute {
+  color: #000080;
+  font-weight: normal;
+}
+.github .hljs-regexp,
+.github .hljs-link {
+  color: #009926;
+}
+.github .hljs-symbol,
+.github .hljs-bullet {
+  color: #990073;
+}
+.github .hljs-built_in,
+.github .hljs-builtin-name {
+  color: #0086b3;
+}
+.github .hljs-meta {
+  color: #999;
+  font-weight: bold;
+}
+.github .hljs-deletion {
+  background: #fdd;
+}
+.github .hljs-addition {
+  background: #dfd;
+}
+.github .hljs-emphasis {
+  font-style: italic;
+}
+.github .hljs-strong {
+  font-weight: bold;
+}

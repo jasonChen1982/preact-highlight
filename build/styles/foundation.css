@@ -1,0 +1,67 @@
+.foundation .hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #eee;
+  color: #000;
+}
+.foundation .hljs-link,
+.foundation .hljs-emphasis,
+.foundation .hljs-attribute,
+.foundation .hljs-addition {
+  color: #070;
+}
+.foundation .hljs-emphasis {
+  font-style: italic;
+}
+.foundation .hljs-strong,
+.foundation .hljs-string,
+.foundation .hljs-deletion {
+  color: #d14;
+}
+.foundation .hljs-strong {
+  font-weight: bold;
+}
+.foundation .hljs-quote,
+.foundation .hljs-comment {
+  color: #998;
+  font-style: italic;
+}
+.foundation .hljs-section,
+.foundation .hljs-title {
+  color: #900;
+}
+.foundation .hljs-class .hljs-title,
+.foundation .hljs-type {
+  color: #458;
+}
+.foundation .hljs-variable,
+.foundation .hljs-template-variable {
+  color: #369;
+}
+.foundation .hljs-bullet {
+  color: #970;
+}
+.foundation .hljs-meta {
+  color: #34b;
+}
+.foundation .hljs-code,
+.foundation .hljs-number,
+.foundation .hljs-literal,
+.foundation .hljs-keyword,
+.foundation .hljs-selector-tag {
+  color: #099;
+}
+.foundation .hljs-regexp {
+  background-color: #fff0ff;
+  color: #808;
+}
+.foundation .hljs-symbol {
+  color: #990073;
+}
+.foundation .hljs-tag,
+.foundation .hljs-name,
+.foundation .hljs-selector-id,
+.foundation .hljs-selector-class {
+  color: #070;
+}

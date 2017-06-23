@@ -1,0 +1,81 @@
+.railscasts .hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #232323;
+  color: #e6e1dc;
+}
+.railscasts .hljs-comment,
+.railscasts .hljs-quote {
+  color: #bc9458;
+  font-style: italic;
+}
+.railscasts .hljs-keyword,
+.railscasts .hljs-selector-tag {
+  color: #c26230;
+}
+.railscasts .hljs-string,
+.railscasts .hljs-number,
+.railscasts .hljs-regexp,
+.railscasts .hljs-variable,
+.railscasts .hljs-template-variable {
+  color: #a5c261;
+}
+.railscasts .hljs-subst {
+  color: #519f50;
+}
+.railscasts .hljs-tag,
+.railscasts .hljs-name {
+  color: #e8bf6a;
+}
+.railscasts .hljs-type {
+  color: #da4939;
+}
+.railscasts .hljs-symbol,
+.railscasts .hljs-bullet,
+.railscasts .hljs-built_in,
+.railscasts .hljs-builtin-name,
+.railscasts .hljs-attr,
+.railscasts .hljs-link {
+  color: #6d9cbe;
+}
+.railscasts .hljs-params {
+  color: #d0d0ff;
+}
+.railscasts .hljs-attribute {
+  color: #cda869;
+}
+.railscasts .hljs-meta {
+  color: #9b859d;
+}
+.railscasts .hljs-title,
+.railscasts .hljs-section {
+  color: #ffc66d;
+}
+.railscasts .hljs-addition {
+  background-color: #144212;
+  color: #e6e1dc;
+  display: inline-block;
+  width: 100%;
+}
+.railscasts .hljs-deletion {
+  background-color: #600;
+  color: #e6e1dc;
+  display: inline-block;
+  width: 100%;
+}
+.railscasts .hljs-selector-class {
+  color: #9b703f;
+}
+.railscasts .hljs-selector-id {
+  color: #8b98ab;
+}
+.railscasts .hljs-emphasis {
+  font-style: italic;
+}
+.railscasts .hljs-strong {
+  font-weight: bold;
+}
+.railscasts .hljs-link {
+  text-decoration: underline;
+}

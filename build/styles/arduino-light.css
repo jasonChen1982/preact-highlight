@@ -1,0 +1,69 @@
+.arduinoLight .hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #fff;
+}
+.arduinoLight .hljs,
+.arduinoLight .hljs-subst {
+  color: #434f54;
+}
+.arduinoLight .hljs-keyword,
+.arduinoLight .hljs-attribute,
+.arduinoLight .hljs-selector-tag,
+.arduinoLight .hljs-doctag,
+.arduinoLight .hljs-name {
+  color: #00979d;
+}
+.arduinoLight .hljs-built_in,
+.arduinoLight .hljs-literal,
+.arduinoLight .hljs-bullet,
+.arduinoLight .hljs-code,
+.arduinoLight .hljs-addition {
+  color: #d35400;
+}
+.arduinoLight .hljs-regexp,
+.arduinoLight .hljs-symbol,
+.arduinoLight .hljs-variable,
+.arduinoLight .hljs-template-variable,
+.arduinoLight .hljs-link,
+.arduinoLight .hljs-selector-attr,
+.arduinoLight .hljs-selector-pseudo {
+  color: #00979d;
+}
+.arduinoLight .hljs-type,
+.arduinoLight .hljs-string,
+.arduinoLight .hljs-selector-id,
+.arduinoLight .hljs-selector-class,
+.arduinoLight .hljs-quote,
+.arduinoLight .hljs-template-tag,
+.arduinoLight .hljs-deletion {
+  color: #005c5f;
+}
+.arduinoLight .hljs-title,
+.arduinoLight .hljs-section {
+  color: #800;
+  font-weight: bold;
+}
+.arduinoLight .hljs-comment {
+  color: rgba(149,165,166,0.8);
+}
+.arduinoLight .hljs-meta-keyword {
+  color: #728e00;
+}
+.arduinoLight .hljs-meta {
+  color: #728e00;
+  color: #434f54;
+}
+.arduinoLight .hljs-emphasis {
+  font-style: italic;
+}
+.arduinoLight .hljs-strong {
+  font-weight: bold;
+}
+.arduinoLight .hljs-function {
+  color: #728e00;
+}
+.arduinoLight .hljs-number {
+  color: #8a7b52;
+}

@@ -1,0 +1,74 @@
+.routeros .hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #f0f0f0;
+}
+.routeros .hljs,
+.routeros .hljs-subst {
+  color: #444;
+}
+.routeros .hljs-comment {
+  color: #888;
+}
+.routeros .hljs-keyword,
+.routeros .hljs-selector-tag,
+.routeros .hljs-meta-keyword,
+.routeros .hljs-doctag,
+.routeros .hljs-name {
+  font-weight: bold;
+}
+.routeros .hljs-attribute {
+  color: #0e9a00;
+}
+.routeros .hljs-function {
+  color: #99069a;
+}
+.routeros .hljs-builtin-name {
+  color: #99069a;
+}
+.routeros .hljs-type,
+.routeros .hljs-string,
+.routeros .hljs-number,
+.routeros .hljs-selector-id,
+.routeros .hljs-selector-class,
+.routeros .hljs-quote,
+.routeros .hljs-template-tag,
+.routeros .hljs-deletion {
+  color: #800;
+}
+.routeros .hljs-title,
+.routeros .hljs-section {
+  color: #800;
+  font-weight: bold;
+}
+.routeros .hljs-regexp,
+.routeros .hljs-symbol,
+.routeros .hljs-variable,
+.routeros .hljs-template-variable,
+.routeros .hljs-link,
+.routeros .hljs-selector-attr,
+.routeros .hljs-selector-pseudo {
+  color: #bc6060;
+}
+.routeros .hljs-literal {
+  color: #78a960;
+}
+.routeros .hljs-built_in,
+.routeros .hljs-bullet,
+.routeros .hljs-code,
+.routeros .hljs-addition {
+  color: #0c9a9a;
+}
+.routeros .hljs-meta {
+  color: #1f7199;
+}
+.routeros .hljs-meta-string {
+  color: #4d99bf;
+}
+.routeros .hljs-emphasis {
+  font-style: italic;
+}
+.routeros .hljs-strong {
+  font-weight: bold;
+}

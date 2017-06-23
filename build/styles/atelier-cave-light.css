@@ -1,0 +1,62 @@
+.atelierCaveLight .hljs-comment,
+.atelierCaveLight .hljs-quote {
+  color: #655f6d;
+}
+.atelierCaveLight .hljs-variable,
+.atelierCaveLight .hljs-template-variable,
+.atelierCaveLight .hljs-attribute,
+.atelierCaveLight .hljs-tag,
+.atelierCaveLight .hljs-name,
+.atelierCaveLight .hljs-regexp,
+.atelierCaveLight .hljs-link,
+.atelierCaveLight .hljs-selector-id,
+.atelierCaveLight .hljs-selector-class {
+  color: #be4678;
+}
+.atelierCaveLight .hljs-number,
+.atelierCaveLight .hljs-meta,
+.atelierCaveLight .hljs-built_in,
+.atelierCaveLight .hljs-builtin-name,
+.atelierCaveLight .hljs-literal,
+.atelierCaveLight .hljs-type,
+.atelierCaveLight .hljs-params {
+  color: #aa573c;
+}
+.atelierCaveLight .hljs-string,
+.atelierCaveLight .hljs-symbol,
+.atelierCaveLight .hljs-bullet {
+  color: #2a9292;
+}
+.atelierCaveLight .hljs-title,
+.atelierCaveLight .hljs-section {
+  color: #576ddb;
+}
+.atelierCaveLight .hljs-keyword,
+.atelierCaveLight .hljs-selector-tag {
+  color: #955ae7;
+}
+.atelierCaveLight .hljs-deletion,
+.atelierCaveLight .hljs-addition {
+  color: #19171c;
+  display: inline-block;
+  width: 100%;
+}
+.atelierCaveLight .hljs-deletion {
+  background-color: #be4678;
+}
+.atelierCaveLight .hljs-addition {
+  background-color: #2a9292;
+}
+.atelierCaveLight .hljs {
+  display: block;
+  overflow-x: auto;
+  background: #efecf4;
+  color: #585260;
+  padding: 0.5em;
+}
+.atelierCaveLight .hljs-emphasis {
+  font-style: italic;
+}
+.atelierCaveLight .hljs-strong {
+  font-weight: bold;
+}

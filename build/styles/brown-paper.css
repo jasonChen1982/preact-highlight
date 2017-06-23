@@ -1,0 +1,52 @@
+.brownPaper .hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #b7a68e url("./brown-papersq.png");
+}
+.brownPaper .hljs-keyword,
+.brownPaper .hljs-selector-tag,
+.brownPaper .hljs-literal {
+  color: #059;
+  font-weight: bold;
+}
+.brownPaper .hljs,
+.brownPaper .hljs-subst {
+  color: #363c69;
+}
+.brownPaper .hljs-string,
+.brownPaper .hljs-title,
+.brownPaper .hljs-section,
+.brownPaper .hljs-type,
+.brownPaper .hljs-attribute,
+.brownPaper .hljs-symbol,
+.brownPaper .hljs-bullet,
+.brownPaper .hljs-built_in,
+.brownPaper .hljs-addition,
+.brownPaper .hljs-variable,
+.brownPaper .hljs-template-tag,
+.brownPaper .hljs-template-variable,
+.brownPaper .hljs-link,
+.brownPaper .hljs-name {
+  color: #2c009f;
+}
+.brownPaper .hljs-comment,
+.brownPaper .hljs-quote,
+.brownPaper .hljs-meta,
+.brownPaper .hljs-deletion {
+  color: #802022;
+}
+.brownPaper .hljs-keyword,
+.brownPaper .hljs-selector-tag,
+.brownPaper .hljs-literal,
+.brownPaper .hljs-doctag,
+.brownPaper .hljs-title,
+.brownPaper .hljs-section,
+.brownPaper .hljs-type,
+.brownPaper .hljs-name,
+.brownPaper .hljs-strong {
+  font-weight: bold;
+}
+.brownPaper .hljs-emphasis {
+  font-style: italic;
+}

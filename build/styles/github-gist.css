@@ -1,0 +1,56 @@
+.githubGist .hljs {
+  display: block;
+  background: #fff;
+  padding: 0.5em;
+  color: #333;
+  overflow-x: auto;
+}
+.githubGist .hljs-comment,
+.githubGist .hljs-meta {
+  color: #969896;
+}
+.githubGist .hljs-string,
+.githubGist .hljs-variable,
+.githubGist .hljs-template-variable,
+.githubGist .hljs-strong,
+.githubGist .hljs-emphasis,
+.githubGist .hljs-quote {
+  color: #df5000;
+}
+.githubGist .hljs-keyword,
+.githubGist .hljs-selector-tag,
+.githubGist .hljs-type {
+  color: #a71d5d;
+}
+.githubGist .hljs-literal,
+.githubGist .hljs-symbol,
+.githubGist .hljs-bullet,
+.githubGist .hljs-attribute {
+  color: #0086b3;
+}
+.githubGist .hljs-section,
+.githubGist .hljs-name {
+  color: #63a35c;
+}
+.githubGist .hljs-tag {
+  color: #333;
+}
+.githubGist .hljs-title,
+.githubGist .hljs-attr,
+.githubGist .hljs-selector-id,
+.githubGist .hljs-selector-class,
+.githubGist .hljs-selector-attr,
+.githubGist .hljs-selector-pseudo {
+  color: #795da3;
+}
+.githubGist .hljs-addition {
+  color: #55a532;
+  background-color: #eaffea;
+}
+.githubGist .hljs-deletion {
+  color: #bd2c00;
+  background-color: #ffecec;
+}
+.githubGist .hljs-link {
+  text-decoration: underline;
+}

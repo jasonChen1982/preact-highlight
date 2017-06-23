@@ -1,0 +1,62 @@
+.atelierPlateauLight .hljs-comment,
+.atelierPlateauLight .hljs-quote {
+  color: #655d5d;
+}
+.atelierPlateauLight .hljs-variable,
+.atelierPlateauLight .hljs-template-variable,
+.atelierPlateauLight .hljs-attribute,
+.atelierPlateauLight .hljs-tag,
+.atelierPlateauLight .hljs-name,
+.atelierPlateauLight .hljs-regexp,
+.atelierPlateauLight .hljs-link,
+.atelierPlateauLight .hljs-selector-id,
+.atelierPlateauLight .hljs-selector-class {
+  color: #ca4949;
+}
+.atelierPlateauLight .hljs-number,
+.atelierPlateauLight .hljs-meta,
+.atelierPlateauLight .hljs-built_in,
+.atelierPlateauLight .hljs-builtin-name,
+.atelierPlateauLight .hljs-literal,
+.atelierPlateauLight .hljs-type,
+.atelierPlateauLight .hljs-params {
+  color: #b45a3c;
+}
+.atelierPlateauLight .hljs-string,
+.atelierPlateauLight .hljs-symbol,
+.atelierPlateauLight .hljs-bullet {
+  color: #4b8b8b;
+}
+.atelierPlateauLight .hljs-title,
+.atelierPlateauLight .hljs-section {
+  color: #7272ca;
+}
+.atelierPlateauLight .hljs-keyword,
+.atelierPlateauLight .hljs-selector-tag {
+  color: #8464c4;
+}
+.atelierPlateauLight .hljs-deletion,
+.atelierPlateauLight .hljs-addition {
+  color: #1b1818;
+  display: inline-block;
+  width: 100%;
+}
+.atelierPlateauLight .hljs-deletion {
+  background-color: #ca4949;
+}
+.atelierPlateauLight .hljs-addition {
+  background-color: #4b8b8b;
+}
+.atelierPlateauLight .hljs {
+  display: block;
+  overflow-x: auto;
+  background: #f4ecec;
+  color: #585050;
+  padding: 0.5em;
+}
+.atelierPlateauLight .hljs-emphasis {
+  font-style: italic;
+}
+.atelierPlateauLight .hljs-strong {
+  font-weight: bold;
+}

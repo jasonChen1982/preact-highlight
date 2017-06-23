@@ -1,0 +1,52 @@
+.paraisoDark .hljs-comment,
+.paraisoDark .hljs-quote {
+  color: #8d8687;
+}
+.paraisoDark .hljs-variable,
+.paraisoDark .hljs-template-variable,
+.paraisoDark .hljs-tag,
+.paraisoDark .hljs-name,
+.paraisoDark .hljs-selector-id,
+.paraisoDark .hljs-selector-class,
+.paraisoDark .hljs-regexp,
+.paraisoDark .hljs-link,
+.paraisoDark .hljs-meta {
+  color: #ef6155;
+}
+.paraisoDark .hljs-number,
+.paraisoDark .hljs-built_in,
+.paraisoDark .hljs-builtin-name,
+.paraisoDark .hljs-literal,
+.paraisoDark .hljs-type,
+.paraisoDark .hljs-params,
+.paraisoDark .hljs-deletion {
+  color: #f99b15;
+}
+.paraisoDark .hljs-title,
+.paraisoDark .hljs-section,
+.paraisoDark .hljs-attribute {
+  color: #fec418;
+}
+.paraisoDark .hljs-string,
+.paraisoDark .hljs-symbol,
+.paraisoDark .hljs-bullet,
+.paraisoDark .hljs-addition {
+  color: #48b685;
+}
+.paraisoDark .hljs-keyword,
+.paraisoDark .hljs-selector-tag {
+  color: #815ba4;
+}
+.paraisoDark .hljs {
+  display: block;
+  overflow-x: auto;
+  background: #2f1e2e;
+  color: #a39e9b;
+  padding: 0.5em;
+}
+.paraisoDark .hljs-emphasis {
+  font-style: italic;
+}
+.paraisoDark .hljs-strong {
+  font-weight: bold;
+}

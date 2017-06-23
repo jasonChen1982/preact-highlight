@@ -1,0 +1,57 @@
+.far .hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #000080;
+}
+.far .hljs,
+.far .hljs-subst {
+  color: #0ff;
+}
+.far .hljs-string,
+.far .hljs-attribute,
+.far .hljs-symbol,
+.far .hljs-bullet,
+.far .hljs-built_in,
+.far .hljs-builtin-name,
+.far .hljs-template-tag,
+.far .hljs-template-variable,
+.far .hljs-addition {
+  color: #ff0;
+}
+.far .hljs-keyword,
+.far .hljs-selector-tag,
+.far .hljs-section,
+.far .hljs-type,
+.far .hljs-name,
+.far .hljs-selector-id,
+.far .hljs-selector-class,
+.far .hljs-variable {
+  color: #fff;
+}
+.far .hljs-comment,
+.far .hljs-quote,
+.far .hljs-doctag,
+.far .hljs-deletion {
+  color: #888;
+}
+.far .hljs-number,
+.far .hljs-regexp,
+.far .hljs-literal,
+.far .hljs-link {
+  color: #0f0;
+}
+.far .hljs-meta {
+  color: #008080;
+}
+.far .hljs-keyword,
+.far .hljs-selector-tag,
+.far .hljs-title,
+.far .hljs-section,
+.far .hljs-name,
+.far .hljs-strong {
+  font-weight: bold;
+}
+.far .hljs-emphasis {
+  font-style: italic;
+}

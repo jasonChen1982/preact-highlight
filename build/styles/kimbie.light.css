@@ -1,0 +1,53 @@
+.kimbieLight .hljs-comment,
+.kimbieLight .hljs-quote {
+  color: #a57a4c;
+}
+.kimbieLight .hljs-variable,
+.kimbieLight .hljs-template-variable,
+.kimbieLight .hljs-tag,
+.kimbieLight .hljs-name,
+.kimbieLight .hljs-selector-id,
+.kimbieLight .hljs-selector-class,
+.kimbieLight .hljs-regexp,
+.kimbieLight .hljs-meta {
+  color: #dc3958;
+}
+.kimbieLight .hljs-number,
+.kimbieLight .hljs-built_in,
+.kimbieLight .hljs-builtin-name,
+.kimbieLight .hljs-literal,
+.kimbieLight .hljs-type,
+.kimbieLight .hljs-params,
+.kimbieLight .hljs-deletion,
+.kimbieLight .hljs-link {
+  color: #f79a32;
+}
+.kimbieLight .hljs-title,
+.kimbieLight .hljs-section,
+.kimbieLight .hljs-attribute {
+  color: #f06431;
+}
+.kimbieLight .hljs-string,
+.kimbieLight .hljs-symbol,
+.kimbieLight .hljs-bullet,
+.kimbieLight .hljs-addition {
+  color: #889b4a;
+}
+.kimbieLight .hljs-keyword,
+.kimbieLight .hljs-selector-tag,
+.kimbieLight .hljs-function {
+  color: #98676a;
+}
+.kimbieLight .hljs {
+  display: block;
+  overflow-x: auto;
+  background: #fbebd4;
+  color: #84613d;
+  padding: 0.5em;
+}
+.kimbieLight .hljs-emphasis {
+  font-style: italic;
+}
+.kimbieLight .hljs-strong {
+  font-weight: bold;
+}

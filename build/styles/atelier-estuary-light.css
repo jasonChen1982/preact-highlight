@@ -1,0 +1,62 @@
+.atelierEstuaryLight .hljs-comment,
+.atelierEstuaryLight .hljs-quote {
+  color: #6c6b5a;
+}
+.atelierEstuaryLight .hljs-variable,
+.atelierEstuaryLight .hljs-template-variable,
+.atelierEstuaryLight .hljs-attribute,
+.atelierEstuaryLight .hljs-tag,
+.atelierEstuaryLight .hljs-name,
+.atelierEstuaryLight .hljs-regexp,
+.atelierEstuaryLight .hljs-link,
+.atelierEstuaryLight .hljs-selector-id,
+.atelierEstuaryLight .hljs-selector-class {
+  color: #ba6236;
+}
+.atelierEstuaryLight .hljs-number,
+.atelierEstuaryLight .hljs-meta,
+.atelierEstuaryLight .hljs-built_in,
+.atelierEstuaryLight .hljs-builtin-name,
+.atelierEstuaryLight .hljs-literal,
+.atelierEstuaryLight .hljs-type,
+.atelierEstuaryLight .hljs-params {
+  color: #ae7313;
+}
+.atelierEstuaryLight .hljs-string,
+.atelierEstuaryLight .hljs-symbol,
+.atelierEstuaryLight .hljs-bullet {
+  color: #7d9726;
+}
+.atelierEstuaryLight .hljs-title,
+.atelierEstuaryLight .hljs-section {
+  color: #36a166;
+}
+.atelierEstuaryLight .hljs-keyword,
+.atelierEstuaryLight .hljs-selector-tag {
+  color: #5f9182;
+}
+.atelierEstuaryLight .hljs-deletion,
+.atelierEstuaryLight .hljs-addition {
+  color: #22221b;
+  display: inline-block;
+  width: 100%;
+}
+.atelierEstuaryLight .hljs-deletion {
+  background-color: #ba6236;
+}
+.atelierEstuaryLight .hljs-addition {
+  background-color: #7d9726;
+}
+.atelierEstuaryLight .hljs {
+  display: block;
+  overflow-x: auto;
+  background: #f4f3ec;
+  color: #5f5e4e;
+  padding: 0.5em;
+}
+.atelierEstuaryLight .hljs-emphasis {
+  font-style: italic;
+}
+.atelierEstuaryLight .hljs-strong {
+  font-weight: bold;
+}

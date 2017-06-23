@@ -1,0 +1,66 @@
+.rainbow .hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #474949;
+  color: #d1d9e1;
+}
+.rainbow .hljs-comment,
+.rainbow .hljs-quote {
+  color: #969896;
+  font-style: italic;
+}
+.rainbow .hljs-keyword,
+.rainbow .hljs-selector-tag,
+.rainbow .hljs-literal,
+.rainbow .hljs-type,
+.rainbow .hljs-addition {
+  color: #c9c;
+}
+.rainbow .hljs-number,
+.rainbow .hljs-selector-attr,
+.rainbow .hljs-selector-pseudo {
+  color: #f99157;
+}
+.rainbow .hljs-string,
+.rainbow .hljs-doctag,
+.rainbow .hljs-regexp {
+  color: #8abeb7;
+}
+.rainbow .hljs-title,
+.rainbow .hljs-name,
+.rainbow .hljs-section,
+.rainbow .hljs-built_in {
+  color: #b5bd68;
+}
+.rainbow .hljs-variable,
+.rainbow .hljs-template-variable,
+.rainbow .hljs-selector-id,
+.rainbow .hljs-class .hljs-title {
+  color: #fc6;
+}
+.rainbow .hljs-section,
+.rainbow .hljs-name,
+.rainbow .hljs-strong {
+  font-weight: bold;
+}
+.rainbow .hljs-symbol,
+.rainbow .hljs-bullet,
+.rainbow .hljs-subst,
+.rainbow .hljs-meta,
+.rainbow .hljs-link {
+  color: #f99157;
+}
+.rainbow .hljs-deletion {
+  color: #dc322f;
+}
+.rainbow .hljs-formula {
+  background: #eee8d5;
+}
+.rainbow .hljs-attr,
+.rainbow .hljs-attribute {
+  color: #81a2be;
+}
+.rainbow .hljs-emphasis {
+  font-style: italic;
+}

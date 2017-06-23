@@ -1,0 +1,71 @@
+.obsidian .hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #282b2e;
+}
+.obsidian .hljs-keyword,
+.obsidian .hljs-selector-tag,
+.obsidian .hljs-literal,
+.obsidian .hljs-selector-id {
+  color: #93c763;
+}
+.obsidian .hljs-number {
+  color: #ffcd22;
+}
+.obsidian .hljs {
+  color: #e0e2e4;
+}
+.obsidian .hljs-attribute {
+  color: #668bb0;
+}
+.obsidian .hljs-code,
+.obsidian .hljs-class .hljs-title,
+.obsidian .hljs-section {
+  color: #fff;
+}
+.obsidian .hljs-regexp,
+.obsidian .hljs-link {
+  color: #d39745;
+}
+.obsidian .hljs-meta {
+  color: #557182;
+}
+.obsidian .hljs-tag,
+.obsidian .hljs-name,
+.obsidian .hljs-bullet,
+.obsidian .hljs-subst,
+.obsidian .hljs-emphasis,
+.obsidian .hljs-type,
+.obsidian .hljs-built_in,
+.obsidian .hljs-selector-attr,
+.obsidian .hljs-selector-pseudo,
+.obsidian .hljs-addition,
+.obsidian .hljs-variable,
+.obsidian .hljs-template-tag,
+.obsidian .hljs-template-variable {
+  color: #8cbbad;
+}
+.obsidian .hljs-string,
+.obsidian .hljs-symbol {
+  color: #ec7600;
+}
+.obsidian .hljs-comment,
+.obsidian .hljs-quote,
+.obsidian .hljs-deletion {
+  color: #818e96;
+}
+.obsidian .hljs-selector-class {
+  color: #a082bd;
+}
+.obsidian .hljs-keyword,
+.obsidian .hljs-selector-tag,
+.obsidian .hljs-literal,
+.obsidian .hljs-doctag,
+.obsidian .hljs-title,
+.obsidian .hljs-section,
+.obsidian .hljs-type,
+.obsidian .hljs-name,
+.obsidian .hljs-strong {
+  font-weight: bold;
+}

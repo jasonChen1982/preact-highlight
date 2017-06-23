@@ -1,0 +1,54 @@
+.ocean .hljs-comment,
+.ocean .hljs-quote {
+  color: #65737e;
+}
+.ocean .hljs-variable,
+.ocean .hljs-template-variable,
+.ocean .hljs-tag,
+.ocean .hljs-name,
+.ocean .hljs-selector-id,
+.ocean .hljs-selector-class,
+.ocean .hljs-regexp,
+.ocean .hljs-deletion {
+  color: #bf616a;
+}
+.ocean .hljs-number,
+.ocean .hljs-built_in,
+.ocean .hljs-builtin-name,
+.ocean .hljs-literal,
+.ocean .hljs-type,
+.ocean .hljs-params,
+.ocean .hljs-meta,
+.ocean .hljs-link {
+  color: #d08770;
+}
+.ocean .hljs-attribute {
+  color: #ebcb8b;
+}
+.ocean .hljs-string,
+.ocean .hljs-symbol,
+.ocean .hljs-bullet,
+.ocean .hljs-addition {
+  color: #a3be8c;
+}
+.ocean .hljs-title,
+.ocean .hljs-section {
+  color: #8fa1b3;
+}
+.ocean .hljs-keyword,
+.ocean .hljs-selector-tag {
+  color: #b48ead;
+}
+.ocean .hljs {
+  display: block;
+  overflow-x: auto;
+  background: #2b303b;
+  color: #c0c5ce;
+  padding: 0.5em;
+}
+.ocean .hljs-emphasis {
+  font-style: italic;
+}
+.ocean .hljs-strong {
+  font-weight: bold;
+}

@@ -1,0 +1,62 @@
+.atelierCaveDark .hljs-comment,
+.atelierCaveDark .hljs-quote {
+  color: #7e7887;
+}
+.atelierCaveDark .hljs-variable,
+.atelierCaveDark .hljs-template-variable,
+.atelierCaveDark .hljs-attribute,
+.atelierCaveDark .hljs-regexp,
+.atelierCaveDark .hljs-link,
+.atelierCaveDark .hljs-tag,
+.atelierCaveDark .hljs-name,
+.atelierCaveDark .hljs-selector-id,
+.atelierCaveDark .hljs-selector-class {
+  color: #be4678;
+}
+.atelierCaveDark .hljs-number,
+.atelierCaveDark .hljs-meta,
+.atelierCaveDark .hljs-built_in,
+.atelierCaveDark .hljs-builtin-name,
+.atelierCaveDark .hljs-literal,
+.atelierCaveDark .hljs-type,
+.atelierCaveDark .hljs-params {
+  color: #aa573c;
+}
+.atelierCaveDark .hljs-string,
+.atelierCaveDark .hljs-symbol,
+.atelierCaveDark .hljs-bullet {
+  color: #2a9292;
+}
+.atelierCaveDark .hljs-title,
+.atelierCaveDark .hljs-section {
+  color: #576ddb;
+}
+.atelierCaveDark .hljs-keyword,
+.atelierCaveDark .hljs-selector-tag {
+  color: #955ae7;
+}
+.atelierCaveDark .hljs-deletion,
+.atelierCaveDark .hljs-addition {
+  color: #19171c;
+  display: inline-block;
+  width: 100%;
+}
+.atelierCaveDark .hljs-deletion {
+  background-color: #be4678;
+}
+.atelierCaveDark .hljs-addition {
+  background-color: #2a9292;
+}
+.atelierCaveDark .hljs {
+  display: block;
+  overflow-x: auto;
+  background: #19171c;
+  color: #8b8792;
+  padding: 0.5em;
+}
+.atelierCaveDark .hljs-emphasis {
+  font-style: italic;
+}
+.atelierCaveDark .hljs-strong {
+  font-weight: bold;
+}

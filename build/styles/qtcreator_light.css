@@ -1,0 +1,66 @@
+.qtcreatorLight .hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #fff;
+}
+.qtcreatorLight .hljs,
+.qtcreatorLight .hljs-subst,
+.qtcreatorLight .hljs-tag,
+.qtcreatorLight .hljs-title {
+  color: #000;
+}
+.qtcreatorLight .hljs-strong,
+.qtcreatorLight .hljs-emphasis {
+  color: #000;
+}
+.qtcreatorLight .hljs-bullet,
+.qtcreatorLight .hljs-quote,
+.qtcreatorLight .hljs-number,
+.qtcreatorLight .hljs-regexp,
+.qtcreatorLight .hljs-literal {
+  color: #000080;
+}
+.qtcreatorLight .hljs-code,
+.qtcreatorLight .hljs-selector-class {
+  color: #800080;
+}
+.qtcreatorLight .hljs-emphasis,
+.qtcreatorLight .hljs-stronge,
+.qtcreatorLight .hljs-type {
+  font-style: italic;
+}
+.qtcreatorLight .hljs-keyword,
+.qtcreatorLight .hljs-selector-tag,
+.qtcreatorLight .hljs-function,
+.qtcreatorLight .hljs-section,
+.qtcreatorLight .hljs-symbol,
+.qtcreatorLight .hljs-name {
+  color: #808000;
+}
+.qtcreatorLight .hljs-attribute {
+  color: #800000;
+}
+.qtcreatorLight .hljs-variable,
+.qtcreatorLight .hljs-params,
+.qtcreatorLight .hljs-class .hljs-title {
+  color: #0055af;
+}
+.qtcreatorLight .hljs-string,
+.qtcreatorLight .hljs-selector-id,
+.qtcreatorLight .hljs-selector-attr,
+.qtcreatorLight .hljs-selector-pseudo,
+.qtcreatorLight .hljs-type,
+.qtcreatorLight .hljs-built_in,
+.qtcreatorLight .hljs-builtin-name,
+.qtcreatorLight .hljs-template-tag,
+.qtcreatorLight .hljs-template-variable,
+.qtcreatorLight .hljs-addition,
+.qtcreatorLight .hljs-link {
+  color: #008000;
+}
+.qtcreatorLight .hljs-comment,
+.qtcreatorLight .hljs-meta,
+.qtcreatorLight .hljs-deletion {
+  color: #008000;
+}

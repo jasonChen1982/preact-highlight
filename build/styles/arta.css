@@ -1,0 +1,58 @@
+.arta .hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #222;
+}
+.arta .hljs,
+.arta .hljs-subst {
+  color: #aaa;
+}
+.arta .hljs-section {
+  color: #fff;
+}
+.arta .hljs-comment,
+.arta .hljs-quote,
+.arta .hljs-meta {
+  color: #444;
+}
+.arta .hljs-string,
+.arta .hljs-symbol,
+.arta .hljs-bullet,
+.arta .hljs-regexp {
+  color: #fc3;
+}
+.arta .hljs-number,
+.arta .hljs-addition {
+  color: #0c6;
+}
+.arta .hljs-built_in,
+.arta .hljs-builtin-name,
+.arta .hljs-literal,
+.arta .hljs-type,
+.arta .hljs-template-variable,
+.arta .hljs-attribute,
+.arta .hljs-link {
+  color: #32aaee;
+}
+.arta .hljs-keyword,
+.arta .hljs-selector-tag,
+.arta .hljs-name,
+.arta .hljs-selector-id,
+.arta .hljs-selector-class {
+  color: #64a;
+}
+.arta .hljs-title,
+.arta .hljs-variable,
+.arta .hljs-deletion,
+.arta .hljs-template-tag {
+  color: #b16;
+}
+.arta .hljs-section,
+.arta .hljs-doctag,
+.arta .hljs-strong {
+  font-weight: bold;
+}
+.arta .hljs-emphasis {
+  font-style: italic;
+}

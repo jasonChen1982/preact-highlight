@@ -1,0 +1,53 @@
+.vs .hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #fff;
+  color: #000;
+}
+.vs .hljs-comment,
+.vs .hljs-quote,
+.vs .hljs-variable {
+  color: #008000;
+}
+.vs .hljs-keyword,
+.vs .hljs-selector-tag,
+.vs .hljs-built_in,
+.vs .hljs-name,
+.vs .hljs-tag {
+  color: #00f;
+}
+.vs .hljs-string,
+.vs .hljs-title,
+.vs .hljs-section,
+.vs .hljs-attribute,
+.vs .hljs-literal,
+.vs .hljs-template-tag,
+.vs .hljs-template-variable,
+.vs .hljs-type,
+.vs .hljs-addition {
+  color: #a31515;
+}
+.vs .hljs-deletion,
+.vs .hljs-selector-attr,
+.vs .hljs-selector-pseudo,
+.vs .hljs-meta {
+  color: #2b91af;
+}
+.vs .hljs-doctag {
+  color: #808080;
+}
+.vs .hljs-attr {
+  color: #f00;
+}
+.vs .hljs-symbol,
+.vs .hljs-bullet,
+.vs .hljs-link {
+  color: #00b0e8;
+}
+.vs .hljs-emphasis {
+  font-style: italic;
+}
+.vs .hljs-strong {
+  font-weight: bold;
+}

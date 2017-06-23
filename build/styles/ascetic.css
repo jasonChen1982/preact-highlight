@@ -1,0 +1,35 @@
+.ascetic .hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #fff;
+  color: #000;
+}
+.ascetic .hljs-string,
+.ascetic .hljs-variable,
+.ascetic .hljs-template-variable,
+.ascetic .hljs-symbol,
+.ascetic .hljs-bullet,
+.ascetic .hljs-section,
+.ascetic .hljs-addition,
+.ascetic .hljs-attribute,
+.ascetic .hljs-link {
+  color: #888;
+}
+.ascetic .hljs-comment,
+.ascetic .hljs-quote,
+.ascetic .hljs-meta,
+.ascetic .hljs-deletion {
+  color: #ccc;
+}
+.ascetic .hljs-keyword,
+.ascetic .hljs-selector-tag,
+.ascetic .hljs-section,
+.ascetic .hljs-name,
+.ascetic .hljs-type,
+.ascetic .hljs-strong {
+  font-weight: bold;
+}
+.ascetic .hljs-emphasis {
+  font-style: italic;
+}

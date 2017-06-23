@@ -12,7 +12,11 @@ var _require = require('preact'),
     h = _require.h,
     Component = _require.Component;
 
-var hljs = require('highlight.js');
+var hljs = require('./lib/hljs');
+
+var _require2 = require('./lib/theme'),
+    THEME = _require2.THEME,
+    themeManger = _require2.themeManger;
 
 var HighLight = function (_Component) {
   _inherits(HighLight, _Component);
@@ -31,11 +35,7 @@ var HighLight = function (_Component) {
           language = _props.language;
 
       var codeStr = this.stringify(code);
-
-      var _hljs$highlight = hljs.highlight(language, codeStr),
-          value = _hljs$highlight.value;
-
-      return value;
+      return hljs(codeStr, language);
     }
   }, {
     key: 'stringify',
@@ -45,19 +45,33 @@ var HighLight = function (_Component) {
       return JSON.stringify(raw, null, '  ');
     }
   }, {
+    key: 'updateTheme',
+    value: function updateTheme(theme) {
+      if (theme !== this.theme) {
+        this.theme = theme;
+        themeManger(theme);
+      }
+    }
+  }, {
     key: 'render',
     value: function render(_ref) {
       var language = _ref.language,
-          className = _ref.className;
+          className = _ref.className,
+          theme = _ref.theme;
 
-      var __html = this.parserSyntax();
+      var codeStr = this.parserSyntax();
+      this.updateTheme(theme);
       return h(
         'div',
-        { className: className },
+        { className: className + ' ' + theme },
         h(
           'pre',
           null,
-          h('code', { className: 'hljs ' + language, dangerouslySetInnerHTML: { __html: __html } })
+          h(
+            'code',
+            { className: 'hljs ' + language },
+            codeStr
+          )
         )
       );
     }
@@ -67,8 +81,11 @@ var HighLight = function (_Component) {
 }(Component);
 
 HighLight.defaultProps = {
-  language: 'json'
+  language: 'json',
+  theme: THEME.monokaiSublime
 };
 
-module.exports = HighLight;
-//# sourceMappingURL=index.js.map
+module.exports = {
+  THEME: THEME,
+  HighLight: HighLight
+};

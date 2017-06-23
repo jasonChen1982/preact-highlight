@@ -1,0 +1,53 @@
+.dracula .hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #282a36;
+}
+.dracula .hljs-keyword,
+.dracula .hljs-selector-tag,
+.dracula .hljs-literal,
+.dracula .hljs-section,
+.dracula .hljs-link {
+  color: #8be9fd;
+}
+.dracula .hljs-function .hljs-keyword {
+  color: #ff79c6;
+}
+.dracula .hljs,
+.dracula .hljs-subst {
+  color: #f8f8f2;
+}
+.dracula .hljs-string,
+.dracula .hljs-title,
+.dracula .hljs-name,
+.dracula .hljs-type,
+.dracula .hljs-attribute,
+.dracula .hljs-symbol,
+.dracula .hljs-bullet,
+.dracula .hljs-addition,
+.dracula .hljs-variable,
+.dracula .hljs-template-tag,
+.dracula .hljs-template-variable {
+  color: #f1fa8c;
+}
+.dracula .hljs-comment,
+.dracula .hljs-quote,
+.dracula .hljs-deletion,
+.dracula .hljs-meta {
+  color: #6272a4;
+}
+.dracula .hljs-keyword,
+.dracula .hljs-selector-tag,
+.dracula .hljs-literal,
+.dracula .hljs-title,
+.dracula .hljs-section,
+.dracula .hljs-doctag,
+.dracula .hljs-type,
+.dracula .hljs-name,
+.dracula .hljs-strong {
+  font-weight: bold;
+}
+.dracula .hljs-emphasis {
+  font-style: italic;
+}
