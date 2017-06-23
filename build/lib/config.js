@@ -2,7 +2,7 @@
 'use strict';
 
 module.exports = {
-  theme: {
+  THEME: {
   "agate": "agate",
   "androidstudio": "androidstudio",
   "arduinoLight": "arduino-light",

@@ -1,8 +1,7 @@
 'use strict';
 
 const isBrowser = require('./isBrowser');
-const version = require('./version');
-const THEME = require('./constants');
+const { THEME, version } = require('./config');
 const utils = require('./utils');
 const CACHE_STYLES = {};
 

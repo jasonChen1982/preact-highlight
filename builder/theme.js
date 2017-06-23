@@ -28,7 +28,7 @@ function wrapConfig(keyWord, version) {
 'use strict';
 
 module.exports = {
-  theme: ${JSON.stringify(keyWord, null, '  ')},
+  THEME: ${JSON.stringify(keyWord, null, '  ')},
   version: '${version}',
 };
 
