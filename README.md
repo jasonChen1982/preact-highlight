@@ -6,25 +6,15 @@ a syntax highlight component for preact, base on awesome [highlight.js](https://
 
  - self managed theme style
  - cache highlight result
- - support multi-theme in same component
+ - support multi-theme in same application
 
 ## usage
 
-#### step.1
-
-link theme stylesheets
-
-```html
-<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css">
-```
-
-#### step.2
-
-use it with your preact application
+use `preact-highlight` with your preact application
 
 ```js
 const { h, Component } = require('preact');
-const { HighLight, Theme } = require('preact-highlight');
+const { HighLight, THEME } = require('preact-highlight');
 const demo = {
   a: 1,
   b: [ 1, 2, 3 ],
@@ -32,7 +22,7 @@ const demo = {
 
 class CodeArea extends Component {
   render() {
-    return <HighLight className="cmp-high-light" code={demo} theme={Theme.}/>;
+    return <HighLight className="cmp-high-light" code={demo} theme={THEME.monokaiSublime}/>;
   }
 }
 module.exports = CodeArea;
@@ -46,5 +36,5 @@ module.exports = CodeArea;
 | ----------------- | --------------------------------------------- | ---------------------------------------- |
 | `className`       | `string`                                      | css style classname                      |
 | `code`            | `string` or `json` or `object` and `function` | code snippet which need highlight        |
-| `language`        | `string`                                      | use which language                       |
+| `language`        | `string`                                      | use which language syntax                |
 | `theme`           | `string`                                      | use which theme                          |
