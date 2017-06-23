@@ -22,11 +22,11 @@ class HighLight extends Component {
     }
   }
   render({ language, className, theme }) {
-    const codeStr = this.parserSyntax();
+    const __html = this.parserSyntax();
     this.updateTheme(theme);
     return (
       <div className={`${className} ${theme}`}>
-        <pre><code className={`hljs ${language}`}>{codeStr}</code></pre>
+        <pre><code className={`hljs ${language}`} dangerouslySetInnerHTML={{ __html }}></code></pre>
       </div>
     );
   }

@@ -23,6 +23,17 @@ ${style}
 }
 `;
 }
+function wrapConfig(keyWord, version) {
+  return `
+'use strict';
+
+module.exports = {
+  theme: ${JSON.stringify(keyWord, null, '  ')},
+  version: '${version}',
+};
+
+`;
+}
 
 function generateTheme(theme, filePath, targetPath) {
   return new Promise((res, rej) => {
@@ -40,14 +51,14 @@ function generateTheme(theme, filePath, targetPath) {
   });
 }
 
-function putConstants(stylesMap) {
+function putConfig(stylesMap) {
   return new Promise((res, rej) => {
     try {
       const constants = {};
-      stylesMap.forEach(({ theme, pathUrl }) => {
-        constants[theme] = pathUrl;
+      stylesMap.forEach(({ theme, styleName }) => {
+        constants[theme] = styleName;
       });
-      fs.writeFileSync(path.resolve(libDir, 'constants.json'), JSON.stringify(constants, null, '  '));
+      fs.writeFileSync(path.resolve(libDir, 'config.js'), wrapConfig(constants, pkg.version));
     } catch (error) {
       rej(error);
     }
@@ -58,7 +69,6 @@ function putThemes() {
   const normalizeName = stylesFiles.map(style => {
     const styleName = style.replace('.css', '');
     const theme = camelcase(styleName);
-    const pathUrl = `//unpkg.com/${pkg.name}@${pkg.version}/build/styles/${style}`;
     const filePath = path.resolve(stylesPath, style);
     const targetPath = path.resolve(targetDir, style);
     return {
@@ -66,13 +76,12 @@ function putThemes() {
       styleName,
       filePath,
       targetPath,
-      pathUrl,
     };
   });
   const queue = normalizeName.map(({ theme, filePath, targetPath }) => {
     return generateTheme(theme, filePath, targetPath);
   });
-  queue.push(putConstants(normalizeName));
+  queue.push(putConfig(normalizeName));
   return Promise.all(queue);
 }
 putThemes();

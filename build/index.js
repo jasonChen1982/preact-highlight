@@ -59,7 +59,7 @@ var HighLight = function (_Component) {
           className = _ref.className,
           theme = _ref.theme;
 
-      var codeStr = this.parserSyntax();
+      var __html = this.parserSyntax();
       this.updateTheme(theme);
       return h(
         'div',
@@ -67,11 +67,7 @@ var HighLight = function (_Component) {
         h(
           'pre',
           null,
-          h(
-            'code',
-            { className: 'hljs ' + language },
-            codeStr
-          )
+          h('code', { className: 'hljs ' + language, dangerouslySetInnerHTML: { __html: __html } })
         )
       );
     }

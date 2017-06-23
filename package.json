@@ -5,7 +5,7 @@
   "main": "./build/index.js",
   "scripts": {
     "build": "babel src -d build",
-    "theme": "node ./builder/theme.js",
+    "theme": "node ./builder/theme.js && git add -A && git commit -m 'chore(theme): build theme for cdn'",
     "prever": "npm run build",
     "ver": "standard-version -m 'chore(release): v%s'",
     "postver": "git push --follow-tags origin master && npm publish",
