@@ -83,6 +83,6 @@ module.exports = {
   "xt256": "xt256",
   "zenburn": "zenburn"
 },
-  version: '1.1.2',
+  version: '1.1.3',
 };
 
