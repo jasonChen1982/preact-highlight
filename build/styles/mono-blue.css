@@ -1,50 +1,50 @@
-.monoBlue .hljs {
+.mono-blue .hljs {
   display: block;
   overflow-x: auto;
   padding: 0.5em;
   background: #eaeef3;
 }
-.monoBlue .hljs {
+.mono-blue .hljs {
   color: #00193a;
 }
-.monoBlue .hljs-keyword,
-.monoBlue .hljs-selector-tag,
-.monoBlue .hljs-title,
-.monoBlue .hljs-section,
-.monoBlue .hljs-doctag,
-.monoBlue .hljs-name,
-.monoBlue .hljs-strong {
+.mono-blue .hljs-keyword,
+.mono-blue .hljs-selector-tag,
+.mono-blue .hljs-title,
+.mono-blue .hljs-section,
+.mono-blue .hljs-doctag,
+.mono-blue .hljs-name,
+.mono-blue .hljs-strong {
   font-weight: bold;
 }
-.monoBlue .hljs-comment {
+.mono-blue .hljs-comment {
   color: #738191;
 }
-.monoBlue .hljs-string,
-.monoBlue .hljs-title,
-.monoBlue .hljs-section,
-.monoBlue .hljs-built_in,
-.monoBlue .hljs-literal,
-.monoBlue .hljs-type,
-.monoBlue .hljs-addition,
-.monoBlue .hljs-tag,
-.monoBlue .hljs-quote,
-.monoBlue .hljs-name,
-.monoBlue .hljs-selector-id,
-.monoBlue .hljs-selector-class {
+.mono-blue .hljs-string,
+.mono-blue .hljs-title,
+.mono-blue .hljs-section,
+.mono-blue .hljs-built_in,
+.mono-blue .hljs-literal,
+.mono-blue .hljs-type,
+.mono-blue .hljs-addition,
+.mono-blue .hljs-tag,
+.mono-blue .hljs-quote,
+.mono-blue .hljs-name,
+.mono-blue .hljs-selector-id,
+.mono-blue .hljs-selector-class {
   color: #0048ab;
 }
-.monoBlue .hljs-meta,
-.monoBlue .hljs-subst,
-.monoBlue .hljs-symbol,
-.monoBlue .hljs-regexp,
-.monoBlue .hljs-attribute,
-.monoBlue .hljs-deletion,
-.monoBlue .hljs-variable,
-.monoBlue .hljs-template-variable,
-.monoBlue .hljs-link,
-.monoBlue .hljs-bullet {
+.mono-blue .hljs-meta,
+.mono-blue .hljs-subst,
+.mono-blue .hljs-symbol,
+.mono-blue .hljs-regexp,
+.mono-blue .hljs-attribute,
+.mono-blue .hljs-deletion,
+.mono-blue .hljs-variable,
+.mono-blue .hljs-template-variable,
+.mono-blue .hljs-link,
+.mono-blue .hljs-bullet {
   color: #4c81c9;
 }
-.monoBlue .hljs-emphasis {
+.mono-blue .hljs-emphasis {
   font-style: italic;
 }

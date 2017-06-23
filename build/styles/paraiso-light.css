@@ -1,52 +1,52 @@
-.paraisoLight .hljs-comment,
-.paraisoLight .hljs-quote {
+.paraiso-light .hljs-comment,
+.paraiso-light .hljs-quote {
   color: #776e71;
 }
-.paraisoLight .hljs-variable,
-.paraisoLight .hljs-template-variable,
-.paraisoLight .hljs-tag,
-.paraisoLight .hljs-name,
-.paraisoLight .hljs-selector-id,
-.paraisoLight .hljs-selector-class,
-.paraisoLight .hljs-regexp,
-.paraisoLight .hljs-link,
-.paraisoLight .hljs-meta {
+.paraiso-light .hljs-variable,
+.paraiso-light .hljs-template-variable,
+.paraiso-light .hljs-tag,
+.paraiso-light .hljs-name,
+.paraiso-light .hljs-selector-id,
+.paraiso-light .hljs-selector-class,
+.paraiso-light .hljs-regexp,
+.paraiso-light .hljs-link,
+.paraiso-light .hljs-meta {
   color: #ef6155;
 }
-.paraisoLight .hljs-number,
-.paraisoLight .hljs-built_in,
-.paraisoLight .hljs-builtin-name,
-.paraisoLight .hljs-literal,
-.paraisoLight .hljs-type,
-.paraisoLight .hljs-params,
-.paraisoLight .hljs-deletion {
+.paraiso-light .hljs-number,
+.paraiso-light .hljs-built_in,
+.paraiso-light .hljs-builtin-name,
+.paraiso-light .hljs-literal,
+.paraiso-light .hljs-type,
+.paraiso-light .hljs-params,
+.paraiso-light .hljs-deletion {
   color: #f99b15;
 }
-.paraisoLight .hljs-title,
-.paraisoLight .hljs-section,
-.paraisoLight .hljs-attribute {
+.paraiso-light .hljs-title,
+.paraiso-light .hljs-section,
+.paraiso-light .hljs-attribute {
   color: #fec418;
 }
-.paraisoLight .hljs-string,
-.paraisoLight .hljs-symbol,
-.paraisoLight .hljs-bullet,
-.paraisoLight .hljs-addition {
+.paraiso-light .hljs-string,
+.paraiso-light .hljs-symbol,
+.paraiso-light .hljs-bullet,
+.paraiso-light .hljs-addition {
   color: #48b685;
 }
-.paraisoLight .hljs-keyword,
-.paraisoLight .hljs-selector-tag {
+.paraiso-light .hljs-keyword,
+.paraiso-light .hljs-selector-tag {
   color: #815ba4;
 }
-.paraisoLight .hljs {
+.paraiso-light .hljs {
   display: block;
   overflow-x: auto;
   background: #e7e9db;
   color: #4f424c;
   padding: 0.5em;
 }
-.paraisoLight .hljs-emphasis {
+.paraiso-light .hljs-emphasis {
   font-style: italic;
 }
-.paraisoLight .hljs-strong {
+.paraiso-light .hljs-strong {
   font-weight: bold;
 }

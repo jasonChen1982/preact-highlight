@@ -1,52 +1,52 @@
-.brownPaper .hljs {
+.brown-paper .hljs {
   display: block;
   overflow-x: auto;
   padding: 0.5em;
   background: #b7a68e url("./brown-papersq.png");
 }
-.brownPaper .hljs-keyword,
-.brownPaper .hljs-selector-tag,
-.brownPaper .hljs-literal {
+.brown-paper .hljs-keyword,
+.brown-paper .hljs-selector-tag,
+.brown-paper .hljs-literal {
   color: #059;
   font-weight: bold;
 }
-.brownPaper .hljs,
-.brownPaper .hljs-subst {
+.brown-paper .hljs,
+.brown-paper .hljs-subst {
   color: #363c69;
 }
-.brownPaper .hljs-string,
-.brownPaper .hljs-title,
-.brownPaper .hljs-section,
-.brownPaper .hljs-type,
-.brownPaper .hljs-attribute,
-.brownPaper .hljs-symbol,
-.brownPaper .hljs-bullet,
-.brownPaper .hljs-built_in,
-.brownPaper .hljs-addition,
-.brownPaper .hljs-variable,
-.brownPaper .hljs-template-tag,
-.brownPaper .hljs-template-variable,
-.brownPaper .hljs-link,
-.brownPaper .hljs-name {
+.brown-paper .hljs-string,
+.brown-paper .hljs-title,
+.brown-paper .hljs-section,
+.brown-paper .hljs-type,
+.brown-paper .hljs-attribute,
+.brown-paper .hljs-symbol,
+.brown-paper .hljs-bullet,
+.brown-paper .hljs-built_in,
+.brown-paper .hljs-addition,
+.brown-paper .hljs-variable,
+.brown-paper .hljs-template-tag,
+.brown-paper .hljs-template-variable,
+.brown-paper .hljs-link,
+.brown-paper .hljs-name {
   color: #2c009f;
 }
-.brownPaper .hljs-comment,
-.brownPaper .hljs-quote,
-.brownPaper .hljs-meta,
-.brownPaper .hljs-deletion {
+.brown-paper .hljs-comment,
+.brown-paper .hljs-quote,
+.brown-paper .hljs-meta,
+.brown-paper .hljs-deletion {
   color: #802022;
 }
-.brownPaper .hljs-keyword,
-.brownPaper .hljs-selector-tag,
-.brownPaper .hljs-literal,
-.brownPaper .hljs-doctag,
-.brownPaper .hljs-title,
-.brownPaper .hljs-section,
-.brownPaper .hljs-type,
-.brownPaper .hljs-name,
-.brownPaper .hljs-strong {
+.brown-paper .hljs-keyword,
+.brown-paper .hljs-selector-tag,
+.brown-paper .hljs-literal,
+.brown-paper .hljs-doctag,
+.brown-paper .hljs-title,
+.brown-paper .hljs-section,
+.brown-paper .hljs-type,
+.brown-paper .hljs-name,
+.brown-paper .hljs-strong {
   font-weight: bold;
 }
-.brownPaper .hljs-emphasis {
+.brown-paper .hljs-emphasis {
   font-style: italic;
 }

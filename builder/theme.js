@@ -16,9 +16,9 @@ const libDir = path.resolve(cwd, 'build/lib');
 mkdirp.sync(targetDir);
 mkdirp.sync(libDir);
 
-function wrapTheme(theme, style) {
+function wrapTheme(styleName, style) {
   return `
-.${theme} {
+.${styleName} {
 ${style}
 }
 `;
@@ -35,15 +35,15 @@ module.exports = {
 `;
 }
 
-function generateTheme(theme, filePath, targetPath) {
+function generateTheme(styleName, filePath, targetPath) {
   return new Promise((res, rej) => {
     try {
       const style = fs.readFileSync(filePath, 'utf8');
-      stylus(wrapTheme(theme, style))
+      stylus(wrapTheme(styleName, style))
         .set('filename', 'nesting.css')
         .render(function(err, css) {
           fs.writeFileSync(targetPath, css);
-          res(theme);
+          res(styleName);
         });
     } catch (error) {
       rej(error);
@@ -78,8 +78,8 @@ function putThemes() {
       targetPath,
     };
   });
-  const queue = normalizeName.map(({ theme, filePath, targetPath }) => {
-    return generateTheme(theme, filePath, targetPath);
+  const queue = normalizeName.map(({ styleName, filePath, targetPath }) => {
+    return generateTheme(styleName, filePath, targetPath);
   });
   queue.push(putConfig(normalizeName));
   return Promise.all(queue);

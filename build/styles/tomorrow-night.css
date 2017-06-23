@@ -1,54 +1,54 @@
-.tomorrowNight .hljs-comment,
-.tomorrowNight .hljs-quote {
+.tomorrow-night .hljs-comment,
+.tomorrow-night .hljs-quote {
   color: #969896;
 }
-.tomorrowNight .hljs-variable,
-.tomorrowNight .hljs-template-variable,
-.tomorrowNight .hljs-tag,
-.tomorrowNight .hljs-name,
-.tomorrowNight .hljs-selector-id,
-.tomorrowNight .hljs-selector-class,
-.tomorrowNight .hljs-regexp,
-.tomorrowNight .hljs-deletion {
+.tomorrow-night .hljs-variable,
+.tomorrow-night .hljs-template-variable,
+.tomorrow-night .hljs-tag,
+.tomorrow-night .hljs-name,
+.tomorrow-night .hljs-selector-id,
+.tomorrow-night .hljs-selector-class,
+.tomorrow-night .hljs-regexp,
+.tomorrow-night .hljs-deletion {
   color: #c66;
 }
-.tomorrowNight .hljs-number,
-.tomorrowNight .hljs-built_in,
-.tomorrowNight .hljs-builtin-name,
-.tomorrowNight .hljs-literal,
-.tomorrowNight .hljs-type,
-.tomorrowNight .hljs-params,
-.tomorrowNight .hljs-meta,
-.tomorrowNight .hljs-link {
+.tomorrow-night .hljs-number,
+.tomorrow-night .hljs-built_in,
+.tomorrow-night .hljs-builtin-name,
+.tomorrow-night .hljs-literal,
+.tomorrow-night .hljs-type,
+.tomorrow-night .hljs-params,
+.tomorrow-night .hljs-meta,
+.tomorrow-night .hljs-link {
   color: #de935f;
 }
-.tomorrowNight .hljs-attribute {
+.tomorrow-night .hljs-attribute {
   color: #f0c674;
 }
-.tomorrowNight .hljs-string,
-.tomorrowNight .hljs-symbol,
-.tomorrowNight .hljs-bullet,
-.tomorrowNight .hljs-addition {
+.tomorrow-night .hljs-string,
+.tomorrow-night .hljs-symbol,
+.tomorrow-night .hljs-bullet,
+.tomorrow-night .hljs-addition {
   color: #b5bd68;
 }
-.tomorrowNight .hljs-title,
-.tomorrowNight .hljs-section {
+.tomorrow-night .hljs-title,
+.tomorrow-night .hljs-section {
   color: #81a2be;
 }
-.tomorrowNight .hljs-keyword,
-.tomorrowNight .hljs-selector-tag {
+.tomorrow-night .hljs-keyword,
+.tomorrow-night .hljs-selector-tag {
   color: #b294bb;
 }
-.tomorrowNight .hljs {
+.tomorrow-night .hljs {
   display: block;
   overflow-x: auto;
   background: #1d1f21;
   color: #c5c8c6;
   padding: 0.5em;
 }
-.tomorrowNight .hljs-emphasis {
+.tomorrow-night .hljs-emphasis {
   font-style: italic;
 }
-.tomorrowNight .hljs-strong {
+.tomorrow-night .hljs-strong {
   font-weight: bold;
 }

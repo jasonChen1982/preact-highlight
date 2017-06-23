@@ -1,81 +1,81 @@
-.gruvboxDark .hljs {
+.gruvbox-dark .hljs {
   display: block;
   overflow-x: auto;
   padding: 0.5em;
   background: #282828;
 }
-.gruvboxDark .hljs,
-.gruvboxDark .hljs-subst {
+.gruvbox-dark .hljs,
+.gruvbox-dark .hljs-subst {
   color: #ebdbb2;
 }
-.gruvboxDark .hljs-deletion,
-.gruvboxDark .hljs-formula,
-.gruvboxDark .hljs-keyword,
-.gruvboxDark .hljs-link,
-.gruvboxDark .hljs-selector-tag {
+.gruvbox-dark .hljs-deletion,
+.gruvbox-dark .hljs-formula,
+.gruvbox-dark .hljs-keyword,
+.gruvbox-dark .hljs-link,
+.gruvbox-dark .hljs-selector-tag {
   color: #fb4934;
 }
-.gruvboxDark .hljs-built_in,
-.gruvboxDark .hljs-emphasis,
-.gruvboxDark .hljs-name,
-.gruvboxDark .hljs-quote,
-.gruvboxDark .hljs-strong,
-.gruvboxDark .hljs-title,
-.gruvboxDark .hljs-variable {
+.gruvbox-dark .hljs-built_in,
+.gruvbox-dark .hljs-emphasis,
+.gruvbox-dark .hljs-name,
+.gruvbox-dark .hljs-quote,
+.gruvbox-dark .hljs-strong,
+.gruvbox-dark .hljs-title,
+.gruvbox-dark .hljs-variable {
   color: #83a598;
 }
-.gruvboxDark .hljs-attr,
-.gruvboxDark .hljs-params,
-.gruvboxDark .hljs-template-tag,
-.gruvboxDark .hljs-type {
+.gruvbox-dark .hljs-attr,
+.gruvbox-dark .hljs-params,
+.gruvbox-dark .hljs-template-tag,
+.gruvbox-dark .hljs-type {
   color: #fabd2f;
 }
-.gruvboxDark .hljs-builtin-name,
-.gruvboxDark .hljs-doctag,
-.gruvboxDark .hljs-literal,
-.gruvboxDark .hljs-number {
+.gruvbox-dark .hljs-builtin-name,
+.gruvbox-dark .hljs-doctag,
+.gruvbox-dark .hljs-literal,
+.gruvbox-dark .hljs-number {
   color: #8f3f71;
 }
-.gruvboxDark .hljs-code,
-.gruvboxDark .hljs-meta,
-.gruvboxDark .hljs-regexp,
-.gruvboxDark .hljs-selector-id,
-.gruvboxDark .hljs-template-variable {
+.gruvbox-dark .hljs-code,
+.gruvbox-dark .hljs-meta,
+.gruvbox-dark .hljs-regexp,
+.gruvbox-dark .hljs-selector-id,
+.gruvbox-dark .hljs-template-variable {
   color: #fe8019;
 }
-.gruvboxDark .hljs-addition,
-.gruvboxDark .hljs-meta-string,
-.gruvboxDark .hljs-section,
-.gruvboxDark .hljs-selector-attr,
-.gruvboxDark .hljs-selector-class,
-.gruvboxDark .hljs-string,
-.gruvboxDark .hljs-symbol {
+.gruvbox-dark .hljs-addition,
+.gruvbox-dark .hljs-meta-string,
+.gruvbox-dark .hljs-section,
+.gruvbox-dark .hljs-selector-attr,
+.gruvbox-dark .hljs-selector-class,
+.gruvbox-dark .hljs-string,
+.gruvbox-dark .hljs-symbol {
   color: #b8bb26;
 }
-.gruvboxDark .hljs-attribute,
-.gruvboxDark .hljs-bullet,
-.gruvboxDark .hljs-class,
-.gruvboxDark .hljs-function,
-.gruvboxDark .hljs-function .hljs-keyword,
-.gruvboxDark .hljs-meta-keyword,
-.gruvboxDark .hljs-selector-pseudo,
-.gruvboxDark .hljs-tag {
+.gruvbox-dark .hljs-attribute,
+.gruvbox-dark .hljs-bullet,
+.gruvbox-dark .hljs-class,
+.gruvbox-dark .hljs-function,
+.gruvbox-dark .hljs-function .hljs-keyword,
+.gruvbox-dark .hljs-meta-keyword,
+.gruvbox-dark .hljs-selector-pseudo,
+.gruvbox-dark .hljs-tag {
   color: #8ec07c;
 }
-.gruvboxDark .hljs-comment {
+.gruvbox-dark .hljs-comment {
   color: #928374;
 }
-.gruvboxDark .hljs-link_label,
-.gruvboxDark .hljs-literal,
-.gruvboxDark .hljs-number {
+.gruvbox-dark .hljs-link_label,
+.gruvbox-dark .hljs-literal,
+.gruvbox-dark .hljs-number {
   color: #d3869b;
 }
-.gruvboxDark .hljs-comment,
-.gruvboxDark .hljs-emphasis {
+.gruvbox-dark .hljs-comment,
+.gruvbox-dark .hljs-emphasis {
   font-style: italic;
 }
-.gruvboxDark .hljs-section,
-.gruvboxDark .hljs-strong,
-.gruvboxDark .hljs-tag {
+.gruvbox-dark .hljs-section,
+.gruvbox-dark .hljs-strong,
+.gruvbox-dark .hljs-tag {
   font-weight: bold;
 }

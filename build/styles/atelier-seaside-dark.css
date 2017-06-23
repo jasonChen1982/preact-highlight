@@ -1,50 +1,50 @@
-.atelierSeasideDark .hljs-comment,
-.atelierSeasideDark .hljs-quote {
+.atelier-seaside-dark .hljs-comment,
+.atelier-seaside-dark .hljs-quote {
   color: #809980;
 }
-.atelierSeasideDark .hljs-variable,
-.atelierSeasideDark .hljs-template-variable,
-.atelierSeasideDark .hljs-attribute,
-.atelierSeasideDark .hljs-tag,
-.atelierSeasideDark .hljs-name,
-.atelierSeasideDark .hljs-regexp,
-.atelierSeasideDark .hljs-link,
-.atelierSeasideDark .hljs-selector-id,
-.atelierSeasideDark .hljs-selector-class {
+.atelier-seaside-dark .hljs-variable,
+.atelier-seaside-dark .hljs-template-variable,
+.atelier-seaside-dark .hljs-attribute,
+.atelier-seaside-dark .hljs-tag,
+.atelier-seaside-dark .hljs-name,
+.atelier-seaside-dark .hljs-regexp,
+.atelier-seaside-dark .hljs-link,
+.atelier-seaside-dark .hljs-selector-id,
+.atelier-seaside-dark .hljs-selector-class {
   color: #e6193c;
 }
-.atelierSeasideDark .hljs-number,
-.atelierSeasideDark .hljs-meta,
-.atelierSeasideDark .hljs-built_in,
-.atelierSeasideDark .hljs-builtin-name,
-.atelierSeasideDark .hljs-literal,
-.atelierSeasideDark .hljs-type,
-.atelierSeasideDark .hljs-params {
+.atelier-seaside-dark .hljs-number,
+.atelier-seaside-dark .hljs-meta,
+.atelier-seaside-dark .hljs-built_in,
+.atelier-seaside-dark .hljs-builtin-name,
+.atelier-seaside-dark .hljs-literal,
+.atelier-seaside-dark .hljs-type,
+.atelier-seaside-dark .hljs-params {
   color: #87711d;
 }
-.atelierSeasideDark .hljs-string,
-.atelierSeasideDark .hljs-symbol,
-.atelierSeasideDark .hljs-bullet {
+.atelier-seaside-dark .hljs-string,
+.atelier-seaside-dark .hljs-symbol,
+.atelier-seaside-dark .hljs-bullet {
   color: #29a329;
 }
-.atelierSeasideDark .hljs-title,
-.atelierSeasideDark .hljs-section {
+.atelier-seaside-dark .hljs-title,
+.atelier-seaside-dark .hljs-section {
   color: #3d62f5;
 }
-.atelierSeasideDark .hljs-keyword,
-.atelierSeasideDark .hljs-selector-tag {
+.atelier-seaside-dark .hljs-keyword,
+.atelier-seaside-dark .hljs-selector-tag {
   color: #ad2bee;
 }
-.atelierSeasideDark .hljs {
+.atelier-seaside-dark .hljs {
   display: block;
   overflow-x: auto;
   background: #131513;
   color: #8ca68c;
   padding: 0.5em;
 }
-.atelierSeasideDark .hljs-emphasis {
+.atelier-seaside-dark .hljs-emphasis {
   font-style: italic;
 }
-.atelierSeasideDark .hljs-strong {
+.atelier-seaside-dark .hljs-strong {
   font-weight: bold;
 }

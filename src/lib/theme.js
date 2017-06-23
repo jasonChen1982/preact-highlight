@@ -6,12 +6,12 @@ const utils = require('./utils');
 const CACHE_STYLES = {};
 
 function themeManger(theme) {
-  if (!THEME[theme] || !isBrowser) return;
+  if (!theme || !isBrowser) return;
   const doc = document;
   const headDoc = doc.head;
   if (!CACHE_STYLES[theme]) {
     const link = doc.createElement('link');
-    const url = utils.cdn(version, THEME[theme]);
+    const url = utils.cdn(version, theme);
     link.setAttribute('href', url);
     link.setAttribute('rel', 'stylesheet');
     CACHE_STYLES[theme] = true;

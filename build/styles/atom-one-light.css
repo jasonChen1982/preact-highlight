@@ -1,65 +1,65 @@
-.atomOneLight .hljs {
+.atom-one-light .hljs {
   display: block;
   overflow-x: auto;
   padding: 0.5em;
   color: #383a42;
   background: #fafafa;
 }
-.atomOneLight .hljs-comment,
-.atomOneLight .hljs-quote {
+.atom-one-light .hljs-comment,
+.atom-one-light .hljs-quote {
   color: #a0a1a7;
   font-style: italic;
 }
-.atomOneLight .hljs-doctag,
-.atomOneLight .hljs-keyword,
-.atomOneLight .hljs-formula {
+.atom-one-light .hljs-doctag,
+.atom-one-light .hljs-keyword,
+.atom-one-light .hljs-formula {
   color: #a626a4;
 }
-.atomOneLight .hljs-section,
-.atomOneLight .hljs-name,
-.atomOneLight .hljs-selector-tag,
-.atomOneLight .hljs-deletion,
-.atomOneLight .hljs-subst {
+.atom-one-light .hljs-section,
+.atom-one-light .hljs-name,
+.atom-one-light .hljs-selector-tag,
+.atom-one-light .hljs-deletion,
+.atom-one-light .hljs-subst {
   color: #e45649;
 }
-.atomOneLight .hljs-literal {
+.atom-one-light .hljs-literal {
   color: #0184bb;
 }
-.atomOneLight .hljs-string,
-.atomOneLight .hljs-regexp,
-.atomOneLight .hljs-addition,
-.atomOneLight .hljs-attribute,
-.atomOneLight .hljs-meta-string {
+.atom-one-light .hljs-string,
+.atom-one-light .hljs-regexp,
+.atom-one-light .hljs-addition,
+.atom-one-light .hljs-attribute,
+.atom-one-light .hljs-meta-string {
   color: #50a14f;
 }
-.atomOneLight .hljs-built_in,
-.atomOneLight .hljs-class .hljs-title {
+.atom-one-light .hljs-built_in,
+.atom-one-light .hljs-class .hljs-title {
   color: #c18401;
 }
-.atomOneLight .hljs-attr,
-.atomOneLight .hljs-variable,
-.atomOneLight .hljs-template-variable,
-.atomOneLight .hljs-type,
-.atomOneLight .hljs-selector-class,
-.atomOneLight .hljs-selector-attr,
-.atomOneLight .hljs-selector-pseudo,
-.atomOneLight .hljs-number {
+.atom-one-light .hljs-attr,
+.atom-one-light .hljs-variable,
+.atom-one-light .hljs-template-variable,
+.atom-one-light .hljs-type,
+.atom-one-light .hljs-selector-class,
+.atom-one-light .hljs-selector-attr,
+.atom-one-light .hljs-selector-pseudo,
+.atom-one-light .hljs-number {
   color: #986801;
 }
-.atomOneLight .hljs-symbol,
-.atomOneLight .hljs-bullet,
-.atomOneLight .hljs-link,
-.atomOneLight .hljs-meta,
-.atomOneLight .hljs-selector-id,
-.atomOneLight .hljs-title {
+.atom-one-light .hljs-symbol,
+.atom-one-light .hljs-bullet,
+.atom-one-light .hljs-link,
+.atom-one-light .hljs-meta,
+.atom-one-light .hljs-selector-id,
+.atom-one-light .hljs-title {
   color: #4078f2;
 }
-.atomOneLight .hljs-emphasis {
+.atom-one-light .hljs-emphasis {
   font-style: italic;
 }
-.atomOneLight .hljs-strong {
+.atom-one-light .hljs-strong {
   font-weight: bold;
 }
-.atomOneLight .hljs-link {
+.atom-one-light .hljs-link {
   text-decoration: underline;
 }

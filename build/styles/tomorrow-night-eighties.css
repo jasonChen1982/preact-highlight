@@ -1,54 +1,54 @@
-.tomorrowNightEighties .hljs-comment,
-.tomorrowNightEighties .hljs-quote {
+.tomorrow-night-eighties .hljs-comment,
+.tomorrow-night-eighties .hljs-quote {
   color: #999;
 }
-.tomorrowNightEighties .hljs-variable,
-.tomorrowNightEighties .hljs-template-variable,
-.tomorrowNightEighties .hljs-tag,
-.tomorrowNightEighties .hljs-name,
-.tomorrowNightEighties .hljs-selector-id,
-.tomorrowNightEighties .hljs-selector-class,
-.tomorrowNightEighties .hljs-regexp,
-.tomorrowNightEighties .hljs-deletion {
+.tomorrow-night-eighties .hljs-variable,
+.tomorrow-night-eighties .hljs-template-variable,
+.tomorrow-night-eighties .hljs-tag,
+.tomorrow-night-eighties .hljs-name,
+.tomorrow-night-eighties .hljs-selector-id,
+.tomorrow-night-eighties .hljs-selector-class,
+.tomorrow-night-eighties .hljs-regexp,
+.tomorrow-night-eighties .hljs-deletion {
   color: #f2777a;
 }
-.tomorrowNightEighties .hljs-number,
-.tomorrowNightEighties .hljs-built_in,
-.tomorrowNightEighties .hljs-builtin-name,
-.tomorrowNightEighties .hljs-literal,
-.tomorrowNightEighties .hljs-type,
-.tomorrowNightEighties .hljs-params,
-.tomorrowNightEighties .hljs-meta,
-.tomorrowNightEighties .hljs-link {
+.tomorrow-night-eighties .hljs-number,
+.tomorrow-night-eighties .hljs-built_in,
+.tomorrow-night-eighties .hljs-builtin-name,
+.tomorrow-night-eighties .hljs-literal,
+.tomorrow-night-eighties .hljs-type,
+.tomorrow-night-eighties .hljs-params,
+.tomorrow-night-eighties .hljs-meta,
+.tomorrow-night-eighties .hljs-link {
   color: #f99157;
 }
-.tomorrowNightEighties .hljs-attribute {
+.tomorrow-night-eighties .hljs-attribute {
   color: #fc6;
 }
-.tomorrowNightEighties .hljs-string,
-.tomorrowNightEighties .hljs-symbol,
-.tomorrowNightEighties .hljs-bullet,
-.tomorrowNightEighties .hljs-addition {
+.tomorrow-night-eighties .hljs-string,
+.tomorrow-night-eighties .hljs-symbol,
+.tomorrow-night-eighties .hljs-bullet,
+.tomorrow-night-eighties .hljs-addition {
   color: #9c9;
 }
-.tomorrowNightEighties .hljs-title,
-.tomorrowNightEighties .hljs-section {
+.tomorrow-night-eighties .hljs-title,
+.tomorrow-night-eighties .hljs-section {
   color: #69c;
 }
-.tomorrowNightEighties .hljs-keyword,
-.tomorrowNightEighties .hljs-selector-tag {
+.tomorrow-night-eighties .hljs-keyword,
+.tomorrow-night-eighties .hljs-selector-tag {
   color: #c9c;
 }
-.tomorrowNightEighties .hljs {
+.tomorrow-night-eighties .hljs {
   display: block;
   overflow-x: auto;
   background: #2d2d2d;
   color: #ccc;
   padding: 0.5em;
 }
-.tomorrowNightEighties .hljs-emphasis {
+.tomorrow-night-eighties .hljs-emphasis {
   font-style: italic;
 }
-.tomorrowNightEighties .hljs-strong {
+.tomorrow-night-eighties .hljs-strong {
   font-weight: bold;
 }

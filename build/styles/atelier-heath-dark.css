@@ -1,50 +1,50 @@
-.atelierHeathDark .hljs-comment,
-.atelierHeathDark .hljs-quote {
+.atelier-heath-dark .hljs-comment,
+.atelier-heath-dark .hljs-quote {
   color: #9e8f9e;
 }
-.atelierHeathDark .hljs-variable,
-.atelierHeathDark .hljs-template-variable,
-.atelierHeathDark .hljs-attribute,
-.atelierHeathDark .hljs-tag,
-.atelierHeathDark .hljs-name,
-.atelierHeathDark .hljs-regexp,
-.atelierHeathDark .hljs-link,
-.atelierHeathDark .hljs-selector-id,
-.atelierHeathDark .hljs-selector-class {
+.atelier-heath-dark .hljs-variable,
+.atelier-heath-dark .hljs-template-variable,
+.atelier-heath-dark .hljs-attribute,
+.atelier-heath-dark .hljs-tag,
+.atelier-heath-dark .hljs-name,
+.atelier-heath-dark .hljs-regexp,
+.atelier-heath-dark .hljs-link,
+.atelier-heath-dark .hljs-selector-id,
+.atelier-heath-dark .hljs-selector-class {
   color: #ca402b;
 }
-.atelierHeathDark .hljs-number,
-.atelierHeathDark .hljs-meta,
-.atelierHeathDark .hljs-built_in,
-.atelierHeathDark .hljs-builtin-name,
-.atelierHeathDark .hljs-literal,
-.atelierHeathDark .hljs-type,
-.atelierHeathDark .hljs-params {
+.atelier-heath-dark .hljs-number,
+.atelier-heath-dark .hljs-meta,
+.atelier-heath-dark .hljs-built_in,
+.atelier-heath-dark .hljs-builtin-name,
+.atelier-heath-dark .hljs-literal,
+.atelier-heath-dark .hljs-type,
+.atelier-heath-dark .hljs-params {
   color: #a65926;
 }
-.atelierHeathDark .hljs-string,
-.atelierHeathDark .hljs-symbol,
-.atelierHeathDark .hljs-bullet {
+.atelier-heath-dark .hljs-string,
+.atelier-heath-dark .hljs-symbol,
+.atelier-heath-dark .hljs-bullet {
   color: #918b3b;
 }
-.atelierHeathDark .hljs-title,
-.atelierHeathDark .hljs-section {
+.atelier-heath-dark .hljs-title,
+.atelier-heath-dark .hljs-section {
   color: #516aec;
 }
-.atelierHeathDark .hljs-keyword,
-.atelierHeathDark .hljs-selector-tag {
+.atelier-heath-dark .hljs-keyword,
+.atelier-heath-dark .hljs-selector-tag {
   color: #7b59c0;
 }
-.atelierHeathDark .hljs {
+.atelier-heath-dark .hljs {
   display: block;
   overflow-x: auto;
   background: #1b181b;
   color: #ab9bab;
   padding: 0.5em;
 }
-.atelierHeathDark .hljs-emphasis {
+.atelier-heath-dark .hljs-emphasis {
   font-style: italic;
 }
-.atelierHeathDark .hljs-strong {
+.atelier-heath-dark .hljs-strong {
   font-weight: bold;
 }

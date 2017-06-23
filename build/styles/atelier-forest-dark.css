@@ -1,50 +1,50 @@
-.atelierForestDark .hljs-comment,
-.atelierForestDark .hljs-quote {
+.atelier-forest-dark .hljs-comment,
+.atelier-forest-dark .hljs-quote {
   color: #9c9491;
 }
-.atelierForestDark .hljs-variable,
-.atelierForestDark .hljs-template-variable,
-.atelierForestDark .hljs-attribute,
-.atelierForestDark .hljs-tag,
-.atelierForestDark .hljs-name,
-.atelierForestDark .hljs-regexp,
-.atelierForestDark .hljs-link,
-.atelierForestDark .hljs-selector-id,
-.atelierForestDark .hljs-selector-class {
+.atelier-forest-dark .hljs-variable,
+.atelier-forest-dark .hljs-template-variable,
+.atelier-forest-dark .hljs-attribute,
+.atelier-forest-dark .hljs-tag,
+.atelier-forest-dark .hljs-name,
+.atelier-forest-dark .hljs-regexp,
+.atelier-forest-dark .hljs-link,
+.atelier-forest-dark .hljs-selector-id,
+.atelier-forest-dark .hljs-selector-class {
   color: #f22c40;
 }
-.atelierForestDark .hljs-number,
-.atelierForestDark .hljs-meta,
-.atelierForestDark .hljs-built_in,
-.atelierForestDark .hljs-builtin-name,
-.atelierForestDark .hljs-literal,
-.atelierForestDark .hljs-type,
-.atelierForestDark .hljs-params {
+.atelier-forest-dark .hljs-number,
+.atelier-forest-dark .hljs-meta,
+.atelier-forest-dark .hljs-built_in,
+.atelier-forest-dark .hljs-builtin-name,
+.atelier-forest-dark .hljs-literal,
+.atelier-forest-dark .hljs-type,
+.atelier-forest-dark .hljs-params {
   color: #df5320;
 }
-.atelierForestDark .hljs-string,
-.atelierForestDark .hljs-symbol,
-.atelierForestDark .hljs-bullet {
+.atelier-forest-dark .hljs-string,
+.atelier-forest-dark .hljs-symbol,
+.atelier-forest-dark .hljs-bullet {
   color: #7b9726;
 }
-.atelierForestDark .hljs-title,
-.atelierForestDark .hljs-section {
+.atelier-forest-dark .hljs-title,
+.atelier-forest-dark .hljs-section {
   color: #407ee7;
 }
-.atelierForestDark .hljs-keyword,
-.atelierForestDark .hljs-selector-tag {
+.atelier-forest-dark .hljs-keyword,
+.atelier-forest-dark .hljs-selector-tag {
   color: #6666ea;
 }
-.atelierForestDark .hljs {
+.atelier-forest-dark .hljs {
   display: block;
   overflow-x: auto;
   background: #1b1918;
   color: #a8a19f;
   padding: 0.5em;
 }
-.atelierForestDark .hljs-emphasis {
+.atelier-forest-dark .hljs-emphasis {
   font-style: italic;
 }
-.atelierForestDark .hljs-strong {
+.atelier-forest-dark .hljs-strong {
   font-weight: bold;
 }

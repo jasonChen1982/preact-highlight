@@ -1,50 +1,50 @@
-.atelierSeasideLight .hljs-comment,
-.atelierSeasideLight .hljs-quote {
+.atelier-seaside-light .hljs-comment,
+.atelier-seaside-light .hljs-quote {
   color: #687d68;
 }
-.atelierSeasideLight .hljs-variable,
-.atelierSeasideLight .hljs-template-variable,
-.atelierSeasideLight .hljs-attribute,
-.atelierSeasideLight .hljs-tag,
-.atelierSeasideLight .hljs-name,
-.atelierSeasideLight .hljs-regexp,
-.atelierSeasideLight .hljs-link,
-.atelierSeasideLight .hljs-selector-id,
-.atelierSeasideLight .hljs-selector-class {
+.atelier-seaside-light .hljs-variable,
+.atelier-seaside-light .hljs-template-variable,
+.atelier-seaside-light .hljs-attribute,
+.atelier-seaside-light .hljs-tag,
+.atelier-seaside-light .hljs-name,
+.atelier-seaside-light .hljs-regexp,
+.atelier-seaside-light .hljs-link,
+.atelier-seaside-light .hljs-selector-id,
+.atelier-seaside-light .hljs-selector-class {
   color: #e6193c;
 }
-.atelierSeasideLight .hljs-number,
-.atelierSeasideLight .hljs-meta,
-.atelierSeasideLight .hljs-built_in,
-.atelierSeasideLight .hljs-builtin-name,
-.atelierSeasideLight .hljs-literal,
-.atelierSeasideLight .hljs-type,
-.atelierSeasideLight .hljs-params {
+.atelier-seaside-light .hljs-number,
+.atelier-seaside-light .hljs-meta,
+.atelier-seaside-light .hljs-built_in,
+.atelier-seaside-light .hljs-builtin-name,
+.atelier-seaside-light .hljs-literal,
+.atelier-seaside-light .hljs-type,
+.atelier-seaside-light .hljs-params {
   color: #87711d;
 }
-.atelierSeasideLight .hljs-string,
-.atelierSeasideLight .hljs-symbol,
-.atelierSeasideLight .hljs-bullet {
+.atelier-seaside-light .hljs-string,
+.atelier-seaside-light .hljs-symbol,
+.atelier-seaside-light .hljs-bullet {
   color: #29a329;
 }
-.atelierSeasideLight .hljs-title,
-.atelierSeasideLight .hljs-section {
+.atelier-seaside-light .hljs-title,
+.atelier-seaside-light .hljs-section {
   color: #3d62f5;
 }
-.atelierSeasideLight .hljs-keyword,
-.atelierSeasideLight .hljs-selector-tag {
+.atelier-seaside-light .hljs-keyword,
+.atelier-seaside-light .hljs-selector-tag {
   color: #ad2bee;
 }
-.atelierSeasideLight .hljs {
+.atelier-seaside-light .hljs {
   display: block;
   overflow-x: auto;
   background: #f4fbf4;
   color: #5e6e5e;
   padding: 0.5em;
 }
-.atelierSeasideLight .hljs-emphasis {
+.atelier-seaside-light .hljs-emphasis {
   font-style: italic;
 }
-.atelierSeasideLight .hljs-strong {
+.atelier-seaside-light .hljs-strong {
   font-weight: bold;
 }

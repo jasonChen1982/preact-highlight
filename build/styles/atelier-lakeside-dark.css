@@ -1,50 +1,50 @@
-.atelierLakesideDark .hljs-comment,
-.atelierLakesideDark .hljs-quote {
+.atelier-lakeside-dark .hljs-comment,
+.atelier-lakeside-dark .hljs-quote {
   color: #7195a8;
 }
-.atelierLakesideDark .hljs-variable,
-.atelierLakesideDark .hljs-template-variable,
-.atelierLakesideDark .hljs-attribute,
-.atelierLakesideDark .hljs-tag,
-.atelierLakesideDark .hljs-name,
-.atelierLakesideDark .hljs-regexp,
-.atelierLakesideDark .hljs-link,
-.atelierLakesideDark .hljs-selector-id,
-.atelierLakesideDark .hljs-selector-class {
+.atelier-lakeside-dark .hljs-variable,
+.atelier-lakeside-dark .hljs-template-variable,
+.atelier-lakeside-dark .hljs-attribute,
+.atelier-lakeside-dark .hljs-tag,
+.atelier-lakeside-dark .hljs-name,
+.atelier-lakeside-dark .hljs-regexp,
+.atelier-lakeside-dark .hljs-link,
+.atelier-lakeside-dark .hljs-selector-id,
+.atelier-lakeside-dark .hljs-selector-class {
   color: #d22d72;
 }
-.atelierLakesideDark .hljs-number,
-.atelierLakesideDark .hljs-meta,
-.atelierLakesideDark .hljs-built_in,
-.atelierLakesideDark .hljs-builtin-name,
-.atelierLakesideDark .hljs-literal,
-.atelierLakesideDark .hljs-type,
-.atelierLakesideDark .hljs-params {
+.atelier-lakeside-dark .hljs-number,
+.atelier-lakeside-dark .hljs-meta,
+.atelier-lakeside-dark .hljs-built_in,
+.atelier-lakeside-dark .hljs-builtin-name,
+.atelier-lakeside-dark .hljs-literal,
+.atelier-lakeside-dark .hljs-type,
+.atelier-lakeside-dark .hljs-params {
   color: #935c25;
 }
-.atelierLakesideDark .hljs-string,
-.atelierLakesideDark .hljs-symbol,
-.atelierLakesideDark .hljs-bullet {
+.atelier-lakeside-dark .hljs-string,
+.atelier-lakeside-dark .hljs-symbol,
+.atelier-lakeside-dark .hljs-bullet {
   color: #568c3b;
 }
-.atelierLakesideDark .hljs-title,
-.atelierLakesideDark .hljs-section {
+.atelier-lakeside-dark .hljs-title,
+.atelier-lakeside-dark .hljs-section {
   color: #257fad;
 }
-.atelierLakesideDark .hljs-keyword,
-.atelierLakesideDark .hljs-selector-tag {
+.atelier-lakeside-dark .hljs-keyword,
+.atelier-lakeside-dark .hljs-selector-tag {
   color: #6b6bb8;
 }
-.atelierLakesideDark .hljs {
+.atelier-lakeside-dark .hljs {
   display: block;
   overflow-x: auto;
   background: #161b1d;
   color: #7ea2b4;
   padding: 0.5em;
 }
-.atelierLakesideDark .hljs-emphasis {
+.atelier-lakeside-dark .hljs-emphasis {
   font-style: italic;
 }
-.atelierLakesideDark .hljs-strong {
+.atelier-lakeside-dark .hljs-strong {
   font-weight: bold;
 }

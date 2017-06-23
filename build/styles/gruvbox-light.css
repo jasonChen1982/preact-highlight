@@ -1,81 +1,81 @@
-.gruvboxLight .hljs {
+.gruvbox-light .hljs {
   display: block;
   overflow-x: auto;
   padding: 0.5em;
   background: #fbf1c7;
 }
-.gruvboxLight .hljs,
-.gruvboxLight .hljs-subst {
+.gruvbox-light .hljs,
+.gruvbox-light .hljs-subst {
   color: #3c3836;
 }
-.gruvboxLight .hljs-deletion,
-.gruvboxLight .hljs-formula,
-.gruvboxLight .hljs-keyword,
-.gruvboxLight .hljs-link,
-.gruvboxLight .hljs-selector-tag {
+.gruvbox-light .hljs-deletion,
+.gruvbox-light .hljs-formula,
+.gruvbox-light .hljs-keyword,
+.gruvbox-light .hljs-link,
+.gruvbox-light .hljs-selector-tag {
   color: #9d0006;
 }
-.gruvboxLight .hljs-built_in,
-.gruvboxLight .hljs-emphasis,
-.gruvboxLight .hljs-name,
-.gruvboxLight .hljs-quote,
-.gruvboxLight .hljs-strong,
-.gruvboxLight .hljs-title,
-.gruvboxLight .hljs-variable {
+.gruvbox-light .hljs-built_in,
+.gruvbox-light .hljs-emphasis,
+.gruvbox-light .hljs-name,
+.gruvbox-light .hljs-quote,
+.gruvbox-light .hljs-strong,
+.gruvbox-light .hljs-title,
+.gruvbox-light .hljs-variable {
   color: #076678;
 }
-.gruvboxLight .hljs-attr,
-.gruvboxLight .hljs-params,
-.gruvboxLight .hljs-template-tag,
-.gruvboxLight .hljs-type {
+.gruvbox-light .hljs-attr,
+.gruvbox-light .hljs-params,
+.gruvbox-light .hljs-template-tag,
+.gruvbox-light .hljs-type {
   color: #b57614;
 }
-.gruvboxLight .hljs-builtin-name,
-.gruvboxLight .hljs-doctag,
-.gruvboxLight .hljs-literal,
-.gruvboxLight .hljs-number {
+.gruvbox-light .hljs-builtin-name,
+.gruvbox-light .hljs-doctag,
+.gruvbox-light .hljs-literal,
+.gruvbox-light .hljs-number {
   color: #8f3f71;
 }
-.gruvboxLight .hljs-code,
-.gruvboxLight .hljs-meta,
-.gruvboxLight .hljs-regexp,
-.gruvboxLight .hljs-selector-id,
-.gruvboxLight .hljs-template-variable {
+.gruvbox-light .hljs-code,
+.gruvbox-light .hljs-meta,
+.gruvbox-light .hljs-regexp,
+.gruvbox-light .hljs-selector-id,
+.gruvbox-light .hljs-template-variable {
   color: #af3a03;
 }
-.gruvboxLight .hljs-addition,
-.gruvboxLight .hljs-meta-string,
-.gruvboxLight .hljs-section,
-.gruvboxLight .hljs-selector-attr,
-.gruvboxLight .hljs-selector-class,
-.gruvboxLight .hljs-string,
-.gruvboxLight .hljs-symbol {
+.gruvbox-light .hljs-addition,
+.gruvbox-light .hljs-meta-string,
+.gruvbox-light .hljs-section,
+.gruvbox-light .hljs-selector-attr,
+.gruvbox-light .hljs-selector-class,
+.gruvbox-light .hljs-string,
+.gruvbox-light .hljs-symbol {
   color: #79740e;
 }
-.gruvboxLight .hljs-attribute,
-.gruvboxLight .hljs-bullet,
-.gruvboxLight .hljs-class,
-.gruvboxLight .hljs-function,
-.gruvboxLight .hljs-function .hljs-keyword,
-.gruvboxLight .hljs-meta-keyword,
-.gruvboxLight .hljs-selector-pseudo,
-.gruvboxLight .hljs-tag {
+.gruvbox-light .hljs-attribute,
+.gruvbox-light .hljs-bullet,
+.gruvbox-light .hljs-class,
+.gruvbox-light .hljs-function,
+.gruvbox-light .hljs-function .hljs-keyword,
+.gruvbox-light .hljs-meta-keyword,
+.gruvbox-light .hljs-selector-pseudo,
+.gruvbox-light .hljs-tag {
   color: #427b58;
 }
-.gruvboxLight .hljs-comment {
+.gruvbox-light .hljs-comment {
   color: #928374;
 }
-.gruvboxLight .hljs-link_label,
-.gruvboxLight .hljs-literal,
-.gruvboxLight .hljs-number {
+.gruvbox-light .hljs-link_label,
+.gruvbox-light .hljs-literal,
+.gruvbox-light .hljs-number {
   color: #8f3f71;
 }
-.gruvboxLight .hljs-comment,
-.gruvboxLight .hljs-emphasis {
+.gruvbox-light .hljs-comment,
+.gruvbox-light .hljs-emphasis {
   font-style: italic;
 }
-.gruvboxLight .hljs-section,
-.gruvboxLight .hljs-strong,
-.gruvboxLight .hljs-tag {
+.gruvbox-light .hljs-section,
+.gruvbox-light .hljs-strong,
+.gruvbox-light .hljs-tag {
   font-weight: bold;
 }

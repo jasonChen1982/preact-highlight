@@ -1,50 +1,50 @@
-.atelierSulphurpoolLight .hljs-comment,
-.atelierSulphurpoolLight .hljs-quote {
+.atelier-sulphurpool-light .hljs-comment,
+.atelier-sulphurpool-light .hljs-quote {
   color: #6b7394;
 }
-.atelierSulphurpoolLight .hljs-variable,
-.atelierSulphurpoolLight .hljs-template-variable,
-.atelierSulphurpoolLight .hljs-attribute,
-.atelierSulphurpoolLight .hljs-tag,
-.atelierSulphurpoolLight .hljs-name,
-.atelierSulphurpoolLight .hljs-regexp,
-.atelierSulphurpoolLight .hljs-link,
-.atelierSulphurpoolLight .hljs-selector-id,
-.atelierSulphurpoolLight .hljs-selector-class {
+.atelier-sulphurpool-light .hljs-variable,
+.atelier-sulphurpool-light .hljs-template-variable,
+.atelier-sulphurpool-light .hljs-attribute,
+.atelier-sulphurpool-light .hljs-tag,
+.atelier-sulphurpool-light .hljs-name,
+.atelier-sulphurpool-light .hljs-regexp,
+.atelier-sulphurpool-light .hljs-link,
+.atelier-sulphurpool-light .hljs-selector-id,
+.atelier-sulphurpool-light .hljs-selector-class {
   color: #c94922;
 }
-.atelierSulphurpoolLight .hljs-number,
-.atelierSulphurpoolLight .hljs-meta,
-.atelierSulphurpoolLight .hljs-built_in,
-.atelierSulphurpoolLight .hljs-builtin-name,
-.atelierSulphurpoolLight .hljs-literal,
-.atelierSulphurpoolLight .hljs-type,
-.atelierSulphurpoolLight .hljs-params {
+.atelier-sulphurpool-light .hljs-number,
+.atelier-sulphurpool-light .hljs-meta,
+.atelier-sulphurpool-light .hljs-built_in,
+.atelier-sulphurpool-light .hljs-builtin-name,
+.atelier-sulphurpool-light .hljs-literal,
+.atelier-sulphurpool-light .hljs-type,
+.atelier-sulphurpool-light .hljs-params {
   color: #c76b29;
 }
-.atelierSulphurpoolLight .hljs-string,
-.atelierSulphurpoolLight .hljs-symbol,
-.atelierSulphurpoolLight .hljs-bullet {
+.atelier-sulphurpool-light .hljs-string,
+.atelier-sulphurpool-light .hljs-symbol,
+.atelier-sulphurpool-light .hljs-bullet {
   color: #ac9739;
 }
-.atelierSulphurpoolLight .hljs-title,
-.atelierSulphurpoolLight .hljs-section {
+.atelier-sulphurpool-light .hljs-title,
+.atelier-sulphurpool-light .hljs-section {
   color: #3d8fd1;
 }
-.atelierSulphurpoolLight .hljs-keyword,
-.atelierSulphurpoolLight .hljs-selector-tag {
+.atelier-sulphurpool-light .hljs-keyword,
+.atelier-sulphurpool-light .hljs-selector-tag {
   color: #6679cc;
 }
-.atelierSulphurpoolLight .hljs {
+.atelier-sulphurpool-light .hljs {
   display: block;
   overflow-x: auto;
   background: #f5f7ff;
   color: #5e6687;
   padding: 0.5em;
 }
-.atelierSulphurpoolLight .hljs-emphasis {
+.atelier-sulphurpool-light .hljs-emphasis {
   font-style: italic;
 }
-.atelierSulphurpoolLight .hljs-strong {
+.atelier-sulphurpool-light .hljs-strong {
   font-weight: bold;
 }

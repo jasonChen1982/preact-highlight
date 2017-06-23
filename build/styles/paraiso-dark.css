@@ -1,52 +1,52 @@
-.paraisoDark .hljs-comment,
-.paraisoDark .hljs-quote {
+.paraiso-dark .hljs-comment,
+.paraiso-dark .hljs-quote {
   color: #8d8687;
 }
-.paraisoDark .hljs-variable,
-.paraisoDark .hljs-template-variable,
-.paraisoDark .hljs-tag,
-.paraisoDark .hljs-name,
-.paraisoDark .hljs-selector-id,
-.paraisoDark .hljs-selector-class,
-.paraisoDark .hljs-regexp,
-.paraisoDark .hljs-link,
-.paraisoDark .hljs-meta {
+.paraiso-dark .hljs-variable,
+.paraiso-dark .hljs-template-variable,
+.paraiso-dark .hljs-tag,
+.paraiso-dark .hljs-name,
+.paraiso-dark .hljs-selector-id,
+.paraiso-dark .hljs-selector-class,
+.paraiso-dark .hljs-regexp,
+.paraiso-dark .hljs-link,
+.paraiso-dark .hljs-meta {
   color: #ef6155;
 }
-.paraisoDark .hljs-number,
-.paraisoDark .hljs-built_in,
-.paraisoDark .hljs-builtin-name,
-.paraisoDark .hljs-literal,
-.paraisoDark .hljs-type,
-.paraisoDark .hljs-params,
-.paraisoDark .hljs-deletion {
+.paraiso-dark .hljs-number,
+.paraiso-dark .hljs-built_in,
+.paraiso-dark .hljs-builtin-name,
+.paraiso-dark .hljs-literal,
+.paraiso-dark .hljs-type,
+.paraiso-dark .hljs-params,
+.paraiso-dark .hljs-deletion {
   color: #f99b15;
 }
-.paraisoDark .hljs-title,
-.paraisoDark .hljs-section,
-.paraisoDark .hljs-attribute {
+.paraiso-dark .hljs-title,
+.paraiso-dark .hljs-section,
+.paraiso-dark .hljs-attribute {
   color: #fec418;
 }
-.paraisoDark .hljs-string,
-.paraisoDark .hljs-symbol,
-.paraisoDark .hljs-bullet,
-.paraisoDark .hljs-addition {
+.paraiso-dark .hljs-string,
+.paraiso-dark .hljs-symbol,
+.paraiso-dark .hljs-bullet,
+.paraiso-dark .hljs-addition {
   color: #48b685;
 }
-.paraisoDark .hljs-keyword,
-.paraisoDark .hljs-selector-tag {
+.paraiso-dark .hljs-keyword,
+.paraiso-dark .hljs-selector-tag {
   color: #815ba4;
 }
-.paraisoDark .hljs {
+.paraiso-dark .hljs {
   display: block;
   overflow-x: auto;
   background: #2f1e2e;
   color: #a39e9b;
   padding: 0.5em;
 }
-.paraisoDark .hljs-emphasis {
+.paraiso-dark .hljs-emphasis {
   font-style: italic;
 }
-.paraisoDark .hljs-strong {
+.paraiso-dark .hljs-strong {
   font-weight: bold;
 }

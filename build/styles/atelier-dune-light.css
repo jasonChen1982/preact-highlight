@@ -1,50 +1,50 @@
-.atelierDuneLight .hljs-comment,
-.atelierDuneLight .hljs-quote {
+.atelier-dune-light .hljs-comment,
+.atelier-dune-light .hljs-quote {
   color: #7d7a68;
 }
-.atelierDuneLight .hljs-variable,
-.atelierDuneLight .hljs-template-variable,
-.atelierDuneLight .hljs-attribute,
-.atelierDuneLight .hljs-tag,
-.atelierDuneLight .hljs-name,
-.atelierDuneLight .hljs-regexp,
-.atelierDuneLight .hljs-link,
-.atelierDuneLight .hljs-selector-id,
-.atelierDuneLight .hljs-selector-class {
+.atelier-dune-light .hljs-variable,
+.atelier-dune-light .hljs-template-variable,
+.atelier-dune-light .hljs-attribute,
+.atelier-dune-light .hljs-tag,
+.atelier-dune-light .hljs-name,
+.atelier-dune-light .hljs-regexp,
+.atelier-dune-light .hljs-link,
+.atelier-dune-light .hljs-selector-id,
+.atelier-dune-light .hljs-selector-class {
   color: #d73737;
 }
-.atelierDuneLight .hljs-number,
-.atelierDuneLight .hljs-meta,
-.atelierDuneLight .hljs-built_in,
-.atelierDuneLight .hljs-builtin-name,
-.atelierDuneLight .hljs-literal,
-.atelierDuneLight .hljs-type,
-.atelierDuneLight .hljs-params {
+.atelier-dune-light .hljs-number,
+.atelier-dune-light .hljs-meta,
+.atelier-dune-light .hljs-built_in,
+.atelier-dune-light .hljs-builtin-name,
+.atelier-dune-light .hljs-literal,
+.atelier-dune-light .hljs-type,
+.atelier-dune-light .hljs-params {
   color: #b65611;
 }
-.atelierDuneLight .hljs-string,
-.atelierDuneLight .hljs-symbol,
-.atelierDuneLight .hljs-bullet {
+.atelier-dune-light .hljs-string,
+.atelier-dune-light .hljs-symbol,
+.atelier-dune-light .hljs-bullet {
   color: #60ac39;
 }
-.atelierDuneLight .hljs-title,
-.atelierDuneLight .hljs-section {
+.atelier-dune-light .hljs-title,
+.atelier-dune-light .hljs-section {
   color: #6684e1;
 }
-.atelierDuneLight .hljs-keyword,
-.atelierDuneLight .hljs-selector-tag {
+.atelier-dune-light .hljs-keyword,
+.atelier-dune-light .hljs-selector-tag {
   color: #b854d4;
 }
-.atelierDuneLight .hljs {
+.atelier-dune-light .hljs {
   display: block;
   overflow-x: auto;
   background: #fefbec;
   color: #6e6b5e;
   padding: 0.5em;
 }
-.atelierDuneLight .hljs-emphasis {
+.atelier-dune-light .hljs-emphasis {
   font-style: italic;
 }
-.atelierDuneLight .hljs-strong {
+.atelier-dune-light .hljs-strong {
   font-weight: bold;
 }

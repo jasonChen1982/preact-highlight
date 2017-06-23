@@ -1,59 +1,59 @@
-.schoolBook .hljs {
+.school-book .hljs {
   display: block;
   overflow-x: auto;
   padding: 15px 0.5em 0.5em 30px;
   font-size: 11px;
   line-height: 16px;
 }
-.schoolBook pre {
+.school-book pre {
   background: #f6f6ae url("./school-book.png");
   border-top: solid 2px #d2e8b9;
   border-bottom: solid 1px #d2e8b9;
 }
-.schoolBook .hljs-keyword,
-.schoolBook .hljs-selector-tag,
-.schoolBook .hljs-literal {
+.school-book .hljs-keyword,
+.school-book .hljs-selector-tag,
+.school-book .hljs-literal {
   color: #059;
   font-weight: bold;
 }
-.schoolBook .hljs,
-.schoolBook .hljs-subst {
+.school-book .hljs,
+.school-book .hljs-subst {
   color: #3e5915;
 }
-.schoolBook .hljs-string,
-.schoolBook .hljs-title,
-.schoolBook .hljs-section,
-.schoolBook .hljs-type,
-.schoolBook .hljs-symbol,
-.schoolBook .hljs-bullet,
-.schoolBook .hljs-attribute,
-.schoolBook .hljs-built_in,
-.schoolBook .hljs-builtin-name,
-.schoolBook .hljs-addition,
-.schoolBook .hljs-variable,
-.schoolBook .hljs-template-tag,
-.schoolBook .hljs-template-variable,
-.schoolBook .hljs-link {
+.school-book .hljs-string,
+.school-book .hljs-title,
+.school-book .hljs-section,
+.school-book .hljs-type,
+.school-book .hljs-symbol,
+.school-book .hljs-bullet,
+.school-book .hljs-attribute,
+.school-book .hljs-built_in,
+.school-book .hljs-builtin-name,
+.school-book .hljs-addition,
+.school-book .hljs-variable,
+.school-book .hljs-template-tag,
+.school-book .hljs-template-variable,
+.school-book .hljs-link {
   color: #2c009f;
 }
-.schoolBook .hljs-comment,
-.schoolBook .hljs-quote,
-.schoolBook .hljs-deletion,
-.schoolBook .hljs-meta {
+.school-book .hljs-comment,
+.school-book .hljs-quote,
+.school-book .hljs-deletion,
+.school-book .hljs-meta {
   color: #e60415;
 }
-.schoolBook .hljs-keyword,
-.schoolBook .hljs-selector-tag,
-.schoolBook .hljs-literal,
-.schoolBook .hljs-doctag,
-.schoolBook .hljs-title,
-.schoolBook .hljs-section,
-.schoolBook .hljs-type,
-.schoolBook .hljs-name,
-.schoolBook .hljs-selector-id,
-.schoolBook .hljs-strong {
+.school-book .hljs-keyword,
+.school-book .hljs-selector-tag,
+.school-book .hljs-literal,
+.school-book .hljs-doctag,
+.school-book .hljs-title,
+.school-book .hljs-section,
+.school-book .hljs-type,
+.school-book .hljs-name,
+.school-book .hljs-selector-id,
+.school-book .hljs-strong {
   font-weight: bold;
 }
-.schoolBook .hljs-emphasis {
+.school-book .hljs-emphasis {
   font-style: italic;
 }

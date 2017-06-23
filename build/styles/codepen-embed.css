@@ -1,48 +1,48 @@
-.codepenEmbed .hljs {
+.codepen-embed .hljs {
   display: block;
   overflow-x: auto;
   padding: 0.5em;
   background: #222;
   color: #fff;
 }
-.codepenEmbed .hljs-comment,
-.codepenEmbed .hljs-quote {
+.codepen-embed .hljs-comment,
+.codepen-embed .hljs-quote {
   color: #777;
 }
-.codepenEmbed .hljs-variable,
-.codepenEmbed .hljs-template-variable,
-.codepenEmbed .hljs-tag,
-.codepenEmbed .hljs-regexp,
-.codepenEmbed .hljs-meta,
-.codepenEmbed .hljs-number,
-.codepenEmbed .hljs-built_in,
-.codepenEmbed .hljs-builtin-name,
-.codepenEmbed .hljs-literal,
-.codepenEmbed .hljs-params,
-.codepenEmbed .hljs-symbol,
-.codepenEmbed .hljs-bullet,
-.codepenEmbed .hljs-link,
-.codepenEmbed .hljs-deletion {
+.codepen-embed .hljs-variable,
+.codepen-embed .hljs-template-variable,
+.codepen-embed .hljs-tag,
+.codepen-embed .hljs-regexp,
+.codepen-embed .hljs-meta,
+.codepen-embed .hljs-number,
+.codepen-embed .hljs-built_in,
+.codepen-embed .hljs-builtin-name,
+.codepen-embed .hljs-literal,
+.codepen-embed .hljs-params,
+.codepen-embed .hljs-symbol,
+.codepen-embed .hljs-bullet,
+.codepen-embed .hljs-link,
+.codepen-embed .hljs-deletion {
   color: #ab875d;
 }
-.codepenEmbed .hljs-section,
-.codepenEmbed .hljs-title,
-.codepenEmbed .hljs-name,
-.codepenEmbed .hljs-selector-id,
-.codepenEmbed .hljs-selector-class,
-.codepenEmbed .hljs-type,
-.codepenEmbed .hljs-attribute {
+.codepen-embed .hljs-section,
+.codepen-embed .hljs-title,
+.codepen-embed .hljs-name,
+.codepen-embed .hljs-selector-id,
+.codepen-embed .hljs-selector-class,
+.codepen-embed .hljs-type,
+.codepen-embed .hljs-attribute {
   color: #9b869b;
 }
-.codepenEmbed .hljs-string,
-.codepenEmbed .hljs-keyword,
-.codepenEmbed .hljs-selector-tag,
-.codepenEmbed .hljs-addition {
+.codepen-embed .hljs-string,
+.codepen-embed .hljs-keyword,
+.codepen-embed .hljs-selector-tag,
+.codepen-embed .hljs-addition {
   color: #8f9c6c;
 }
-.codepenEmbed .hljs-emphasis {
+.codepen-embed .hljs-emphasis {
   font-style: italic;
 }
-.codepenEmbed .hljs-strong {
+.codepen-embed .hljs-strong {
   font-weight: bold;
 }

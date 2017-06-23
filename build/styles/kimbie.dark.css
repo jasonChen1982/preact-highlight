@@ -1,53 +1,53 @@
-.kimbieDark .hljs-comment,
-.kimbieDark .hljs-quote {
+.kimbie.dark .hljs-comment,
+.kimbie.dark .hljs-quote {
   color: #d6baad;
 }
-.kimbieDark .hljs-variable,
-.kimbieDark .hljs-template-variable,
-.kimbieDark .hljs-tag,
-.kimbieDark .hljs-name,
-.kimbieDark .hljs-selector-id,
-.kimbieDark .hljs-selector-class,
-.kimbieDark .hljs-regexp,
-.kimbieDark .hljs-meta {
+.kimbie.dark .hljs-variable,
+.kimbie.dark .hljs-template-variable,
+.kimbie.dark .hljs-tag,
+.kimbie.dark .hljs-name,
+.kimbie.dark .hljs-selector-id,
+.kimbie.dark .hljs-selector-class,
+.kimbie.dark .hljs-regexp,
+.kimbie.dark .hljs-meta {
   color: #dc3958;
 }
-.kimbieDark .hljs-number,
-.kimbieDark .hljs-built_in,
-.kimbieDark .hljs-builtin-name,
-.kimbieDark .hljs-literal,
-.kimbieDark .hljs-type,
-.kimbieDark .hljs-params,
-.kimbieDark .hljs-deletion,
-.kimbieDark .hljs-link {
+.kimbie.dark .hljs-number,
+.kimbie.dark .hljs-built_in,
+.kimbie.dark .hljs-builtin-name,
+.kimbie.dark .hljs-literal,
+.kimbie.dark .hljs-type,
+.kimbie.dark .hljs-params,
+.kimbie.dark .hljs-deletion,
+.kimbie.dark .hljs-link {
   color: #f79a32;
 }
-.kimbieDark .hljs-title,
-.kimbieDark .hljs-section,
-.kimbieDark .hljs-attribute {
+.kimbie.dark .hljs-title,
+.kimbie.dark .hljs-section,
+.kimbie.dark .hljs-attribute {
   color: #f06431;
 }
-.kimbieDark .hljs-string,
-.kimbieDark .hljs-symbol,
-.kimbieDark .hljs-bullet,
-.kimbieDark .hljs-addition {
+.kimbie.dark .hljs-string,
+.kimbie.dark .hljs-symbol,
+.kimbie.dark .hljs-bullet,
+.kimbie.dark .hljs-addition {
   color: #889b4a;
 }
-.kimbieDark .hljs-keyword,
-.kimbieDark .hljs-selector-tag,
-.kimbieDark .hljs-function {
+.kimbie.dark .hljs-keyword,
+.kimbie.dark .hljs-selector-tag,
+.kimbie.dark .hljs-function {
   color: #98676a;
 }
-.kimbieDark .hljs {
+.kimbie.dark .hljs {
   display: block;
   overflow-x: auto;
   background: #221a0f;
   color: #d3af86;
   padding: 0.5em;
 }
-.kimbieDark .hljs-emphasis {
+.kimbie.dark .hljs-emphasis {
   font-style: italic;
 }
-.kimbieDark .hljs-strong {
+.kimbie.dark .hljs-strong {
   font-weight: bold;
 }

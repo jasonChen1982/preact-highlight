@@ -1,62 +1,62 @@
-.atelierPlateauLight .hljs-comment,
-.atelierPlateauLight .hljs-quote {
+.atelier-plateau-light .hljs-comment,
+.atelier-plateau-light .hljs-quote {
   color: #655d5d;
 }
-.atelierPlateauLight .hljs-variable,
-.atelierPlateauLight .hljs-template-variable,
-.atelierPlateauLight .hljs-attribute,
-.atelierPlateauLight .hljs-tag,
-.atelierPlateauLight .hljs-name,
-.atelierPlateauLight .hljs-regexp,
-.atelierPlateauLight .hljs-link,
-.atelierPlateauLight .hljs-selector-id,
-.atelierPlateauLight .hljs-selector-class {
+.atelier-plateau-light .hljs-variable,
+.atelier-plateau-light .hljs-template-variable,
+.atelier-plateau-light .hljs-attribute,
+.atelier-plateau-light .hljs-tag,
+.atelier-plateau-light .hljs-name,
+.atelier-plateau-light .hljs-regexp,
+.atelier-plateau-light .hljs-link,
+.atelier-plateau-light .hljs-selector-id,
+.atelier-plateau-light .hljs-selector-class {
   color: #ca4949;
 }
-.atelierPlateauLight .hljs-number,
-.atelierPlateauLight .hljs-meta,
-.atelierPlateauLight .hljs-built_in,
-.atelierPlateauLight .hljs-builtin-name,
-.atelierPlateauLight .hljs-literal,
-.atelierPlateauLight .hljs-type,
-.atelierPlateauLight .hljs-params {
+.atelier-plateau-light .hljs-number,
+.atelier-plateau-light .hljs-meta,
+.atelier-plateau-light .hljs-built_in,
+.atelier-plateau-light .hljs-builtin-name,
+.atelier-plateau-light .hljs-literal,
+.atelier-plateau-light .hljs-type,
+.atelier-plateau-light .hljs-params {
   color: #b45a3c;
 }
-.atelierPlateauLight .hljs-string,
-.atelierPlateauLight .hljs-symbol,
-.atelierPlateauLight .hljs-bullet {
+.atelier-plateau-light .hljs-string,
+.atelier-plateau-light .hljs-symbol,
+.atelier-plateau-light .hljs-bullet {
   color: #4b8b8b;
 }
-.atelierPlateauLight .hljs-title,
-.atelierPlateauLight .hljs-section {
+.atelier-plateau-light .hljs-title,
+.atelier-plateau-light .hljs-section {
   color: #7272ca;
 }
-.atelierPlateauLight .hljs-keyword,
-.atelierPlateauLight .hljs-selector-tag {
+.atelier-plateau-light .hljs-keyword,
+.atelier-plateau-light .hljs-selector-tag {
   color: #8464c4;
 }
-.atelierPlateauLight .hljs-deletion,
-.atelierPlateauLight .hljs-addition {
+.atelier-plateau-light .hljs-deletion,
+.atelier-plateau-light .hljs-addition {
   color: #1b1818;
   display: inline-block;
   width: 100%;
 }
-.atelierPlateauLight .hljs-deletion {
+.atelier-plateau-light .hljs-deletion {
   background-color: #ca4949;
 }
-.atelierPlateauLight .hljs-addition {
+.atelier-plateau-light .hljs-addition {
   background-color: #4b8b8b;
 }
-.atelierPlateauLight .hljs {
+.atelier-plateau-light .hljs {
   display: block;
   overflow-x: auto;
   background: #f4ecec;
   color: #585050;
   padding: 0.5em;
 }
-.atelierPlateauLight .hljs-emphasis {
+.atelier-plateau-light .hljs-emphasis {
   font-style: italic;
 }
-.atelierPlateauLight .hljs-strong {
+.atelier-plateau-light .hljs-strong {
   font-weight: bold;
 }

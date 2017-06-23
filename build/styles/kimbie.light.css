@@ -1,53 +1,53 @@
-.kimbieLight .hljs-comment,
-.kimbieLight .hljs-quote {
+.kimbie.light .hljs-comment,
+.kimbie.light .hljs-quote {
   color: #a57a4c;
 }
-.kimbieLight .hljs-variable,
-.kimbieLight .hljs-template-variable,
-.kimbieLight .hljs-tag,
-.kimbieLight .hljs-name,
-.kimbieLight .hljs-selector-id,
-.kimbieLight .hljs-selector-class,
-.kimbieLight .hljs-regexp,
-.kimbieLight .hljs-meta {
+.kimbie.light .hljs-variable,
+.kimbie.light .hljs-template-variable,
+.kimbie.light .hljs-tag,
+.kimbie.light .hljs-name,
+.kimbie.light .hljs-selector-id,
+.kimbie.light .hljs-selector-class,
+.kimbie.light .hljs-regexp,
+.kimbie.light .hljs-meta {
   color: #dc3958;
 }
-.kimbieLight .hljs-number,
-.kimbieLight .hljs-built_in,
-.kimbieLight .hljs-builtin-name,
-.kimbieLight .hljs-literal,
-.kimbieLight .hljs-type,
-.kimbieLight .hljs-params,
-.kimbieLight .hljs-deletion,
-.kimbieLight .hljs-link {
+.kimbie.light .hljs-number,
+.kimbie.light .hljs-built_in,
+.kimbie.light .hljs-builtin-name,
+.kimbie.light .hljs-literal,
+.kimbie.light .hljs-type,
+.kimbie.light .hljs-params,
+.kimbie.light .hljs-deletion,
+.kimbie.light .hljs-link {
   color: #f79a32;
 }
-.kimbieLight .hljs-title,
-.kimbieLight .hljs-section,
-.kimbieLight .hljs-attribute {
+.kimbie.light .hljs-title,
+.kimbie.light .hljs-section,
+.kimbie.light .hljs-attribute {
   color: #f06431;
 }
-.kimbieLight .hljs-string,
-.kimbieLight .hljs-symbol,
-.kimbieLight .hljs-bullet,
-.kimbieLight .hljs-addition {
+.kimbie.light .hljs-string,
+.kimbie.light .hljs-symbol,
+.kimbie.light .hljs-bullet,
+.kimbie.light .hljs-addition {
   color: #889b4a;
 }
-.kimbieLight .hljs-keyword,
-.kimbieLight .hljs-selector-tag,
-.kimbieLight .hljs-function {
+.kimbie.light .hljs-keyword,
+.kimbie.light .hljs-selector-tag,
+.kimbie.light .hljs-function {
   color: #98676a;
 }
-.kimbieLight .hljs {
+.kimbie.light .hljs {
   display: block;
   overflow-x: auto;
   background: #fbebd4;
   color: #84613d;
   padding: 0.5em;
 }
-.kimbieLight .hljs-emphasis {
+.kimbie.light .hljs-emphasis {
   font-style: italic;
 }
-.kimbieLight .hljs-strong {
+.kimbie.light .hljs-strong {
   font-weight: bold;
 }

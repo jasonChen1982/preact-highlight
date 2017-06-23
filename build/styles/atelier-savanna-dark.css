@@ -1,62 +1,62 @@
-.atelierSavannaDark .hljs-comment,
-.atelierSavannaDark .hljs-quote {
+.atelier-savanna-dark .hljs-comment,
+.atelier-savanna-dark .hljs-quote {
   color: #78877d;
 }
-.atelierSavannaDark .hljs-variable,
-.atelierSavannaDark .hljs-template-variable,
-.atelierSavannaDark .hljs-attribute,
-.atelierSavannaDark .hljs-tag,
-.atelierSavannaDark .hljs-name,
-.atelierSavannaDark .hljs-regexp,
-.atelierSavannaDark .hljs-link,
-.atelierSavannaDark .hljs-selector-id,
-.atelierSavannaDark .hljs-selector-class {
+.atelier-savanna-dark .hljs-variable,
+.atelier-savanna-dark .hljs-template-variable,
+.atelier-savanna-dark .hljs-attribute,
+.atelier-savanna-dark .hljs-tag,
+.atelier-savanna-dark .hljs-name,
+.atelier-savanna-dark .hljs-regexp,
+.atelier-savanna-dark .hljs-link,
+.atelier-savanna-dark .hljs-selector-id,
+.atelier-savanna-dark .hljs-selector-class {
   color: #b16139;
 }
-.atelierSavannaDark .hljs-number,
-.atelierSavannaDark .hljs-meta,
-.atelierSavannaDark .hljs-built_in,
-.atelierSavannaDark .hljs-builtin-name,
-.atelierSavannaDark .hljs-literal,
-.atelierSavannaDark .hljs-type,
-.atelierSavannaDark .hljs-params {
+.atelier-savanna-dark .hljs-number,
+.atelier-savanna-dark .hljs-meta,
+.atelier-savanna-dark .hljs-built_in,
+.atelier-savanna-dark .hljs-builtin-name,
+.atelier-savanna-dark .hljs-literal,
+.atelier-savanna-dark .hljs-type,
+.atelier-savanna-dark .hljs-params {
   color: #9f713c;
 }
-.atelierSavannaDark .hljs-string,
-.atelierSavannaDark .hljs-symbol,
-.atelierSavannaDark .hljs-bullet {
+.atelier-savanna-dark .hljs-string,
+.atelier-savanna-dark .hljs-symbol,
+.atelier-savanna-dark .hljs-bullet {
   color: #489963;
 }
-.atelierSavannaDark .hljs-title,
-.atelierSavannaDark .hljs-section {
+.atelier-savanna-dark .hljs-title,
+.atelier-savanna-dark .hljs-section {
   color: #478c90;
 }
-.atelierSavannaDark .hljs-keyword,
-.atelierSavannaDark .hljs-selector-tag {
+.atelier-savanna-dark .hljs-keyword,
+.atelier-savanna-dark .hljs-selector-tag {
   color: #55859b;
 }
-.atelierSavannaDark .hljs-deletion,
-.atelierSavannaDark .hljs-addition {
+.atelier-savanna-dark .hljs-deletion,
+.atelier-savanna-dark .hljs-addition {
   color: #171c19;
   display: inline-block;
   width: 100%;
 }
-.atelierSavannaDark .hljs-deletion {
+.atelier-savanna-dark .hljs-deletion {
   background-color: #b16139;
 }
-.atelierSavannaDark .hljs-addition {
+.atelier-savanna-dark .hljs-addition {
   background-color: #489963;
 }
-.atelierSavannaDark .hljs {
+.atelier-savanna-dark .hljs {
   display: block;
   overflow-x: auto;
   background: #171c19;
   color: #87928a;
   padding: 0.5em;
 }
-.atelierSavannaDark .hljs-emphasis {
+.atelier-savanna-dark .hljs-emphasis {
   font-style: italic;
 }
-.atelierSavannaDark .hljs-strong {
+.atelier-savanna-dark .hljs-strong {
   font-weight: bold;
 }

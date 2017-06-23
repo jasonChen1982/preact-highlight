@@ -1,53 +1,53 @@
-.colorBrewer .hljs {
+.color-brewer .hljs {
   display: block;
   overflow-x: auto;
   padding: 0.5em;
   background: #fff;
 }
-.colorBrewer .hljs,
-.colorBrewer .hljs-subst {
+.color-brewer .hljs,
+.color-brewer .hljs-subst {
   color: #000;
 }
-.colorBrewer .hljs-string,
-.colorBrewer .hljs-meta,
-.colorBrewer .hljs-symbol,
-.colorBrewer .hljs-template-tag,
-.colorBrewer .hljs-template-variable,
-.colorBrewer .hljs-addition {
+.color-brewer .hljs-string,
+.color-brewer .hljs-meta,
+.color-brewer .hljs-symbol,
+.color-brewer .hljs-template-tag,
+.color-brewer .hljs-template-variable,
+.color-brewer .hljs-addition {
   color: #756bb1;
 }
-.colorBrewer .hljs-comment,
-.colorBrewer .hljs-quote {
+.color-brewer .hljs-comment,
+.color-brewer .hljs-quote {
   color: #636363;
 }
-.colorBrewer .hljs-number,
-.colorBrewer .hljs-regexp,
-.colorBrewer .hljs-literal,
-.colorBrewer .hljs-bullet,
-.colorBrewer .hljs-link {
+.color-brewer .hljs-number,
+.color-brewer .hljs-regexp,
+.color-brewer .hljs-literal,
+.color-brewer .hljs-bullet,
+.color-brewer .hljs-link {
   color: #31a354;
 }
-.colorBrewer .hljs-deletion,
-.colorBrewer .hljs-variable {
+.color-brewer .hljs-deletion,
+.color-brewer .hljs-variable {
   color: #88f;
 }
-.colorBrewer .hljs-keyword,
-.colorBrewer .hljs-selector-tag,
-.colorBrewer .hljs-title,
-.colorBrewer .hljs-section,
-.colorBrewer .hljs-built_in,
-.colorBrewer .hljs-doctag,
-.colorBrewer .hljs-type,
-.colorBrewer .hljs-tag,
-.colorBrewer .hljs-name,
-.colorBrewer .hljs-selector-id,
-.colorBrewer .hljs-selector-class,
-.colorBrewer .hljs-strong {
+.color-brewer .hljs-keyword,
+.color-brewer .hljs-selector-tag,
+.color-brewer .hljs-title,
+.color-brewer .hljs-section,
+.color-brewer .hljs-built_in,
+.color-brewer .hljs-doctag,
+.color-brewer .hljs-type,
+.color-brewer .hljs-tag,
+.color-brewer .hljs-name,
+.color-brewer .hljs-selector-id,
+.color-brewer .hljs-selector-class,
+.color-brewer .hljs-strong {
   color: #3182bd;
 }
-.colorBrewer .hljs-emphasis {
+.color-brewer .hljs-emphasis {
   font-style: italic;
 }
-.colorBrewer .hljs-attribute {
+.color-brewer .hljs-attribute {
   color: #e6550d;
 }

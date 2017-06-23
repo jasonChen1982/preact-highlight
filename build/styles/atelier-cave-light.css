@@ -1,62 +1,62 @@
-.atelierCaveLight .hljs-comment,
-.atelierCaveLight .hljs-quote {
+.atelier-cave-light .hljs-comment,
+.atelier-cave-light .hljs-quote {
   color: #655f6d;
 }
-.atelierCaveLight .hljs-variable,
-.atelierCaveLight .hljs-template-variable,
-.atelierCaveLight .hljs-attribute,
-.atelierCaveLight .hljs-tag,
-.atelierCaveLight .hljs-name,
-.atelierCaveLight .hljs-regexp,
-.atelierCaveLight .hljs-link,
-.atelierCaveLight .hljs-selector-id,
-.atelierCaveLight .hljs-selector-class {
+.atelier-cave-light .hljs-variable,
+.atelier-cave-light .hljs-template-variable,
+.atelier-cave-light .hljs-attribute,
+.atelier-cave-light .hljs-tag,
+.atelier-cave-light .hljs-name,
+.atelier-cave-light .hljs-regexp,
+.atelier-cave-light .hljs-link,
+.atelier-cave-light .hljs-selector-id,
+.atelier-cave-light .hljs-selector-class {
   color: #be4678;
 }
-.atelierCaveLight .hljs-number,
-.atelierCaveLight .hljs-meta,
-.atelierCaveLight .hljs-built_in,
-.atelierCaveLight .hljs-builtin-name,
-.atelierCaveLight .hljs-literal,
-.atelierCaveLight .hljs-type,
-.atelierCaveLight .hljs-params {
+.atelier-cave-light .hljs-number,
+.atelier-cave-light .hljs-meta,
+.atelier-cave-light .hljs-built_in,
+.atelier-cave-light .hljs-builtin-name,
+.atelier-cave-light .hljs-literal,
+.atelier-cave-light .hljs-type,
+.atelier-cave-light .hljs-params {
   color: #aa573c;
 }
-.atelierCaveLight .hljs-string,
-.atelierCaveLight .hljs-symbol,
-.atelierCaveLight .hljs-bullet {
+.atelier-cave-light .hljs-string,
+.atelier-cave-light .hljs-symbol,
+.atelier-cave-light .hljs-bullet {
   color: #2a9292;
 }
-.atelierCaveLight .hljs-title,
-.atelierCaveLight .hljs-section {
+.atelier-cave-light .hljs-title,
+.atelier-cave-light .hljs-section {
   color: #576ddb;
 }
-.atelierCaveLight .hljs-keyword,
-.atelierCaveLight .hljs-selector-tag {
+.atelier-cave-light .hljs-keyword,
+.atelier-cave-light .hljs-selector-tag {
   color: #955ae7;
 }
-.atelierCaveLight .hljs-deletion,
-.atelierCaveLight .hljs-addition {
+.atelier-cave-light .hljs-deletion,
+.atelier-cave-light .hljs-addition {
   color: #19171c;
   display: inline-block;
   width: 100%;
 }
-.atelierCaveLight .hljs-deletion {
+.atelier-cave-light .hljs-deletion {
   background-color: #be4678;
 }
-.atelierCaveLight .hljs-addition {
+.atelier-cave-light .hljs-addition {
   background-color: #2a9292;
 }
-.atelierCaveLight .hljs {
+.atelier-cave-light .hljs {
   display: block;
   overflow-x: auto;
   background: #efecf4;
   color: #585260;
   padding: 0.5em;
 }
-.atelierCaveLight .hljs-emphasis {
+.atelier-cave-light .hljs-emphasis {
   font-style: italic;
 }
-.atelierCaveLight .hljs-strong {
+.atelier-cave-light .hljs-strong {
   font-weight: bold;
 }

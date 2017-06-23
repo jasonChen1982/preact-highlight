@@ -1,62 +1,62 @@
-.atelierSavannaLight .hljs-comment,
-.atelierSavannaLight .hljs-quote {
+.atelier-savanna-light .hljs-comment,
+.atelier-savanna-light .hljs-quote {
   color: #5f6d64;
 }
-.atelierSavannaLight .hljs-variable,
-.atelierSavannaLight .hljs-template-variable,
-.atelierSavannaLight .hljs-attribute,
-.atelierSavannaLight .hljs-tag,
-.atelierSavannaLight .hljs-name,
-.atelierSavannaLight .hljs-regexp,
-.atelierSavannaLight .hljs-link,
-.atelierSavannaLight .hljs-selector-id,
-.atelierSavannaLight .hljs-selector-class {
+.atelier-savanna-light .hljs-variable,
+.atelier-savanna-light .hljs-template-variable,
+.atelier-savanna-light .hljs-attribute,
+.atelier-savanna-light .hljs-tag,
+.atelier-savanna-light .hljs-name,
+.atelier-savanna-light .hljs-regexp,
+.atelier-savanna-light .hljs-link,
+.atelier-savanna-light .hljs-selector-id,
+.atelier-savanna-light .hljs-selector-class {
   color: #b16139;
 }
-.atelierSavannaLight .hljs-number,
-.atelierSavannaLight .hljs-meta,
-.atelierSavannaLight .hljs-built_in,
-.atelierSavannaLight .hljs-builtin-name,
-.atelierSavannaLight .hljs-literal,
-.atelierSavannaLight .hljs-type,
-.atelierSavannaLight .hljs-params {
+.atelier-savanna-light .hljs-number,
+.atelier-savanna-light .hljs-meta,
+.atelier-savanna-light .hljs-built_in,
+.atelier-savanna-light .hljs-builtin-name,
+.atelier-savanna-light .hljs-literal,
+.atelier-savanna-light .hljs-type,
+.atelier-savanna-light .hljs-params {
   color: #9f713c;
 }
-.atelierSavannaLight .hljs-string,
-.atelierSavannaLight .hljs-symbol,
-.atelierSavannaLight .hljs-bullet {
+.atelier-savanna-light .hljs-string,
+.atelier-savanna-light .hljs-symbol,
+.atelier-savanna-light .hljs-bullet {
   color: #489963;
 }
-.atelierSavannaLight .hljs-title,
-.atelierSavannaLight .hljs-section {
+.atelier-savanna-light .hljs-title,
+.atelier-savanna-light .hljs-section {
   color: #478c90;
 }
-.atelierSavannaLight .hljs-keyword,
-.atelierSavannaLight .hljs-selector-tag {
+.atelier-savanna-light .hljs-keyword,
+.atelier-savanna-light .hljs-selector-tag {
   color: #55859b;
 }
-.atelierSavannaLight .hljs-deletion,
-.atelierSavannaLight .hljs-addition {
+.atelier-savanna-light .hljs-deletion,
+.atelier-savanna-light .hljs-addition {
   color: #171c19;
   display: inline-block;
   width: 100%;
 }
-.atelierSavannaLight .hljs-deletion {
+.atelier-savanna-light .hljs-deletion {
   background-color: #b16139;
 }
-.atelierSavannaLight .hljs-addition {
+.atelier-savanna-light .hljs-addition {
   background-color: #489963;
 }
-.atelierSavannaLight .hljs {
+.atelier-savanna-light .hljs {
   display: block;
   overflow-x: auto;
   background: #ecf4ee;
   color: #526057;
   padding: 0.5em;
 }
-.atelierSavannaLight .hljs-emphasis {
+.atelier-savanna-light .hljs-emphasis {
   font-style: italic;
 }
-.atelierSavannaLight .hljs-strong {
+.atelier-savanna-light .hljs-strong {
   font-weight: bold;
 }

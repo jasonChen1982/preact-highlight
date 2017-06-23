@@ -1,66 +1,66 @@
-.qtcreatorLight .hljs {
+.qtcreator_light .hljs {
   display: block;
   overflow-x: auto;
   padding: 0.5em;
   background: #fff;
 }
-.qtcreatorLight .hljs,
-.qtcreatorLight .hljs-subst,
-.qtcreatorLight .hljs-tag,
-.qtcreatorLight .hljs-title {
+.qtcreator_light .hljs,
+.qtcreator_light .hljs-subst,
+.qtcreator_light .hljs-tag,
+.qtcreator_light .hljs-title {
   color: #000;
 }
-.qtcreatorLight .hljs-strong,
-.qtcreatorLight .hljs-emphasis {
+.qtcreator_light .hljs-strong,
+.qtcreator_light .hljs-emphasis {
   color: #000;
 }
-.qtcreatorLight .hljs-bullet,
-.qtcreatorLight .hljs-quote,
-.qtcreatorLight .hljs-number,
-.qtcreatorLight .hljs-regexp,
-.qtcreatorLight .hljs-literal {
+.qtcreator_light .hljs-bullet,
+.qtcreator_light .hljs-quote,
+.qtcreator_light .hljs-number,
+.qtcreator_light .hljs-regexp,
+.qtcreator_light .hljs-literal {
   color: #000080;
 }
-.qtcreatorLight .hljs-code,
-.qtcreatorLight .hljs-selector-class {
+.qtcreator_light .hljs-code,
+.qtcreator_light .hljs-selector-class {
   color: #800080;
 }
-.qtcreatorLight .hljs-emphasis,
-.qtcreatorLight .hljs-stronge,
-.qtcreatorLight .hljs-type {
+.qtcreator_light .hljs-emphasis,
+.qtcreator_light .hljs-stronge,
+.qtcreator_light .hljs-type {
   font-style: italic;
 }
-.qtcreatorLight .hljs-keyword,
-.qtcreatorLight .hljs-selector-tag,
-.qtcreatorLight .hljs-function,
-.qtcreatorLight .hljs-section,
-.qtcreatorLight .hljs-symbol,
-.qtcreatorLight .hljs-name {
+.qtcreator_light .hljs-keyword,
+.qtcreator_light .hljs-selector-tag,
+.qtcreator_light .hljs-function,
+.qtcreator_light .hljs-section,
+.qtcreator_light .hljs-symbol,
+.qtcreator_light .hljs-name {
   color: #808000;
 }
-.qtcreatorLight .hljs-attribute {
+.qtcreator_light .hljs-attribute {
   color: #800000;
 }
-.qtcreatorLight .hljs-variable,
-.qtcreatorLight .hljs-params,
-.qtcreatorLight .hljs-class .hljs-title {
+.qtcreator_light .hljs-variable,
+.qtcreator_light .hljs-params,
+.qtcreator_light .hljs-class .hljs-title {
   color: #0055af;
 }
-.qtcreatorLight .hljs-string,
-.qtcreatorLight .hljs-selector-id,
-.qtcreatorLight .hljs-selector-attr,
-.qtcreatorLight .hljs-selector-pseudo,
-.qtcreatorLight .hljs-type,
-.qtcreatorLight .hljs-built_in,
-.qtcreatorLight .hljs-builtin-name,
-.qtcreatorLight .hljs-template-tag,
-.qtcreatorLight .hljs-template-variable,
-.qtcreatorLight .hljs-addition,
-.qtcreatorLight .hljs-link {
+.qtcreator_light .hljs-string,
+.qtcreator_light .hljs-selector-id,
+.qtcreator_light .hljs-selector-attr,
+.qtcreator_light .hljs-selector-pseudo,
+.qtcreator_light .hljs-type,
+.qtcreator_light .hljs-built_in,
+.qtcreator_light .hljs-builtin-name,
+.qtcreator_light .hljs-template-tag,
+.qtcreator_light .hljs-template-variable,
+.qtcreator_light .hljs-addition,
+.qtcreator_light .hljs-link {
   color: #008000;
 }
-.qtcreatorLight .hljs-comment,
-.qtcreatorLight .hljs-meta,
-.qtcreatorLight .hljs-deletion {
+.qtcreator_light .hljs-comment,
+.qtcreator_light .hljs-meta,
+.qtcreator_light .hljs-deletion {
   color: #008000;
 }

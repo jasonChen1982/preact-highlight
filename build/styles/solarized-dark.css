@@ -1,62 +1,62 @@
-.solarizedDark .hljs {
+.solarized-dark .hljs {
   display: block;
   overflow-x: auto;
   padding: 0.5em;
   background: #002b36;
   color: #839496;
 }
-.solarizedDark .hljs-comment,
-.solarizedDark .hljs-quote {
+.solarized-dark .hljs-comment,
+.solarized-dark .hljs-quote {
   color: #586e75;
 }
-.solarizedDark .hljs-keyword,
-.solarizedDark .hljs-selector-tag,
-.solarizedDark .hljs-addition {
+.solarized-dark .hljs-keyword,
+.solarized-dark .hljs-selector-tag,
+.solarized-dark .hljs-addition {
   color: #859900;
 }
-.solarizedDark .hljs-number,
-.solarizedDark .hljs-string,
-.solarizedDark .hljs-meta .hljs-meta-string,
-.solarizedDark .hljs-literal,
-.solarizedDark .hljs-doctag,
-.solarizedDark .hljs-regexp {
+.solarized-dark .hljs-number,
+.solarized-dark .hljs-string,
+.solarized-dark .hljs-meta .hljs-meta-string,
+.solarized-dark .hljs-literal,
+.solarized-dark .hljs-doctag,
+.solarized-dark .hljs-regexp {
   color: #2aa198;
 }
-.solarizedDark .hljs-title,
-.solarizedDark .hljs-section,
-.solarizedDark .hljs-name,
-.solarizedDark .hljs-selector-id,
-.solarizedDark .hljs-selector-class {
+.solarized-dark .hljs-title,
+.solarized-dark .hljs-section,
+.solarized-dark .hljs-name,
+.solarized-dark .hljs-selector-id,
+.solarized-dark .hljs-selector-class {
   color: #268bd2;
 }
-.solarizedDark .hljs-attribute,
-.solarizedDark .hljs-attr,
-.solarizedDark .hljs-variable,
-.solarizedDark .hljs-template-variable,
-.solarizedDark .hljs-class .hljs-title,
-.solarizedDark .hljs-type {
+.solarized-dark .hljs-attribute,
+.solarized-dark .hljs-attr,
+.solarized-dark .hljs-variable,
+.solarized-dark .hljs-template-variable,
+.solarized-dark .hljs-class .hljs-title,
+.solarized-dark .hljs-type {
   color: #b58900;
 }
-.solarizedDark .hljs-symbol,
-.solarizedDark .hljs-bullet,
-.solarizedDark .hljs-subst,
-.solarizedDark .hljs-meta,
-.solarizedDark .hljs-meta .hljs-keyword,
-.solarizedDark .hljs-selector-attr,
-.solarizedDark .hljs-selector-pseudo,
-.solarizedDark .hljs-link {
+.solarized-dark .hljs-symbol,
+.solarized-dark .hljs-bullet,
+.solarized-dark .hljs-subst,
+.solarized-dark .hljs-meta,
+.solarized-dark .hljs-meta .hljs-keyword,
+.solarized-dark .hljs-selector-attr,
+.solarized-dark .hljs-selector-pseudo,
+.solarized-dark .hljs-link {
   color: #cb4b16;
 }
-.solarizedDark .hljs-built_in,
-.solarizedDark .hljs-deletion {
+.solarized-dark .hljs-built_in,
+.solarized-dark .hljs-deletion {
   color: #dc322f;
 }
-.solarizedDark .hljs-formula {
+.solarized-dark .hljs-formula {
   background: #073642;
 }
-.solarizedDark .hljs-emphasis {
+.solarized-dark .hljs-emphasis {
   font-style: italic;
 }
-.solarizedDark .hljs-strong {
+.solarized-dark .hljs-strong {
   font-weight: bold;
 }

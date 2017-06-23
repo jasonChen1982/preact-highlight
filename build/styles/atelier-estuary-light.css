@@ -1,62 +1,62 @@
-.atelierEstuaryLight .hljs-comment,
-.atelierEstuaryLight .hljs-quote {
+.atelier-estuary-light .hljs-comment,
+.atelier-estuary-light .hljs-quote {
   color: #6c6b5a;
 }
-.atelierEstuaryLight .hljs-variable,
-.atelierEstuaryLight .hljs-template-variable,
-.atelierEstuaryLight .hljs-attribute,
-.atelierEstuaryLight .hljs-tag,
-.atelierEstuaryLight .hljs-name,
-.atelierEstuaryLight .hljs-regexp,
-.atelierEstuaryLight .hljs-link,
-.atelierEstuaryLight .hljs-selector-id,
-.atelierEstuaryLight .hljs-selector-class {
+.atelier-estuary-light .hljs-variable,
+.atelier-estuary-light .hljs-template-variable,
+.atelier-estuary-light .hljs-attribute,
+.atelier-estuary-light .hljs-tag,
+.atelier-estuary-light .hljs-name,
+.atelier-estuary-light .hljs-regexp,
+.atelier-estuary-light .hljs-link,
+.atelier-estuary-light .hljs-selector-id,
+.atelier-estuary-light .hljs-selector-class {
   color: #ba6236;
 }
-.atelierEstuaryLight .hljs-number,
-.atelierEstuaryLight .hljs-meta,
-.atelierEstuaryLight .hljs-built_in,
-.atelierEstuaryLight .hljs-builtin-name,
-.atelierEstuaryLight .hljs-literal,
-.atelierEstuaryLight .hljs-type,
-.atelierEstuaryLight .hljs-params {
+.atelier-estuary-light .hljs-number,
+.atelier-estuary-light .hljs-meta,
+.atelier-estuary-light .hljs-built_in,
+.atelier-estuary-light .hljs-builtin-name,
+.atelier-estuary-light .hljs-literal,
+.atelier-estuary-light .hljs-type,
+.atelier-estuary-light .hljs-params {
   color: #ae7313;
 }
-.atelierEstuaryLight .hljs-string,
-.atelierEstuaryLight .hljs-symbol,
-.atelierEstuaryLight .hljs-bullet {
+.atelier-estuary-light .hljs-string,
+.atelier-estuary-light .hljs-symbol,
+.atelier-estuary-light .hljs-bullet {
   color: #7d9726;
 }
-.atelierEstuaryLight .hljs-title,
-.atelierEstuaryLight .hljs-section {
+.atelier-estuary-light .hljs-title,
+.atelier-estuary-light .hljs-section {
   color: #36a166;
 }
-.atelierEstuaryLight .hljs-keyword,
-.atelierEstuaryLight .hljs-selector-tag {
+.atelier-estuary-light .hljs-keyword,
+.atelier-estuary-light .hljs-selector-tag {
   color: #5f9182;
 }
-.atelierEstuaryLight .hljs-deletion,
-.atelierEstuaryLight .hljs-addition {
+.atelier-estuary-light .hljs-deletion,
+.atelier-estuary-light .hljs-addition {
   color: #22221b;
   display: inline-block;
   width: 100%;
 }
-.atelierEstuaryLight .hljs-deletion {
+.atelier-estuary-light .hljs-deletion {
   background-color: #ba6236;
 }
-.atelierEstuaryLight .hljs-addition {
+.atelier-estuary-light .hljs-addition {
   background-color: #7d9726;
 }
-.atelierEstuaryLight .hljs {
+.atelier-estuary-light .hljs {
   display: block;
   overflow-x: auto;
   background: #f4f3ec;
   color: #5f5e4e;
   padding: 0.5em;
 }
-.atelierEstuaryLight .hljs-emphasis {
+.atelier-estuary-light .hljs-emphasis {
   font-style: italic;
 }
-.atelierEstuaryLight .hljs-strong {
+.atelier-estuary-light .hljs-strong {
   font-weight: bold;
 }

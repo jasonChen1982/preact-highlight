@@ -1,56 +1,56 @@
-.githubGist .hljs {
+.github-gist .hljs {
   display: block;
   background: #fff;
   padding: 0.5em;
   color: #333;
   overflow-x: auto;
 }
-.githubGist .hljs-comment,
-.githubGist .hljs-meta {
+.github-gist .hljs-comment,
+.github-gist .hljs-meta {
   color: #969896;
 }
-.githubGist .hljs-string,
-.githubGist .hljs-variable,
-.githubGist .hljs-template-variable,
-.githubGist .hljs-strong,
-.githubGist .hljs-emphasis,
-.githubGist .hljs-quote {
+.github-gist .hljs-string,
+.github-gist .hljs-variable,
+.github-gist .hljs-template-variable,
+.github-gist .hljs-strong,
+.github-gist .hljs-emphasis,
+.github-gist .hljs-quote {
   color: #df5000;
 }
-.githubGist .hljs-keyword,
-.githubGist .hljs-selector-tag,
-.githubGist .hljs-type {
+.github-gist .hljs-keyword,
+.github-gist .hljs-selector-tag,
+.github-gist .hljs-type {
   color: #a71d5d;
 }
-.githubGist .hljs-literal,
-.githubGist .hljs-symbol,
-.githubGist .hljs-bullet,
-.githubGist .hljs-attribute {
+.github-gist .hljs-literal,
+.github-gist .hljs-symbol,
+.github-gist .hljs-bullet,
+.github-gist .hljs-attribute {
   color: #0086b3;
 }
-.githubGist .hljs-section,
-.githubGist .hljs-name {
+.github-gist .hljs-section,
+.github-gist .hljs-name {
   color: #63a35c;
 }
-.githubGist .hljs-tag {
+.github-gist .hljs-tag {
   color: #333;
 }
-.githubGist .hljs-title,
-.githubGist .hljs-attr,
-.githubGist .hljs-selector-id,
-.githubGist .hljs-selector-class,
-.githubGist .hljs-selector-attr,
-.githubGist .hljs-selector-pseudo {
+.github-gist .hljs-title,
+.github-gist .hljs-attr,
+.github-gist .hljs-selector-id,
+.github-gist .hljs-selector-class,
+.github-gist .hljs-selector-attr,
+.github-gist .hljs-selector-pseudo {
   color: #795da3;
 }
-.githubGist .hljs-addition {
+.github-gist .hljs-addition {
   color: #55a532;
   background-color: #eaffea;
 }
-.githubGist .hljs-deletion {
+.github-gist .hljs-deletion {
   color: #bd2c00;
   background-color: #ffecec;
 }
-.githubGist .hljs-link {
+.github-gist .hljs-link {
   text-decoration: underline;
 }
