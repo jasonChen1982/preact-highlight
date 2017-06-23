@@ -10,10 +10,17 @@ var utils = require('./utils');
 var CACHE_STYLES = {};
 
 function themeManger(theme) {
-  if (!THEME[theme]) return;
-  if (!CACHE_STYLES[theme] && isBrowser) {
-    CACHE_STYLES[theme] = '';
-    console.log(utils.cdn(version, THEME[theme]));
+  if (!THEME[theme] || !isBrowser) return;
+  var doc = document;
+  var headDoc = doc.head;
+  if (!CACHE_STYLES[theme]) {
+    var link = doc.createElement('link');
+    var url = utils.cdn(version, THEME[theme]);
+    link.setAttribute('href', url);
+    link.setAttribute('rel', 'stylesheet');
+    CACHE_STYLES[theme] = true;
+    headDoc.appendChild(link);
+    console.log(url);
   }
 }
 
