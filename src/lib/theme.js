@@ -16,7 +16,6 @@ function themeManger(theme) {
     link.setAttribute('rel', 'stylesheet');
     CACHE_STYLES[theme] = true;
     headDoc.appendChild(link);
-    console.log(url);
   }
 }
 
