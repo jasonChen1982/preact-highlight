@@ -1,12 +1,12 @@
 {
-    "presets": ["env"],
-    "plugins": [
-        "transform-object-assign",
-        [
-            "transform-react-jsx",
-            {
-                "pragma": "h"
-            }
-        ]
+  "presets": ["env"],
+  "plugins": [
+    "transform-object-assign",
+    [
+      "transform-react-jsx",
+      {
+        "pragma": "h"
+      }
     ]
+  ]
 }
