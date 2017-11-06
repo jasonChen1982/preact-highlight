@@ -35,6 +35,9 @@
       "postbump": "npm run theme"
     }
   },
+  "peerDependencies": {
+    "preact": "^6.4.0"
+  },
   "dependencies": {
     "highlight.js": "^9.12.0"
   },
@@ -47,7 +50,6 @@
     "eslint": "^4.0.0",
     "eslint-config-egg": "^4.2.1",
     "mkdirp": "^0.5.1",
-    "preact": "^8.2.6",
     "standard-version": "^4.2.0",
     "stylus": "^0.54.5"
   }
